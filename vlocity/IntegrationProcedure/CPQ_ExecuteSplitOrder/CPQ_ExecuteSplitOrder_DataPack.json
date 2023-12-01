@@ -1,0 +1,22 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "ExecuteSplitOrder",
+    "OmniProcessElement": "CPQ_ExecuteSplitOrder_Element_ExecuteSplitOrder.json",
+    "OmniProcessKey": "CPQ_ExecuteSplitOrder",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "CPQ_ExecuteSplitOrder_PropertySetConfig.json",
+    "SubType": "ExecuteSplitOrder",
+    "Type": "CPQ",
+    "UniqueName": "CPQ_ExecuteSplitOrder_Procedure_4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/CPQ/ExecuteSplitOrder/Procedure",
+    "WebComponentKey": "176740b1-008a-c1d0-4131-de02dd8d0f7a"
+}

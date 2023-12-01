@@ -1,0 +1,22 @@
+{
+    "CustomJavaScript": "CPQ_UpdateCartGroupIds_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "CPQ_UpdateCartGroupIds",
+    "OmniProcessElement": "CPQ_UpdateCartGroupIds_Element_UpdateGroupCartIdRemoteAction.json",
+    "OmniProcessKey": "CPQ_UpdateCartGroupIds",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "CPQ_UpdateCartGroupIds_PropertySetConfig.json",
+    "SubType": "UpdateCartGroupIds",
+    "Type": "CPQ",
+    "UniqueName": "CPQ_UpdateCartGroupIds_Procedure_4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/CPQ/UpdateCartGroupIds/Procedure",
+    "WebComponentKey": "d617ef0f-ba02-74b2-1c1d-f8a05f8fe535"
+}

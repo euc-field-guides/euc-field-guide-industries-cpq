@@ -1,0 +1,26 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "AddToMemberBatchCall",
+    "OmniProcessElement": [
+        "AddQMQGToWC_CopyToEQBatch_Element_ContextMapping.json",
+        "AddQMQGToWC_CopyToEQBatch_Element_InvokeAddToMemberBatchApex.json",
+        "AddQMQGToWC_CopyToEQBatch_Element_ResponseAction.json"
+    ],
+    "OmniProcessKey": "AddQMQGToWC_CopyToEQBatch",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "AddQMQGToWC_CopyToEQBatch_PropertySetConfig.json",
+    "SubType": "CopyToEQBatch",
+    "Type": "AddQMQGToWC",
+    "UniqueName": "AddQMQGToWC_CopyToEQBatch_Procedure_4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/AddQMQGToWC/CopyToEQBatch/Procedure",
+    "WebComponentKey": "5ddecb98-fe37-1851-629d-608b681f2f79"
+}

@@ -1,0 +1,33 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+            "isReverse": false,
+            "name": ""
+        },
+        "type": "Custom",
+        "value": {
+            "body": "{}",
+            "dsDelay": "",
+            "resultVar": ""
+        }
+    },
+    "Description": "This flexcard will display the total bar at the bottom of the product/offer configure modal in working cart.",
+    "IsTrackingEnabled": false,
+    "Name": "cpqProductConfigureTotalBar",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqProductConfigureTotalBar/Vlocity/13/1657017392832",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqProductConfigureTotalBar.json",
+    "SampleDataSourceResponse": "{}",
+    "StylingConfiguration": "{\"customStyles\":\"\"}",
+    "UniqueName": "cpqProductConfigureTotalBar_Vlocity_4",
+    "VersionNumber": 4,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqProductConfigureTotalBar"
+}

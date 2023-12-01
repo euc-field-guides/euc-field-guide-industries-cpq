@@ -1,0 +1,23 @@
+{
+    "CustomJavaScript": "{}",
+    "Description": "This is executed after Pricing is complete",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Finish Cart Pricing",
+    "OmniProcessElement": "MultiService_FinishCartPricing_Element_GroupRollupVIP.json",
+    "OmniProcessKey": "MultiService_FinishCartPricing",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "MultiService_FinishCartPricing_PropertySetConfig.json",
+    "SubType": "FinishCartPricing",
+    "Type": "MultiService",
+    "UniqueName": "MultiService_FinishCartPricing_Procedure_4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/MultiService/FinishCartPricing/Procedure",
+    "WebComponentKey": "d1d6779e-1ab2-996a-fce8-2ab08df07a7e"
+}

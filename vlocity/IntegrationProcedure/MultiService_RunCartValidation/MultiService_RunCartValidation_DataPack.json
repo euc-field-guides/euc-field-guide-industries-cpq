@@ -1,0 +1,23 @@
+{
+    "CustomJavaScript": "{}",
+    "Description": "This method runs cart validation on carts that are associated with MultiSite group members.",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Run Cart Validation",
+    "OmniProcessElement": "MultiService_RunCartValidation_Element_RunCartValidation.json",
+    "OmniProcessKey": "MultiService_RunCartValidation",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "MultiService_RunCartValidation_PropertySetConfig.json",
+    "SubType": "RunCartValidation",
+    "Type": "MultiService",
+    "UniqueName": "MultiService_RunCartValidation_Procedure_4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/MultiService/RunCartValidation/Procedure",
+    "WebComponentKey": "eaf4b715-ff2c-0fd4-91ca-2bea5c4f7910"
+}

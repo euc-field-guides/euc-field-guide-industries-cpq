@@ -1,0 +1,22 @@
+{
+    "CustomJavaScript": "CPQ_SendAppNotification_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "SendAppNotification",
+    "OmniProcessElement": "CPQ_SendAppNotification_Element_SendAppNotification.json",
+    "OmniProcessKey": "CPQ_SendAppNotification",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "CPQ_SendAppNotification_PropertySetConfig.json",
+    "SubType": "SendAppNotification",
+    "Type": "CPQ",
+    "UniqueName": "CPQ_SendAppNotification_Procedure_6",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/CPQ/SendAppNotification/Procedure",
+    "WebComponentKey": "ff1d8f21-f5fb-5fbc-107d-3a3efb53c13d"
+}

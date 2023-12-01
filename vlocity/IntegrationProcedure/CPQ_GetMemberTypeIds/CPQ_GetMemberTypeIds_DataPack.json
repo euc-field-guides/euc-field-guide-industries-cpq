@@ -1,0 +1,25 @@
+{
+    "CustomJavaScript": "CPQ_GetMemberTypeIds_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "GetMemberTypeIds",
+    "OmniProcessElement": [
+        "CPQ_GetMemberTypeIds_Element_GetMemberIdsFromLineItems.json",
+        "CPQ_GetMemberTypeIds_Element_GetMemberTypeResponse.json"
+    ],
+    "OmniProcessKey": "CPQ_GetMemberTypeIds",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "CPQ_GetMemberTypeIds_PropertySetConfig.json",
+    "SubType": "GetMemberTypeIds",
+    "Type": "CPQ",
+    "UniqueName": "CPQ_GetMemberTypeIds_Procedure_4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/CPQ/GetMemberTypeIds/Procedure",
+    "WebComponentKey": "1482106b-f0cc-28b4-33a1-ce5a490b900e"
+}

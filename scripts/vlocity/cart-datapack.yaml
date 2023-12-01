@@ -1,0 +1,2 @@
+projectPath: vlocityDataPacks
+StaticResourceQuery: Select Name, Body from StaticResource where Name = 'CPQ_DR_IP_OS_OSEnabled'

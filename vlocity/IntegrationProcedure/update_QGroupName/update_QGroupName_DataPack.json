@@ -1,0 +1,26 @@
+{
+    "CustomJavaScript": "update_QGroupName_SampleInput.json",
+    "Description": "B2B Express: Update Quote Group Name.",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "UpdateQuoteGroupName",
+    "OmniProcessElement": [
+        "update_QGroupName_Element_UpdateQGName.json",
+        "update_QGroupName_Element_ResponseAction1.json"
+    ],
+    "OmniProcessKey": "update_QGroupName",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "update_QGroupName_PropertySetConfig.json",
+    "SubType": "QGroupName",
+    "Type": "update",
+    "UniqueName": "update_QGroupName_Procedure_4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/update/QGroupName/Procedure",
+    "WebComponentKey": "070e3a43-a273-9228-1810-c354b7115829"
+}

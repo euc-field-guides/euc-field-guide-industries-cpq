@@ -1,0 +1,22 @@
+{
+    "CustomJavaScript": "CPQ_ExecuteReplaceOffer_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "ExecuteReplaceOffer",
+    "OmniProcessElement": "CPQ_ExecuteReplaceOffer_Element_ReplaceOffers.json",
+    "OmniProcessKey": "CPQ_ExecuteReplaceOffer",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "CPQ_ExecuteReplaceOffer_PropertySetConfig.json",
+    "SubType": "ExecuteReplaceOffer",
+    "Type": "CPQ",
+    "UniqueName": "CPQ_ExecuteReplaceOffer_Procedure_4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/CPQ/ExecuteReplaceOffer/Procedure",
+    "WebComponentKey": "4ceb31ce-d78e-8c87-8a06-577371b3e6e7"
+}

@@ -1,0 +1,28 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+        },
+        "type": null,
+        "value": {
+        }
+    },
+    "Description": "Display Premises Grid Table",
+    "IsTrackingEnabled": false,
+    "Name": "cpqMultisitePremisesContainer",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqMultisitePremisesContainer/Vlocity/1/1635848545966",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqMultisitePremisesContainer.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "",
+    "UniqueName": "cpqMultisitePremisesContainer_Vlocity_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqMultisitePremisesContainer"
+}

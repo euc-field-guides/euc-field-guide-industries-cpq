@@ -1,0 +1,33 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+            "isReverse": false,
+            "name": ""
+        },
+        "type": "Custom",
+        "value": {
+            "body": "{\"applyto\" : \"all\"}",
+            "dsDelay": "",
+            "resultVar": ""
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqCreateCustomDiscountApplyToggle",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqCreateCustomDiscountApplyToggle/Vlocity/1/1623830683320",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqCreateCustomDiscountApplyToggle.json",
+    "SampleDataSourceResponse": "{\"applyto\":\"all\"}",
+    "StylingConfiguration": "",
+    "UniqueName": "cpqCreateCustomDiscountApplyToggle_Vlocity_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqCreateCustomDiscountApplyToggle"
+}

@@ -1,0 +1,25 @@
+{
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "Multi-Language",
+    "Name": "ApproveDiscountItems",
+    "OmniProcessElement": [
+        "LWCCPQ_ApproveDiscountItems_Multi-Language_Element_CallSubmitDiscountsIP.json",
+        "LWCCPQ_ApproveDiscountItems_Multi-Language_Element_DiscountApprovalStep.json",
+        "LWCCPQ_ApproveDiscountItems_Multi-Language_Element_cpqDiscountApprovalUtil.json",
+        "LWCCPQ_ApproveDiscountItems_Multi-Language_Element_DiscountApprovalMessage.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "LWCCPQ_ApproveDiscountItems_Multi-Language_PropertySetConfig.json",
+    "SubType": "ApproveDiscountItems",
+    "Type": "LWCCPQ",
+    "UniqueName": "LWCCPQ_ApproveDiscountItems_multiLanguage_1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/LWCCPQ/ApproveDiscountItems/Multi-Language",
+    "WebComponentKey": "a368a935-1406-312f-36a6-dc8b041e6b5a"
+}

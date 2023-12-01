@@ -1,0 +1,6 @@
+[
+    "DataRaptor/GetAllRootLineItemsByQuote",
+    "DataRaptor/GetGroupSize",
+    "DataRaptor/RemoveQMsQuoteGroup",
+    "DataRaptor/UpdateLineItemsQuantity"
+]
