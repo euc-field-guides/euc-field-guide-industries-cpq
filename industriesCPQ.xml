@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Industries_CPQ</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Industries_CPQ_UtilityBar</members>
+        <members>OSE_CPQOpportunityRecordPage</members>
+        <members>OSE_CPQOrderRecordPage</members>
+        <members>OSE_CPQQuoteRecordPage</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Opportunity.New_MultiSite_Order</members>
+        <members>Opportunity.New_MultiSite_Quote</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
+        <members>Opportunity.Add_Products</members>
+        <members>Order.Add_Products</members>
+        <members>Quote.Add_Products</members>
+        <members>Quote.CreateOrder</members>
+        <name>WebLink</name>
+    </types>
+    <version>59.0</version>
+</Package>

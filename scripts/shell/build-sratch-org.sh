@@ -129,5 +129,18 @@ echo "--> After packRetry #5 errors:"
 
 awk '/Error:/ {value = $2} END {print value}' VlocityBuildLog.yaml
 
+echo "--> "
+echo "--> Deploying metadata"
+
+RES=$(sf project deploy start)
+
+if [ "$?" = "1" ]
+then
+  echo "--> "
+  echo "--> Oops: That didn't work!"
+  read -n 1 -s -r -p "--> Press any key to continue"
+  exit
+fi
+
 read -n 1 -s -r -p "--> Press any key to continue"
 echo " "

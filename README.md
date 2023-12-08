@@ -1,8 +1,15 @@
-# Salesforce DX Project: Next Steps
+# Field Guide: Energy Cloud Basic Environment
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This field guide describes how to configure and build a scratch org with Energy and Utilities Cloud installed and configured to enable Omnistudio Metadata as well as Standard Runtime. Currently included in the basic environment:
+- Scratch Org Definition file
+- Package install (FSL and EUC)
+- 
 
-## How Do You Plan to Deploy Your Changes?
+## Backlog
+
+- Sample Data
+- Remote Site Settings & CORS
+
 
 Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
