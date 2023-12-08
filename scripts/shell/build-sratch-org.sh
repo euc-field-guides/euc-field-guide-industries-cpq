@@ -51,14 +51,12 @@ read -n 1 -s -r -p "--> Press any key to continue"
 
 # INSTALL FSL
 
-RES=$(sf project deploy start --metadata-dir managed_packages/fsl_package --wait 1 -o "${ORG_NAME}")
+RES=$(sf project deploy start --metadata-dir managed_packages/fsl_package --wait 180 -o "${ORG_NAME}")
 if [ "$?" = "1" ]
 then
   echo "--> "
-    echo "--> ERROR: Can't install FSL."
-  echo "--> "
-    read -n 1 -s -r -p "--> Press any key to continue"
-    exit
+  echo "--> Oops: Timeout, let's try reopen deploy"
+  sf project deploy resume --use-most-recent
 fi
 
 echo "--> "
@@ -66,15 +64,13 @@ echo "--> FSL installed successfully..."
 
 # INSTALL SFI
 
-RES=$(sf project deploy start --metadata-dir managed_packages/vlocity_package -o "${ORG_NAME}")
+RES=$(sf project deploy start --metadata-dir managed_packages/vlocity_package --wait 180 -o "${ORG_NAME}")
 
 if [ "$?" = "1" ]
 then
   echo "--> "
-    echo "--> ERROR: Can't install Salesforce Industries."
-  echo "--> "
-    read -n 1 -s -r -p "--> Press any key to continue"
-    exit
+  echo "--> Oops: Timeout, let's try reopen deploy"
+  sf project deploy resume --use-most-recent
 fi
 
 echo "--> "
@@ -87,8 +83,26 @@ vlocity -sfdx.username "${ORG_NAME}" --nojob runJavaScript -js updateProfile.js
 
 echo "--> "
 echo "--> Done with that."
+echo "--> "
+echo "--> Attempting to deploy CPQ cart..."
+echo "--> "
+
+RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packDeploy)
+awk '/Error:/ {value = $2} END {print value}' VlocityBuildLog.yaml
+
+RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
 
 
+RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
+
+
+RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
+
+
+RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
+
+
+RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
 
 
 read -n 1 -s -r -p "--> Press any key to continue"

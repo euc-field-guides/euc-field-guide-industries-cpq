@@ -1,0 +1,123 @@
+{
+    "projectPath": "vlocity",
+    "queries": [
+        {
+            "VlocityDataPackType": "OmniScript",
+            "query": "Select Id, Type__c, SubType__c, Language__c, IsLwcEnabled__c from OmniScript__c WHERE IsActive__c = true AND IsProcedure__c = false"
+        },
+        {
+            "VlocityDataPackType": "IntegrationProcedure",
+            "query": "Select Id, Type__c, SubType__c from OmniScript__c WHERE IsActive__c = true AND IsProcedure__c = true"
+        },
+        {
+            "VlocityDataPackType": "DataRaptor",
+            "query": "Select Id, Name from DRBundle__c WHERE Type__c != 'Migration'"
+        },
+        {
+            "VlocityDataPackType": "FlexCard",
+            "query": "SELECT Id, Name FROM OmniUiCard WHERE IsActive = true",
+            "standardOnly": true
+        }
+    ],
+    "jobName": "scripts/vlocity/cart-omni.yaml",
+    "job": "scripts/vlocity/cart-omni.yaml",
+    "sfdx.username": "Dry Run",
+    "tempFolder": "./vlocity-temp/",
+    "source": "local",
+    "target": "local",
+    "sfdxUsername": "Dry Run",
+    "passedInOptionsOverride": {
+        "job": "scripts/vlocity/cart-omni.yaml",
+        "sfdx.username": "Dry Run"
+    },
+    "jobAction": "Deploy",
+    "expansionPath": ".",
+    "buildFile": "AllDataPacks.json",
+    "postStepApex": {
+        "Deploy": {
+            "Product2": {
+                "apexClass": "EPCProductJSONUpdate.cls",
+                "namespace": "vlocity_cmt"
+            }
+        }
+    },
+    "delete": true,
+    "activate": true,
+    "compileOnBuild": true,
+    "maxDepth": -1,
+    "defaultMaxParallel": 20,
+    "defaultMinToWaitForLWCOmniScript": 10,
+    "defaultMinToWaitForLWCClassicCards": 10,
+    "defaultMinToWaitForLWCFlexCards": 5,
+    "defaultLWCPullTimeInSeconds": 5,
+    "loginTimeoutForLoginLWC": 300000,
+    "puppeteerHeadless": true,
+    "lookForParentLayoutsForlWCCards": true,
+    "exportPacksMaxSize": 5,
+    "useAllRelationships": false,
+    "ignoreAllErrors": false,
+    "addSourceKeys": false,
+    "maximumDeployCount": 10,
+    "manifestOnly": false,
+    "autoUpdateSettings": true,
+    "supportHeadersOnly": true,
+    "allowHeadersPartial": true,
+    "supportForceDeploy": true,
+    "strict": false,
+    "cleanTestData": true,
+    "autoFixPicklists": true,
+    "reactivateOmniScriptsWhenEmbeddedTemplateFound": false,
+    "autoFixDeployErrors": {
+        "AttributeCategoryDisplaySequence": true
+    },
+    "tests": [
+        "Local",
+        "Org"
+    ],
+    "npmRepository": "https://repo.vlocity.com/repository/vlocity-public/",
+    "startTime": 1701438939329,
+    "originalAction": "Deploy",
+    "logName": "scripts/vlocity/cart-omni-yaml-2023-12-01T13-55-41-132Z-Deploy.yaml",
+    "alreadyExportedKeys": [],
+    "allParents": [],
+    "errors": [
+        "TypeError: Cannot read properties of null (reading 'replace')\n    at DataPacksUtils.getExpandedDefinition (/home/codebuilder/.npm-packages/lib/node_modules/vlocity/lib/datapacksutils.js:433:35)\n    at DataPacksUtils.isDeployLast (/home/codebuilder/.npm-packages/lib/node_modules/vlocity/lib/datapacksutils.js:358:17)\n    at /home/codebuilder/.npm-packages/lib/node_modules/vlocity/lib/datapacksbuilder.js:686:45\n    at Array.forEach (<anonymous>)\n    at DataPacksBuilder.getNextImports (/home/codebuilder/.npm-packages/lib/node_modules/vlocity/lib/datapacksbuilder.js:682:40)\n    at DataPacksBuilder.buildImport (/home/codebuilder/.npm-packages/lib/node_modules/vlocity/lib/datapacksbuilder.js:144:28)\n    at async DataPacksJob.deployJob (/home/codebuilder/.npm-packages/lib/node_modules/vlocity/lib/datapacksjob.js:2657:28)\n    at async DataPacksJob.doRunJob (/home/codebuilder/.npm-packages/lib/node_modules/vlocity/lib/datapacksjob.js:339:9)\n    at async DataPacksJob.runJobWithInfo (/home/codebuilder/.npm-packages/lib/node_modules/vlocity/lib/datapacksjob.js:293:9)\n    at async DataPacksJob.runJob (/home/codebuilder/.npm-packages/lib/node_modules/vlocity/lib/datapacksjob.js:95:26)"
+    ],
+    "report": [],
+    "postDeployResults": [],
+    "preDeployDataSummary": [],
+    "refreshVlocityBase": [],
+    "expandedDataPacks": [],
+    "currentStatus": {},
+    "currentErrors": {},
+    "parallelStatus": {},
+    "sourceKeysByParent": {},
+    "alreadyExportedIdsByType": {},
+    "alreadyErroredIdsByType": {},
+    "alreadyRetriedIdsByType": {},
+    "keyToType": {},
+    "vlocityKeysToNewNamesMap": {},
+    "vlocityRecordSourceKeyMap": {},
+    "VlocityDataPackIds": {},
+    "generatedKeysToNames": {},
+    "sourceKeyToRecordId": {},
+    "sourceKeyToMatchingKeysData": {},
+    "dataPackKeyToPrimarySourceKey": {},
+    "diffType": {},
+    "sourceHashCodes": {},
+    "targetHashCodes": {},
+    "fullManifest": {},
+    "manifestFound": {},
+    "dataPackDisplayLabels": {},
+    "allDataSummary": {},
+    "pendingFromManifest": {},
+    "keysToDirectories": {},
+    "VlocityDataPackKeyToUrlMapping": {},
+    "relationshipKeyToChildKeys": {},
+    "dataPackLabelsByDir": {},
+    "upgradeDataPackFields": false,
+    "supportParallel": true,
+    "resetFileData": true,
+    "hasError": true,
+    "records": []
+}
