@@ -1,0 +1,13 @@
+Name: Guided Selling
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - FlexCard/cpqGuidedContainer
+    - FlexCard/guidedJourneyFireFC
+    - OmniScript/CPQGuided_ProductSelection_English
+    - lwc/guidedJourneyFire
+VlocityTypesToFetch:
+    - FlexCard
+    - OmniScript
+SalesforceTypesToFetch:
+    - FlexiPage
+    - LightningComponentBundle
