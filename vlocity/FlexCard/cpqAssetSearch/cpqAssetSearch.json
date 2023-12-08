@@ -46,7 +46,7 @@
         "Id": "0Rb5g000000pVE1CAM",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqAssetSearch_1_CPQ1",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "sessionVars": [

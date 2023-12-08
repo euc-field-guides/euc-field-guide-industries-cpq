@@ -31,7 +31,7 @@
         "Id": "0Rb5e000002RSkwCAG",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartItemsAction_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,
@@ -79,7 +79,7 @@
                                             "value": "undefined"
                                         },
                                         {
-                                            "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                            "field": "vlocity_cmt__SupplementalAction__c.value",
                                             "hasMergeField": false,
                                             "id": "state-new-condition-52",
                                             "logicalOperator": "&&",
@@ -169,7 +169,7 @@
                                         "actionConditions": {
                                             "group": [
                                                 {
-                                                    "field": "%vlocity_namespace%__RecurringCharge__c.actions.applyadjustment",
+                                                    "field": "vlocity_cmt__RecurringCharge__c.actions.applyadjustment",
                                                     "hasMergeField": false,
                                                     "id": "state-new-condition-9",
                                                     "operator": "!=",
@@ -257,7 +257,7 @@
                                                     "value": "undefined"
                                                 },
                                                 {
-                                                    "field": "%vlocity_namespace%__Action__c.value",
+                                                    "field": "vlocity_cmt__Action__c.value",
                                                     "hasMergeField": false,
                                                     "id": "state-new-condition-17",
                                                     "logicalOperator": "&&",
@@ -397,7 +397,7 @@
                                                     "value": "undefined"
                                                 },
                                                 {
-                                                    "field": "%vlocity_namespace%__Action__c.value",
+                                                    "field": "vlocity_cmt__Action__c.value",
                                                     "hasMergeField": false,
                                                     "id": "state-new-condition-7",
                                                     "logicalOperator": "&&",
@@ -578,7 +578,7 @@
                                                     "value": "summaryview"
                                                 },
                                                 {
-                                                    "field": "%vlocity_namespace%__Action__c.value",
+                                                    "field": "vlocity_cmt__Action__c.value",
                                                     "hasMergeField": false,
                                                     "id": "state-new-condition-51",
                                                     "logicalOperator": "||",
@@ -600,7 +600,7 @@
                                             "logicalOperator": "&&"
                                         },
                                         {
-                                            "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                            "field": "vlocity_cmt__SupplementalAction__c.value",
                                             "hasMergeField": false,
                                             "id": "state-new-condition-68",
                                             "logicalOperator": "||",

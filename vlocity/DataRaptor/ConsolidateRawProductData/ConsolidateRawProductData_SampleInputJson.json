@@ -1,7 +1,7 @@
 {
     "GroupDetailsRaw": [
         {
-            "%vlocity_namespace%__AsyncJobId__c": {
+            "vlocity_cmt__AsyncJobId__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -16,7 +16,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__AsyncOperation__c": {
+            "vlocity_cmt__AsyncOperation__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -31,7 +31,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__Description__c": {
+            "vlocity_cmt__Description__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -46,7 +46,7 @@
                 "previousValue": null,
                 "value": "01t4x000000wlJoAAI"
             },
-            "%vlocity_namespace%__GroupCartId__c": {
+            "vlocity_cmt__GroupCartId__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -61,16 +61,16 @@
                 "previousValue": null,
                 "value": "8014x000000lQvFAAU"
             },
-            "%vlocity_namespace%__GroupCartId__r": {
-                "%vlocity_namespace%__DefaultPremisesId__c": null,
-                "%vlocity_namespace%__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
-                "%vlocity_namespace%__DefaultServicePointId__c": null,
-                "%vlocity_namespace%__IsPriced__c": false,
-                "%vlocity_namespace%__IsValidated__c": false,
-                "%vlocity_namespace%__MultiServiceMessageData__c": null,
-                "%vlocity_namespace%__TrackingNumber__c": null
+            "vlocity_cmt__GroupCartId__r": {
+                "vlocity_cmt__DefaultPremisesId__c": null,
+                "vlocity_cmt__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
+                "vlocity_cmt__DefaultServicePointId__c": null,
+                "vlocity_cmt__IsPriced__c": false,
+                "vlocity_cmt__IsValidated__c": false,
+                "vlocity_cmt__MultiServiceMessageData__c": null,
+                "vlocity_cmt__TrackingNumber__c": null
             },
-            "%vlocity_namespace%__HasUnappliedGroupItems__c": {
+            "vlocity_cmt__HasUnappliedGroupItems__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -85,7 +85,7 @@
                 "previousValue": null,
                 "value": true
             },
-            "%vlocity_namespace%__HasUnappliedMembers__c": {
+            "vlocity_cmt__HasUnappliedMembers__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -100,7 +100,7 @@
                 "previousValue": null,
                 "value": false
             },
-            "%vlocity_namespace%__LockedBy__c": {
+            "vlocity_cmt__LockedBy__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -115,7 +115,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__LockedFor__c": {
+            "vlocity_cmt__LockedFor__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -130,7 +130,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__MemberCount__c": {
+            "vlocity_cmt__MemberCount__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -145,7 +145,7 @@
                 "previousValue": null,
                 "value": 0
             },
-            "%vlocity_namespace%__MemberType__c": {
+            "vlocity_cmt__MemberType__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -160,7 +160,7 @@
                 "previousValue": null,
                 "value": "ServicePoint"
             },
-            "%vlocity_namespace%__MultiServiceMessageData__c": {
+            "vlocity_cmt__MultiServiceMessageData__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -254,9 +254,9 @@
             },
             "displaySequence": -1,
             "groupCart": {
-                "%vlocity_namespace%__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
-                "%vlocity_namespace%__IsPriced__c": false,
-                "%vlocity_namespace%__IsValidated__c": false,
+                "vlocity_cmt__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
+                "vlocity_cmt__IsPriced__c": false,
+                "vlocity_cmt__IsValidated__c": false,
                 "Id": "8014x000000lQvFAAU",
                 "attributes": {
                     "type": "Order",
@@ -264,7 +264,7 @@
                 }
             },
             "groupCartId": "8014x000000lQvFAAU",
-            "groupCartURL": "apex/%vlocity_namespace%__MultiServiceHybridCPQ?id=8014x000000lQvFAAU&parentId=null&groupCart=true&groupId=a324x000000nCyVAAU&contextId=8014x000000lQgKAAU&cartType=Order",
+            "groupCartURL": "apex/vlocity_cmt__MultiServiceHybridCPQ?id=8014x000000lQvFAAU&parentId=null&groupCart=true&groupId=a324x000000nCyVAAU&contextId=8014x000000lQgKAAU&cartType=Order",
             "groupDescription": "01t4x000000wlJoAAI",
             "groupId": "a324x000000nCyVAAU",
             "groupName": "Pixel 3",
@@ -275,7 +275,7 @@
             ]
         },
         {
-            "%vlocity_namespace%__AsyncJobId__c": {
+            "vlocity_cmt__AsyncJobId__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -290,7 +290,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__AsyncOperation__c": {
+            "vlocity_cmt__AsyncOperation__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -305,7 +305,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__Description__c": {
+            "vlocity_cmt__Description__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -320,7 +320,7 @@
                 "previousValue": null,
                 "value": "01t4x000000wlLkAAI"
             },
-            "%vlocity_namespace%__GroupCartId__c": {
+            "vlocity_cmt__GroupCartId__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -335,16 +335,16 @@
                 "previousValue": null,
                 "value": "8014x000000lQvGAAU"
             },
-            "%vlocity_namespace%__GroupCartId__r": {
-                "%vlocity_namespace%__DefaultPremisesId__c": null,
-                "%vlocity_namespace%__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
-                "%vlocity_namespace%__DefaultServicePointId__c": null,
-                "%vlocity_namespace%__IsPriced__c": false,
-                "%vlocity_namespace%__IsValidated__c": false,
-                "%vlocity_namespace%__MultiServiceMessageData__c": null,
-                "%vlocity_namespace%__TrackingNumber__c": null
+            "vlocity_cmt__GroupCartId__r": {
+                "vlocity_cmt__DefaultPremisesId__c": null,
+                "vlocity_cmt__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
+                "vlocity_cmt__DefaultServicePointId__c": null,
+                "vlocity_cmt__IsPriced__c": false,
+                "vlocity_cmt__IsValidated__c": false,
+                "vlocity_cmt__MultiServiceMessageData__c": null,
+                "vlocity_cmt__TrackingNumber__c": null
             },
-            "%vlocity_namespace%__HasUnappliedGroupItems__c": {
+            "vlocity_cmt__HasUnappliedGroupItems__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -359,7 +359,7 @@
                 "previousValue": null,
                 "value": true
             },
-            "%vlocity_namespace%__HasUnappliedMembers__c": {
+            "vlocity_cmt__HasUnappliedMembers__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -374,7 +374,7 @@
                 "previousValue": null,
                 "value": false
             },
-            "%vlocity_namespace%__LockedBy__c": {
+            "vlocity_cmt__LockedBy__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -389,7 +389,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__LockedFor__c": {
+            "vlocity_cmt__LockedFor__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -404,7 +404,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__MemberCount__c": {
+            "vlocity_cmt__MemberCount__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -419,7 +419,7 @@
                 "previousValue": null,
                 "value": 0
             },
-            "%vlocity_namespace%__MemberType__c": {
+            "vlocity_cmt__MemberType__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -434,7 +434,7 @@
                 "previousValue": null,
                 "value": "ServicePoint"
             },
-            "%vlocity_namespace%__MultiServiceMessageData__c": {
+            "vlocity_cmt__MultiServiceMessageData__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -528,9 +528,9 @@
             },
             "displaySequence": -1,
             "groupCart": {
-                "%vlocity_namespace%__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
-                "%vlocity_namespace%__IsPriced__c": false,
-                "%vlocity_namespace%__IsValidated__c": false,
+                "vlocity_cmt__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
+                "vlocity_cmt__IsPriced__c": false,
+                "vlocity_cmt__IsValidated__c": false,
                 "Id": "8014x000000lQvGAAU",
                 "attributes": {
                     "type": "Order",
@@ -538,7 +538,7 @@
                 }
             },
             "groupCartId": "8014x000000lQvGAAU",
-            "groupCartURL": "apex/%vlocity_namespace%__MultiServiceHybridCPQ?id=8014x000000lQvGAAU&parentId=null&groupCart=true&groupId=a324x000000nCyWAAU&contextId=8014x000000lQgKAAU&cartType=Order",
+            "groupCartURL": "apex/vlocity_cmt__MultiServiceHybridCPQ?id=8014x000000lQvGAAU&parentId=null&groupCart=true&groupId=a324x000000nCyWAAU&contextId=8014x000000lQgKAAU&cartType=Order",
             "groupDescription": "01t4x000000wlLkAAI",
             "groupId": "a324x000000nCyWAAU",
             "groupName": "Macbook Pro",
@@ -549,7 +549,7 @@
             ]
         },
         {
-            "%vlocity_namespace%__AsyncJobId__c": {
+            "vlocity_cmt__AsyncJobId__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -564,7 +564,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__AsyncOperation__c": {
+            "vlocity_cmt__AsyncOperation__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -579,7 +579,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__Description__c": {
+            "vlocity_cmt__Description__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -594,7 +594,7 @@
                 "previousValue": null,
                 "value": "01t4x000000wmVCAAY"
             },
-            "%vlocity_namespace%__GroupCartId__c": {
+            "vlocity_cmt__GroupCartId__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -609,16 +609,16 @@
                 "previousValue": null,
                 "value": "8014x000000lQvHAAU"
             },
-            "%vlocity_namespace%__GroupCartId__r": {
-                "%vlocity_namespace%__DefaultPremisesId__c": null,
-                "%vlocity_namespace%__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
-                "%vlocity_namespace%__DefaultServicePointId__c": null,
-                "%vlocity_namespace%__IsPriced__c": false,
-                "%vlocity_namespace%__IsValidated__c": false,
-                "%vlocity_namespace%__MultiServiceMessageData__c": null,
-                "%vlocity_namespace%__TrackingNumber__c": null
+            "vlocity_cmt__GroupCartId__r": {
+                "vlocity_cmt__DefaultPremisesId__c": null,
+                "vlocity_cmt__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
+                "vlocity_cmt__DefaultServicePointId__c": null,
+                "vlocity_cmt__IsPriced__c": false,
+                "vlocity_cmt__IsValidated__c": false,
+                "vlocity_cmt__MultiServiceMessageData__c": null,
+                "vlocity_cmt__TrackingNumber__c": null
             },
-            "%vlocity_namespace%__HasUnappliedGroupItems__c": {
+            "vlocity_cmt__HasUnappliedGroupItems__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -633,7 +633,7 @@
                 "previousValue": null,
                 "value": true
             },
-            "%vlocity_namespace%__HasUnappliedMembers__c": {
+            "vlocity_cmt__HasUnappliedMembers__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -648,7 +648,7 @@
                 "previousValue": null,
                 "value": false
             },
-            "%vlocity_namespace%__LockedBy__c": {
+            "vlocity_cmt__LockedBy__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -663,7 +663,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__LockedFor__c": {
+            "vlocity_cmt__LockedFor__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -678,7 +678,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__MemberCount__c": {
+            "vlocity_cmt__MemberCount__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -693,7 +693,7 @@
                 "previousValue": null,
                 "value": 0
             },
-            "%vlocity_namespace%__MemberType__c": {
+            "vlocity_cmt__MemberType__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -708,7 +708,7 @@
                 "previousValue": null,
                 "value": "ServicePoint"
             },
-            "%vlocity_namespace%__MultiServiceMessageData__c": {
+            "vlocity_cmt__MultiServiceMessageData__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -802,9 +802,9 @@
             },
             "displaySequence": -1,
             "groupCart": {
-                "%vlocity_namespace%__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
-                "%vlocity_namespace%__IsPriced__c": false,
-                "%vlocity_namespace%__IsValidated__c": false,
+                "vlocity_cmt__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
+                "vlocity_cmt__IsPriced__c": false,
+                "vlocity_cmt__IsValidated__c": false,
                 "Id": "8014x000000lQvHAAU",
                 "attributes": {
                     "type": "Order",
@@ -812,7 +812,7 @@
                 }
             },
             "groupCartId": "8014x000000lQvHAAU",
-            "groupCartURL": "apex/%vlocity_namespace%__MultiServiceHybridCPQ?id=8014x000000lQvHAAU&parentId=null&groupCart=true&groupId=a324x000000nCyXAAU&contextId=8014x000000lQgKAAU&cartType=Order",
+            "groupCartURL": "apex/vlocity_cmt__MultiServiceHybridCPQ?id=8014x000000lQvHAAU&parentId=null&groupCart=true&groupId=a324x000000nCyXAAU&contextId=8014x000000lQgKAAU&cartType=Order",
             "groupDescription": "01t4x000000wmVCAAY",
             "groupId": "a324x000000nCyXAAU",
             "groupName": "Iphone 12",
@@ -823,7 +823,7 @@
             ]
         },
         {
-            "%vlocity_namespace%__AsyncJobId__c": {
+            "vlocity_cmt__AsyncJobId__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -838,7 +838,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__AsyncOperation__c": {
+            "vlocity_cmt__AsyncOperation__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -853,7 +853,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__Description__c": {
+            "vlocity_cmt__Description__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -868,7 +868,7 @@
                 "previousValue": null,
                 "value": "01t4x000000wv6kAAA"
             },
-            "%vlocity_namespace%__GroupCartId__c": {
+            "vlocity_cmt__GroupCartId__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -883,16 +883,16 @@
                 "previousValue": null,
                 "value": "8014x000000lQvIAAU"
             },
-            "%vlocity_namespace%__GroupCartId__r": {
-                "%vlocity_namespace%__DefaultPremisesId__c": null,
-                "%vlocity_namespace%__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
-                "%vlocity_namespace%__DefaultServicePointId__c": null,
-                "%vlocity_namespace%__IsPriced__c": false,
-                "%vlocity_namespace%__IsValidated__c": false,
-                "%vlocity_namespace%__MultiServiceMessageData__c": null,
-                "%vlocity_namespace%__TrackingNumber__c": null
+            "vlocity_cmt__GroupCartId__r": {
+                "vlocity_cmt__DefaultPremisesId__c": null,
+                "vlocity_cmt__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
+                "vlocity_cmt__DefaultServicePointId__c": null,
+                "vlocity_cmt__IsPriced__c": false,
+                "vlocity_cmt__IsValidated__c": false,
+                "vlocity_cmt__MultiServiceMessageData__c": null,
+                "vlocity_cmt__TrackingNumber__c": null
             },
-            "%vlocity_namespace%__HasUnappliedGroupItems__c": {
+            "vlocity_cmt__HasUnappliedGroupItems__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -907,7 +907,7 @@
                 "previousValue": null,
                 "value": true
             },
-            "%vlocity_namespace%__HasUnappliedMembers__c": {
+            "vlocity_cmt__HasUnappliedMembers__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -922,7 +922,7 @@
                 "previousValue": null,
                 "value": false
             },
-            "%vlocity_namespace%__LockedBy__c": {
+            "vlocity_cmt__LockedBy__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -937,7 +937,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__LockedFor__c": {
+            "vlocity_cmt__LockedFor__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -952,7 +952,7 @@
                 "previousValue": null,
                 "value": null
             },
-            "%vlocity_namespace%__MemberCount__c": {
+            "vlocity_cmt__MemberCount__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -967,7 +967,7 @@
                 "previousValue": null,
                 "value": 0
             },
-            "%vlocity_namespace%__MemberType__c": {
+            "vlocity_cmt__MemberType__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -982,7 +982,7 @@
                 "previousValue": null,
                 "value": "ServicePoint"
             },
-            "%vlocity_namespace%__MultiServiceMessageData__c": {
+            "vlocity_cmt__MultiServiceMessageData__c": {
                 "actions": {
                 },
                 "alternateValues": null,
@@ -1076,9 +1076,9 @@
             },
             "displaySequence": -1,
             "groupCart": {
-                "%vlocity_namespace%__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
-                "%vlocity_namespace%__IsPriced__c": false,
-                "%vlocity_namespace%__IsValidated__c": false,
+                "vlocity_cmt__DefaultServiceAccountId__c": "0014x00000EQV7GAAX",
+                "vlocity_cmt__IsPriced__c": false,
+                "vlocity_cmt__IsValidated__c": false,
                 "Id": "8014x000000lQvIAAU",
                 "attributes": {
                     "type": "Order",
@@ -1086,7 +1086,7 @@
                 }
             },
             "groupCartId": "8014x000000lQvIAAU",
-            "groupCartURL": "apex/%vlocity_namespace%__MultiServiceHybridCPQ?id=8014x000000lQvIAAU&parentId=null&groupCart=true&groupId=a324x000000nCyYAAU&contextId=8014x000000lQgKAAU&cartType=Order",
+            "groupCartURL": "apex/vlocity_cmt__MultiServiceHybridCPQ?id=8014x000000lQvIAAU&parentId=null&groupCart=true&groupId=a324x000000nCyYAAU&contextId=8014x000000lQgKAAU&cartType=Order",
             "groupDescription": "01t4x000000wv6kAAA",
             "groupId": "a324x000000nCyYAAU",
             "groupName": "HDMI Cable",

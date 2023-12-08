@@ -4,7 +4,7 @@
         "FilterOperator": "=",
         "FilterValue": "QuoteMemberId",
         "GlobalKey": "GetQuoteLineItemsForMemberCustom3921",
-        "InputFieldName": "%vlocity_namespace%__QuoteMemberId__c",
+        "InputFieldName": "vlocity_cmt__QuoteMemberId__c",
         "InputObjectName": "QuoteLineItem",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,

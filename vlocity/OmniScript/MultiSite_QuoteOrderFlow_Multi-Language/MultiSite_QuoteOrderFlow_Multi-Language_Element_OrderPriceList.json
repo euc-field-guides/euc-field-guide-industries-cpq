@@ -37,9 +37,9 @@
                         "DomainObjectFieldAPIName__c": "PriceLists",
                         "FilterOperator__c": "=",
                         "FilterValue__c": "'true'",
-                        "InterfaceFieldAPIName__c": "%vlocity_namespace%__IsActive__c",
+                        "InterfaceFieldAPIName__c": "vlocity_cmt__IsActive__c",
                         "InterfaceObjectLookupOrder__c": 1,
-                        "InterfaceObjectName__c": "%vlocity_namespace%__PriceList__c"
+                        "InterfaceObjectName__c": "vlocity_cmt__PriceList__c"
                     }
                 ],
                 "phase2MapItems": [

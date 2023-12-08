@@ -5,7 +5,7 @@
         "FilterOperator": "=",
         "FilterValue": "'$Vlocity.Null'",
         "GlobalKey": "GetRootAssetsByAccountCustom629",
-        "InputFieldName": "%vlocity_namespace%__ParentItemId__c",
+        "InputFieldName": "vlocity_cmt__ParentItemId__c",
         "InputObjectName": "Asset",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -52,7 +52,7 @@
     {
         "FilterGroup": 0,
         "FilterOperator": "ORDER BY",
-        "FilterValue": "Id , %vlocity_namespace%__OrderId__c, %vlocity_namespace%__LineNumber__c",
+        "FilterValue": "Id , vlocity_cmt__OrderId__c, vlocity_cmt__LineNumber__c",
         "GlobalKey": "GetRootAssetsByAccountCustom3879",
         "InputObjectName": "Asset",
         "InputObjectQuerySequence": 1,
@@ -78,7 +78,7 @@
         "FilterOperator": "=",
         "FilterValue": "'$Vlocity.Null'",
         "GlobalKey": "GetRootAssetsByAccountCustom8938",
-        "InputFieldName": "%vlocity_namespace%__ParentItemId__c",
+        "InputFieldName": "vlocity_cmt__ParentItemId__c",
         "InputObjectName": "Asset",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -103,7 +103,7 @@
         "FilterOperator": "=",
         "FilterValue": "accountId",
         "GlobalKey": "GetRootAssetsByAccountCustom7649",
-        "InputFieldName": "%vlocity_namespace%__ServiceAccountId__c",
+        "InputFieldName": "vlocity_cmt__ServiceAccountId__c",
         "InputObjectName": "Asset",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -128,7 +128,7 @@
         "FilterOperator": "=",
         "FilterValue": "accountId",
         "GlobalKey": "GetRootAssetsByAccountCustom2288",
-        "InputFieldName": "%vlocity_namespace%__BillingAccountId__c",
+        "InputFieldName": "vlocity_cmt__BillingAccountId__c",
         "InputObjectName": "Asset",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -153,7 +153,7 @@
         "FilterOperator": "=",
         "FilterValue": "'$Vlocity.NULL'",
         "GlobalKey": "GetRootAssetsByAccountCustom3840",
-        "InputFieldName": "%vlocity_namespace%__ParentItemId__c",
+        "InputFieldName": "vlocity_cmt__ParentItemId__c",
         "InputObjectName": "Asset",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -193,7 +193,7 @@
     },
     {
         "GlobalKey": "GetRootAssetsByAccountCustom3765",
-        "InputFieldName": "Asset:%vlocity_namespace%__BillingAccountId__r.Name",
+        "InputFieldName": "Asset:vlocity_cmt__BillingAccountId__r.Name",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -205,14 +205,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__BillingAccountId__r:Name",
+        "OutputFieldName": "records:vlocity_cmt__BillingAccountId__r:Name",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "GetRootAssetsByAccountCustom1605",
-        "InputFieldName": "Asset:%vlocity_namespace%__ContractId__r.ContractNumber",
+        "InputFieldName": "Asset:vlocity_cmt__ContractId__r.ContractNumber",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -224,14 +224,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__ContractId__r:ContractNumber",
+        "OutputFieldName": "records:vlocity_cmt__ContractId__r:ContractNumber",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "GetRootAssetsByAccountCustom7950",
-        "InputFieldName": "Asset:%vlocity_namespace%__LineNumber__c",
+        "InputFieldName": "Asset:vlocity_cmt__LineNumber__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -243,14 +243,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LineNumber__c:value",
+        "OutputFieldName": "records:vlocity_cmt__LineNumber__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "GetRootAssetsByAccountCustom9126",
-        "InputFieldName": "Asset:%vlocity_namespace%__OneTimeTotal__c",
+        "InputFieldName": "Asset:vlocity_cmt__OneTimeTotal__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -262,14 +262,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__OneTimeTotal__c:value",
+        "OutputFieldName": "records:vlocity_cmt__OneTimeTotal__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "GetRootAssetsByAccountCustom1065",
-        "InputFieldName": "Asset:%vlocity_namespace%__ProvisioningStatus__c",
+        "InputFieldName": "Asset:vlocity_cmt__ProvisioningStatus__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -281,14 +281,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__ProvisioningStatus__c:value",
+        "OutputFieldName": "records:vlocity_cmt__ProvisioningStatus__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "GetRootAssetsByAccountCustom1108",
-        "InputFieldName": "Asset:%vlocity_namespace%__RecurringTotal__c",
+        "InputFieldName": "Asset:vlocity_cmt__RecurringTotal__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -300,14 +300,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__RecurringTotal__c:value",
+        "OutputFieldName": "records:vlocity_cmt__RecurringTotal__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "GetRootAssetsByAccountCustom6047",
-        "InputFieldName": "Asset:%vlocity_namespace%__ServiceAccountId__r.Name",
+        "InputFieldName": "Asset:vlocity_cmt__ServiceAccountId__r.Name",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -319,14 +319,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__ServiceAccountId__r:Name",
+        "OutputFieldName": "records:vlocity_cmt__ServiceAccountId__r:Name",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "GetRootAssetsByAccountCustom9057",
-        "InputFieldName": "Asset:%vlocity_namespace%__ServiceIdentifier__c",
+        "InputFieldName": "Asset:vlocity_cmt__ServiceIdentifier__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -338,7 +338,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__ServiceIdentifier__c:value",
+        "OutputFieldName": "records:vlocity_cmt__ServiceIdentifier__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"

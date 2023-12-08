@@ -27,7 +27,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction3",
-        "remoteClass": "%vlocity_namespace%.CpqAppHandler",
+        "remoteClass": "vlocity_cmt.CpqAppHandler",
         "remoteMethod": "getRootAssetIds",
         "remoteOptions": {
         },

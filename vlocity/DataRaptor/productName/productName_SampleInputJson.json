@@ -3,7 +3,7 @@
     ],
     "records": [
         {
-            "%vlocity_namespace%__RecurringPrice__c": {
+            "vlocity_cmt__RecurringPrice__c": {
                 "label": "Recurring Price",
                 "value": "GenWatt Diesel 1000kW"
             },
@@ -25,11 +25,11 @@
                 "value": "01s4W000006NdscQAC"
             },
             "Product2": {
-                "%vlocity_namespace%__IsConfigurable__c": false,
-                "%vlocity_namespace%__SellingEndDate__c": "2025-01-20T18:30:00.000+0000",
-                "%vlocity_namespace%__SellingStartDate__c": "2021-01-04T18:30:00.000+0000",
-                "%vlocity_namespace%__SubType__c": "Postpaid",
-                "%vlocity_namespace%__Type__c": "Service",
+                "vlocity_cmt__IsConfigurable__c": false,
+                "vlocity_cmt__SellingEndDate__c": "2025-01-20T18:30:00.000+0000",
+                "vlocity_cmt__SellingStartDate__c": "2021-01-04T18:30:00.000+0000",
+                "vlocity_cmt__SubType__c": "Postpaid",
+                "vlocity_cmt__Type__c": "Service",
                 "Description": "Diesel 1000KW",
                 "Id": "01t4W00000CUEM9QAP",
                 "Name": "GenWatt Diesel 1000kW",
@@ -125,7 +125,7 @@
             "productId": "01t4W00000CUEM9QAP"
         },
         {
-            "%vlocity_namespace%__RecurringPrice__c": {
+            "vlocity_cmt__RecurringPrice__c": {
                 "label": "Recurring Price",
                 "value": "Iphone12"
             },
@@ -147,12 +147,12 @@
                 "value": "01s4W000006NdscQAC"
             },
             "Product2": {
-                "%vlocity_namespace%__EndOfLifeDate__c": "2025-01-20T18:30:00.000+0000",
-                "%vlocity_namespace%__GlobalGroupKey__c": "fd31aafa-d5b9-ccf4-b789-19b293efe9d4",
-                "%vlocity_namespace%__IsConfigurable__c": false,
-                "%vlocity_namespace%__ProductSpecId__c": "01t4W00000ClJqkQAF",
-                "%vlocity_namespace%__ProductSpecId__r": {
-                    "%vlocity_namespace%__SpecificationType__c": "Product",
+                "vlocity_cmt__EndOfLifeDate__c": "2025-01-20T18:30:00.000+0000",
+                "vlocity_cmt__GlobalGroupKey__c": "fd31aafa-d5b9-ccf4-b789-19b293efe9d4",
+                "vlocity_cmt__IsConfigurable__c": false,
+                "vlocity_cmt__ProductSpecId__c": "01t4W00000ClJqkQAF",
+                "vlocity_cmt__ProductSpecId__r": {
+                    "vlocity_cmt__SpecificationType__c": "Product",
                     "Id": "01t4W00000ClJqkQAF",
                     "Name": "iphone11",
                     "ProductCode": "I1102",
@@ -162,12 +162,12 @@
                         "url": "/services/data/v50.0/sobjects/Product2/01t4W00000ClJqkQAF"
                     }
                 },
-                "%vlocity_namespace%__SellingEndDate__c": "2025-01-20T18:30:00.000+0000",
-                "%vlocity_namespace%__SellingStartDate__c": "2020-12-31T18:30:00.000+0000",
-                "%vlocity_namespace%__SpecificationType__c": "Resource",
-                "%vlocity_namespace%__SubType__c": "Prepaid",
-                "%vlocity_namespace%__Type__c": "Service",
-                "%vlocity_namespace%__VersionLabel__c": "iphone 11",
+                "vlocity_cmt__SellingEndDate__c": "2025-01-20T18:30:00.000+0000",
+                "vlocity_cmt__SellingStartDate__c": "2020-12-31T18:30:00.000+0000",
+                "vlocity_cmt__SpecificationType__c": "Resource",
+                "vlocity_cmt__SubType__c": "Prepaid",
+                "vlocity_cmt__Type__c": "Service",
+                "vlocity_cmt__VersionLabel__c": "iphone 11",
                 "Description": "Iphone 12",
                 "Id": "01t4W00000CksCWQAZ",
                 "Name": "Iphone12",
@@ -264,7 +264,7 @@
             "productId": "01t4W00000CksCWQAZ"
         },
         {
-            "%vlocity_namespace%__RecurringPrice__c": {
+            "vlocity_cmt__RecurringPrice__c": {
                 "label": "Recurring Price",
                 "value": 0
             },
@@ -285,11 +285,11 @@
                 "value": "01s4W000006NdscQAC"
             },
             "Product2": {
-                "%vlocity_namespace%__GlobalGroupKey__c": "60717cd7-780f-c5cc-9c43-a2962e416c66",
-                "%vlocity_namespace%__IsConfigurable__c": false,
-                "%vlocity_namespace%__SpecificationType__c": "Product",
-                "%vlocity_namespace%__SubType__c": "None",
-                "%vlocity_namespace%__Type__c": "None",
+                "vlocity_cmt__GlobalGroupKey__c": "60717cd7-780f-c5cc-9c43-a2962e416c66",
+                "vlocity_cmt__IsConfigurable__c": false,
+                "vlocity_cmt__SpecificationType__c": "Product",
+                "vlocity_cmt__SubType__c": "None",
+                "vlocity_cmt__Type__c": "None",
                 "Id": "01t4W00000ClJqkQAF",
                 "Name": "iphone11",
                 "RecordTypeId": "0124W000000lTyFQAU",
@@ -386,18 +386,18 @@
                 "totalSize": 0
             },
             "productChildItemDefinition": {
-                "%vlocity_namespace%__ChildLineNumber__c": "1",
-                "%vlocity_namespace%__CollapseHierarchy__c": false,
-                "%vlocity_namespace%__IsOverride__c": false,
-                "%vlocity_namespace%__IsRootProductChildItem__c": true,
-                "%vlocity_namespace%__IsVirtualItem__c": false,
-                "%vlocity_namespace%__MaxQuantity__c": 99999,
-                "%vlocity_namespace%__MaximumChildItemQuantity__c": 99999,
-                "%vlocity_namespace%__MinQuantity__c": 0,
-                "%vlocity_namespace%__MinimumChildItemQuantity__c": 0,
-                "%vlocity_namespace%__ParentProductId__c": "01t4W00000ClJqkQAF",
-                "%vlocity_namespace%__ParentProductId__r": {
-                    "%vlocity_namespace%__GlobalGroupKey__c": "60717cd7-780f-c5cc-9c43-a2962e416c66",
+                "vlocity_cmt__ChildLineNumber__c": "1",
+                "vlocity_cmt__CollapseHierarchy__c": false,
+                "vlocity_cmt__IsOverride__c": false,
+                "vlocity_cmt__IsRootProductChildItem__c": true,
+                "vlocity_cmt__IsVirtualItem__c": false,
+                "vlocity_cmt__MaxQuantity__c": 99999,
+                "vlocity_cmt__MaximumChildItemQuantity__c": 99999,
+                "vlocity_cmt__MinQuantity__c": 0,
+                "vlocity_cmt__MinimumChildItemQuantity__c": 0,
+                "vlocity_cmt__ParentProductId__c": "01t4W00000ClJqkQAF",
+                "vlocity_cmt__ParentProductId__r": {
+                    "vlocity_cmt__GlobalGroupKey__c": "60717cd7-780f-c5cc-9c43-a2962e416c66",
                     "Id": "01t4W00000ClJqkQAF",
                     "Name": "iphone11",
                     "RecordTypeId": "0124W000000lTyFQAU",
@@ -406,11 +406,11 @@
                         "url": "/services/data/v50.0/sobjects/Product2/01t4W00000ClJqkQAF"
                     }
                 },
-                "%vlocity_namespace%__Quantity__c": 1,
-                "%vlocity_namespace%__SeqNumber__c": 1,
+                "vlocity_cmt__Quantity__c": 1,
+                "vlocity_cmt__SeqNumber__c": 1,
                 "Name": "Root PCI",
                 "attributes": {
-                    "type": "%vlocity_namespace%__ProductChildItem__c"
+                    "type": "vlocity_cmt__ProductChildItem__c"
                 }
             },
             "productChildItemId": "a3K4W000000d48BUAQ",

@@ -166,7 +166,7 @@
         "Id": "0Rb5g000000Sk8bCAC",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCatalogSearch_2_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

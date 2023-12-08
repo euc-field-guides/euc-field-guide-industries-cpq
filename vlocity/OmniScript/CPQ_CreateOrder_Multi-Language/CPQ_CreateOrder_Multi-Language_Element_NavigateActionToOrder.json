@@ -59,7 +59,7 @@
         "targetLWCLayout": "lightning",
         "targetName": "Order",
         "targetType": "Record",
-        "targetUrl": "/apex/%vlocity_namespace%__HybridCPQ?id=%checkout:records|1:id%",
+        "targetUrl": "/apex/vlocity_cmt__HybridCPQ?id=%checkout:records|1:id%",
         "validationRequired": "Submit",
         "variant": "brand",
         "wpm": false

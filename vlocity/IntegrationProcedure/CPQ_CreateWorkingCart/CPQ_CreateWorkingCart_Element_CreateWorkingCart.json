@@ -35,13 +35,13 @@
                     "OpportunityId": "%getQuoteDetail:OptyId%"
                 },
                 {
-                    "%vlocity_namespace%__OriginatingChannel__c": "Retail"
+                    "vlocity_cmt__OriginatingChannel__c": "Retail"
                 },
                 {
                     "pricelistName": "%getQuoteDetail:PriceListName%"
                 },
                 {
-                    "%vlocity_namespace%__ParentQuoteId__c": "%contextId%"
+                    "vlocity_cmt__ParentQuoteId__c": "%contextId%"
                 },
                 {
                     "RecordTypeId": "%RecordTypeQuote:RecordTypeId%"
@@ -54,7 +54,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction1",
-        "remoteClass": "%vlocity_namespace%.CpqAppHandler",
+        "remoteClass": "vlocity_cmt.CpqAppHandler",
         "remoteMethod": "createCart",
         "remoteOptions": {
         },

@@ -14,8 +14,8 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldFormat": "String",
-        "OutputFieldName": "%vlocity_namespace%__AsyncOperation__c",
-        "OutputObjectName": "%vlocity_namespace%__QuoteGroup__c",
+        "OutputFieldName": "vlocity_cmt__AsyncOperation__c",
+        "OutputObjectName": "vlocity_cmt__QuoteGroup__c",
         "TransformValueMappings": "{}",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -34,8 +34,8 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__SelectedAssetsCommonConfiguration__c",
-        "OutputObjectName": "%vlocity_namespace%__QuoteGroup__c",
+        "OutputFieldName": "vlocity_cmt__SelectedAssetsCommonConfiguration__c",
+        "OutputObjectName": "vlocity_cmt__QuoteGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -55,7 +55,7 @@
         "OutputCreationSequence": 1,
         "OutputFieldFormat": "String",
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__QuoteGroup__c",
+        "OutputObjectName": "vlocity_cmt__QuoteGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -75,7 +75,7 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__QuoteGroup__c",
+        "OutputObjectName": "vlocity_cmt__QuoteGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     }

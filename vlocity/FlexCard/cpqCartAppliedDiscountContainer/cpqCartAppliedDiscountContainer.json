@@ -56,7 +56,7 @@
         "Id": "0RbRO0000001hTk0AI",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartAppliedDiscountContainer_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

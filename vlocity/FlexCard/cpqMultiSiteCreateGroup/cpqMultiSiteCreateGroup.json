@@ -239,7 +239,7 @@
         "Id": "0RbRN0000001Xg10AE",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMultiSiteCreateGroup_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,

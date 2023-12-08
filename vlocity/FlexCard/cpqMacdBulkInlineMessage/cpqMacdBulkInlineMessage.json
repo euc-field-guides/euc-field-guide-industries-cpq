@@ -15,7 +15,7 @@
         "Id": "0Rb5g000000RpVJCA0",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMacdBulkInlineMessage_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "states": [

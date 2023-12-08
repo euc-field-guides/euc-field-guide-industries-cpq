@@ -78,7 +78,7 @@
         "Id": "0Rb5g000000QnCFCA0",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqDetailViewFlexTableContainer_4_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "states": [

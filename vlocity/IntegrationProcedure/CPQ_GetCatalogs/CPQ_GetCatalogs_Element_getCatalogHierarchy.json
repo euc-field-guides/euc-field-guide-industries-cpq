@@ -42,7 +42,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction2",
-        "remoteClass": "%vlocity_namespace%.CpqAppHandler",
+        "remoteClass": "vlocity_cmt.CpqAppHandler",
         "remoteMethod": "getCatalogHierarchy",
         "remoteOptions": {
         },

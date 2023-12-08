@@ -22,7 +22,7 @@
         "Id": "0Rb5g000000RCI1CAO",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCPQDynamicForm_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "states": [

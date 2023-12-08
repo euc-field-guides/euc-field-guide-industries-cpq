@@ -26,7 +26,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction3",
-        "remoteClass": "%vlocity_namespace%.B2BCmexAppHandler",
+        "remoteClass": "vlocity_cmt.B2BCmexAppHandler",
         "remoteMethod": "cloneGCToSalesQLI",
         "remoteOptions": {
         },

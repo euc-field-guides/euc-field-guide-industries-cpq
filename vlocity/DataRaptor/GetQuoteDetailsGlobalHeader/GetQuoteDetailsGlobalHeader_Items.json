@@ -149,7 +149,7 @@
     },
     {
         "GlobalKey": "GetQuoteDetailsGlobalHeaderCustoma005g00002xk6C9AAIItem8",
-        "InputFieldName": "Quote:%vlocity_namespace%__PriceListId__c",
+        "InputFieldName": "Quote:vlocity_cmt__PriceListId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -168,7 +168,7 @@
     },
     {
         "GlobalKey": "GetQuoteDetailsGlobalHeaderCustoma005g00002xk6C9AAIItem9",
-        "InputFieldName": "Quote:%vlocity_namespace%__PriceListId__r.Name",
+        "InputFieldName": "Quote:vlocity_cmt__PriceListId__r.Name",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

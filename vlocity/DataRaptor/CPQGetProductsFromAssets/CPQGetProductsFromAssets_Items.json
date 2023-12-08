@@ -66,7 +66,7 @@
     },
     {
         "GlobalKey": "CPQ-Get-Products-From-AssetsCustom896",
-        "InputFieldName": "%vlocity_namespace%__PriceListId__r.%vlocity_namespace%__Pricebook2Id__c",
+        "InputFieldName": "vlocity_cmt__PriceListId__r.vlocity_cmt__Pricebook2Id__c",
         "InputObjectName": "Asset",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
@@ -86,7 +86,7 @@
     },
     {
         "GlobalKey": "CPQ-Get-Products-From-AssetsCustom343",
-        "InputFieldName": "%vlocity_namespace%__PricebookEntryId__c",
+        "InputFieldName": "vlocity_cmt__PricebookEntryId__c",
         "InputObjectName": "Asset",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,

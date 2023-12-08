@@ -26,7 +26,7 @@
     {
         "FilterGroup": 0,
         "FilterOperator": "=",
-        "FilterValue": "Order:%vlocity_namespace%__OriginatingContactId__c",
+        "FilterValue": "Order:vlocity_cmt__OriginatingContactId__c",
         "GlobalKey": "GetOrderDetailsGlobalHeader7536295681615115",
         "InputFieldName": "Id",
         "InputObjectName": "Contact",
@@ -168,7 +168,7 @@
     },
     {
         "GlobalKey": "GetOrderDetailsGlobalHeader5475978793983634",
-        "InputFieldName": "Order:%vlocity_namespace%__PriceListId__c",
+        "InputFieldName": "Order:vlocity_cmt__PriceListId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -187,7 +187,7 @@
     },
     {
         "GlobalKey": "GetOrderDetailsGlobalHeader9643021746641016",
-        "InputFieldName": "Order:%vlocity_namespace%__PriceListId__r.Name",
+        "InputFieldName": "Order:vlocity_cmt__PriceListId__r.Name",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -206,7 +206,7 @@
     },
     {
         "GlobalKey": "GetOrderDetailsGlobalHeader7975883143323874",
-        "InputFieldName": "Order:%vlocity_namespace%__OriginatingContactId__c",
+        "InputFieldName": "Order:vlocity_cmt__OriginatingContactId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -263,7 +263,7 @@
     },
     {
         "GlobalKey": "GetOrderDetailsGlobalHeader36706676491158463",
-        "InputFieldName": "Order:%vlocity_namespace%__orchestrationPlanId__c",
+        "InputFieldName": "Order:vlocity_cmt__orchestrationPlanId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

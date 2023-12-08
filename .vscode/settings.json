@@ -4,5 +4,6 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "codeBuilder.showWelcomePage": true
+  "codeBuilder.showWelcomePage": false,
+  "salesforcedx-vscode-core.show-cli-success-msg": false
 }

@@ -121,7 +121,7 @@
         "Id": "0Rb5e0000013ndKCAQ",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqProductTileList_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [
@@ -869,7 +869,7 @@
                                             "parentElementKey": "element_element_block_0_0_block_1_0",
                                             "property": {
                                                 "card": "{card}",
-                                                "fieldName": "Product2.%vlocity_namespace%__VersionLabel__c",
+                                                "fieldName": "Product2.vlocity_cmt__VersionLabel__c",
                                                 "placeholder": "",
                                                 "record": "{record}",
                                                 "type": "text"
@@ -1700,7 +1700,7 @@
                                             "property": {
                                                 "card": "{card}",
                                                 "currency": "",
-                                                "fieldName": "%vlocity_namespace%__RecurringPrice__c.value",
+                                                "fieldName": "vlocity_cmt__RecurringPrice__c.value",
                                                 "label": " ",
                                                 "locale": "",
                                                 "placeholder": "{Label.CPQPriceLabel}",
@@ -2210,7 +2210,7 @@
                                             "property": {
                                                 "card": "{card}",
                                                 "currency": "",
-                                                "fieldName": "%vlocity_namespace%__RecurringPrice__c.value",
+                                                "fieldName": "vlocity_cmt__RecurringPrice__c.value",
                                                 "label": "{Label.Recurring}",
                                                 "locale": "",
                                                 "placeholder": "{Label.CPQPriceLabel}",
@@ -4343,7 +4343,7 @@
                                             "id": "state-condition-object",
                                             "isParent": true
                                         },
-                                        "fieldName": "Product2.%vlocity_namespace%__VersionLabel__c",
+                                        "fieldName": "Product2.vlocity_cmt__VersionLabel__c",
                                         "placeholder": "",
                                         "record": "{record}",
                                         "type": "text"
@@ -4937,7 +4937,7 @@
                                                     "property": {
                                                         "card": "{card}",
                                                         "currency": "",
-                                                        "fieldName": "%vlocity_namespace%__RecurringPrice__c.value",
+                                                        "fieldName": "vlocity_cmt__RecurringPrice__c.value",
                                                         "label": "{Label.Recurring}",
                                                         "labelclass": "cpq__product-tile-card-product-commercials_label",
                                                         "locale": "",

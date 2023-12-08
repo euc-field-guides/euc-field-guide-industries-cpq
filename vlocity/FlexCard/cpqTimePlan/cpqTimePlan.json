@@ -30,7 +30,7 @@
         "Id": "0Rb5g000000QjmCCAS",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqTimePlan_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

@@ -194,7 +194,7 @@
         "Id": "0Rb5g000000ST6NCAW",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqAssetViewerSelectAllAssets_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "sessionVars": [

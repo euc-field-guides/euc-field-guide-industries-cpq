@@ -37,7 +37,7 @@
         "Id": "0Rb8Z000000EgBgSAK",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqGlobalHeaderOrder_4_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [

@@ -87,23 +87,47 @@ echo "--> "
 echo "--> Attempting to deploy CPQ cart..."
 echo "--> "
 
-RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packDeploy)
+vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packDeploy
+
+echo "--> "
+echo "--> After packDeploy errors:"
+
 awk '/Error:/ {value = $2} END {print value}' VlocityBuildLog.yaml
 
-RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
+vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry
 
+echo "--> "
+echo "--> After packRetry #1 errors:"
 
-RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
+awk '/Error:/ {value = $2} END {print value}' VlocityBuildLog.yaml
 
+vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry
 
-RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
+echo "--> "
+echo "--> After packRetry #2 errors:"
 
+awk '/Error:/ {value = $2} END {print value}' VlocityBuildLog.yaml
 
-RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
+vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry
 
+echo "--> "
+echo "--> After packRetry #3 errors:"
 
-RES=$(vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry)
+awk '/Error:/ {value = $2} END {print value}' VlocityBuildLog.yaml
 
+vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry
+
+echo "--> "
+echo "--> After packRetry #4 errors:"
+
+awk '/Error:/ {value = $2} END {print value}' VlocityBuildLog.yaml
+
+vlocity -sfdx.username "${ORG_NAME}" -job scripts/vlocity/cart-omni.yaml packRetry
+
+echo "--> "
+echo "--> After packRetry #5 errors:"
+
+awk '/Error:/ {value = $2} END {print value}' VlocityBuildLog.yaml
 
 read -n 1 -s -r -p "--> Press any key to continue"
 echo " "

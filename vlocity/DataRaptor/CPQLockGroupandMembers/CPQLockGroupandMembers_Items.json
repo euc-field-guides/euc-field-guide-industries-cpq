@@ -13,8 +13,8 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__LockedBy__c",
-        "OutputObjectName": "%vlocity_namespace%__OrderMember__c",
+        "OutputFieldName": "vlocity_cmt__LockedBy__c",
+        "OutputObjectName": "vlocity_cmt__OrderMember__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -32,8 +32,8 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__LockedFor__c",
-        "OutputObjectName": "%vlocity_namespace%__OrderMember__c",
+        "OutputFieldName": "vlocity_cmt__LockedFor__c",
+        "OutputObjectName": "vlocity_cmt__OrderMember__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -52,7 +52,7 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__OrderMember__c",
+        "OutputObjectName": "vlocity_cmt__OrderMember__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -72,7 +72,7 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__OrderMember__c",
+        "OutputObjectName": "vlocity_cmt__OrderMember__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -90,8 +90,8 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 2,
-        "OutputFieldName": "%vlocity_namespace%__LockedBy__c",
-        "OutputObjectName": "%vlocity_namespace%__OrderGroup__c",
+        "OutputFieldName": "vlocity_cmt__LockedBy__c",
+        "OutputObjectName": "vlocity_cmt__OrderGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -109,8 +109,8 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 2,
-        "OutputFieldName": "%vlocity_namespace%__LockedFor__c",
-        "OutputObjectName": "%vlocity_namespace%__OrderGroup__c",
+        "OutputFieldName": "vlocity_cmt__LockedFor__c",
+        "OutputObjectName": "vlocity_cmt__OrderGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -129,7 +129,7 @@
         },
         "OutputCreationSequence": 2,
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__OrderGroup__c",
+        "OutputObjectName": "vlocity_cmt__OrderGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -149,7 +149,7 @@
         },
         "OutputCreationSequence": 2,
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__OrderGroup__c",
+        "OutputObjectName": "vlocity_cmt__OrderGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     }

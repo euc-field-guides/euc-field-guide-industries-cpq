@@ -20,7 +20,7 @@
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2765",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:actions",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -32,14 +32,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6852",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -51,14 +51,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8113",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -70,14 +70,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6024",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:editable",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -89,14 +89,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2328",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -108,14 +108,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5268",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -127,14 +127,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9846",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:label",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -146,14 +146,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:label",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5305",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -165,14 +165,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7309",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -184,14 +184,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4347",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:value",
+        "InputFieldName": "records:vlocity_cmt__AsyncJobId__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -203,14 +203,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncJobId__c:value",
+        "OutputFieldName": "records:vlocity_cmt__AsyncJobId__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9497",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:actions",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -222,14 +222,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8403",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -241,14 +241,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom378",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -260,14 +260,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1970",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:editable",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -279,14 +279,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8162",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -298,14 +298,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7912",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -317,14 +317,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5833",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:label",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -336,14 +336,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:label",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5269",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -355,14 +355,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8156",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -374,14 +374,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9145",
-        "InputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:value",
+        "InputFieldName": "records:vlocity_cmt__AsyncOperation__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -393,14 +393,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AsyncOperation__c:value",
+        "OutputFieldName": "records:vlocity_cmt__AsyncOperation__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4779",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:actions",
+        "InputFieldName": "records:vlocity_cmt__Description__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -412,14 +412,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom3061",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__Description__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -431,14 +431,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7158",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__Description__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -450,14 +450,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2785",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:editable",
+        "InputFieldName": "records:vlocity_cmt__Description__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -469,14 +469,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7978",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__Description__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -488,14 +488,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom601",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__Description__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -507,14 +507,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6833",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:label",
+        "InputFieldName": "records:vlocity_cmt__Description__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -526,14 +526,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:label",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1314",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__Description__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -545,14 +545,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2120",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__Description__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -564,14 +564,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom3211",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c:value",
+        "InputFieldName": "records:vlocity_cmt__Description__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -583,14 +583,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c:value",
+        "OutputFieldName": "records:vlocity_cmt__Description__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5955",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:actions",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -602,14 +602,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1591",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -621,14 +621,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9900",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -640,14 +640,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9855",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:editable",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -659,14 +659,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom80",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -678,14 +678,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom807",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -697,14 +697,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8880",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:label",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -716,14 +716,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:label",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8312",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -735,14 +735,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8676",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -754,14 +754,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom25",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:value",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -773,14 +773,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__c:value",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6528",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__DefaultPremisesId__c",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__DefaultPremisesId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -792,14 +792,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__DefaultPremisesId__c",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__DefaultPremisesId__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5415",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__DefaultServiceAccountId__c",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__DefaultServiceAccountId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -811,14 +811,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__DefaultServiceAccountId__c",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__DefaultServiceAccountId__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9905",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__DefaultServicePointId__c",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__DefaultServicePointId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -830,14 +830,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__DefaultServicePointId__c",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__DefaultServicePointId__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2331",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__IsPriced__c",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__IsPriced__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -849,14 +849,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__IsPriced__c",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__IsPriced__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6567",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__IsValidated__c",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__IsValidated__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -868,14 +868,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__IsValidated__c",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__IsValidated__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8087",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__MultiServiceMessageData__c",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__MultiServiceMessageData__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -887,14 +887,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__MultiServiceMessageData__c",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__MultiServiceMessageData__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4268",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__TrackingNumber__c",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__TrackingNumber__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -906,14 +906,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__GroupCartId__r:%vlocity_namespace%__TrackingNumber__c",
+        "OutputFieldName": "records:vlocity_cmt__GroupCartId__r:vlocity_cmt__TrackingNumber__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7002",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:actions",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -925,14 +925,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4405",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -944,14 +944,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1047",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -963,14 +963,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2243",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:editable",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -982,14 +982,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9126",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1001,14 +1001,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4082",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1020,14 +1020,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom933",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:label",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1039,14 +1039,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:label",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8789",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1058,14 +1058,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom789",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1077,14 +1077,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6599",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:value",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1096,14 +1096,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedGroupItems__c:value",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedGroupItems__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5135",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:actions",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1115,14 +1115,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9997",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1134,14 +1134,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1875",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1153,14 +1153,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4011",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:editable",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1172,14 +1172,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4154",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1191,14 +1191,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2802",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1210,14 +1210,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1716",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:label",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1229,14 +1229,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:label",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom450",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1248,14 +1248,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6306",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1267,14 +1267,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4962",
-        "InputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:value",
+        "InputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1286,14 +1286,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__HasUnappliedMembers__c:value",
+        "OutputFieldName": "records:vlocity_cmt__HasUnappliedMembers__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5807",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:actions",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1305,14 +1305,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom3088",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1324,14 +1324,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5769",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1343,14 +1343,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2311",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:editable",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1362,14 +1362,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9544",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1381,14 +1381,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom340",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1400,14 +1400,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2411",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:label",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1419,14 +1419,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:label",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2976",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1438,14 +1438,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5642",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1457,14 +1457,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6794",
-        "InputFieldName": "records:%vlocity_namespace%__LockedBy__c:value",
+        "InputFieldName": "records:vlocity_cmt__LockedBy__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1476,14 +1476,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedBy__c:value",
+        "OutputFieldName": "records:vlocity_cmt__LockedBy__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1363",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:actions",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1495,14 +1495,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9495",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1514,14 +1514,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4234",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1533,14 +1533,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7938",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:editable",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1552,14 +1552,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5420",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1571,14 +1571,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1899",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1590,14 +1590,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7299",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:label",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1609,14 +1609,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:label",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7998",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1628,14 +1628,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4242",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1647,14 +1647,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom560",
-        "InputFieldName": "records:%vlocity_namespace%__LockedFor__c:value",
+        "InputFieldName": "records:vlocity_cmt__LockedFor__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1666,14 +1666,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__LockedFor__c:value",
+        "OutputFieldName": "records:vlocity_cmt__LockedFor__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7328",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:actions",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1685,14 +1685,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6225",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1704,14 +1704,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9267",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1723,14 +1723,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1618",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:editable",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1742,14 +1742,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6686",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1761,14 +1761,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8228",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1780,14 +1780,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom607",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:label",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1799,14 +1799,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:label",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1797",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1818,14 +1818,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9505",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1837,14 +1837,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom99",
-        "InputFieldName": "records:%vlocity_namespace%__MemberCount__c:value",
+        "InputFieldName": "records:vlocity_cmt__MemberCount__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1856,14 +1856,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberCount__c:value",
+        "OutputFieldName": "records:vlocity_cmt__MemberCount__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4503",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:actions",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1875,14 +1875,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8216",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1894,14 +1894,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8696",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1913,14 +1913,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5202",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:editable",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1932,14 +1932,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6967",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1951,14 +1951,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7830",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1970,14 +1970,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7712",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:label",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1989,14 +1989,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:label",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5175",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2008,14 +2008,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9798",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2027,14 +2027,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom4369",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:value",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2046,14 +2046,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MemberType__c:value",
+        "OutputFieldName": "records:vlocity_cmt__MemberType__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5949",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:actions",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:actions",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2065,14 +2065,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:actions",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:actions",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom3358",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:alternateValues",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:alternateValues",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2084,14 +2084,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:alternateValues",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:alternateValues",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5204",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:dataType",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:dataType",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2103,14 +2103,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:dataType",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:dataType",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7853",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:editable",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:editable",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2122,14 +2122,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:editable",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:editable",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5639",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:fieldName",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:fieldName",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2141,14 +2141,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:fieldName",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:fieldName",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2518",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:hidden",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:hidden",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2160,14 +2160,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:hidden",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:hidden",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom2298",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:label",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:label",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2179,14 +2179,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:label",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:label",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom6325",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:originalValue",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:originalValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2198,14 +2198,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:originalValue",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:originalValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom3687",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:previousValue",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:previousValue",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2217,14 +2217,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:previousValue",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:previousValue",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom8040",
-        "InputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:value",
+        "InputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2236,14 +2236,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__MultiServiceMessageData__c:value",
+        "OutputFieldName": "records:vlocity_cmt__MultiServiceMessageData__c:value",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom5064",
-        "InputFieldName": "records:%vlocity_namespace%__SelectedAssetsCommonConfiguration__c",
+        "InputFieldName": "records:vlocity_cmt__SelectedAssetsCommonConfiguration__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -2255,7 +2255,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__SelectedAssetsCommonConfiguration__c",
+        "OutputFieldName": "records:vlocity_cmt__SelectedAssetsCommonConfiguration__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -3060,7 +3060,7 @@
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom1375",
-        "InputFieldName": "records:groupCart:%vlocity_namespace%__DefaultServiceAccountId__c",
+        "InputFieldName": "records:groupCart:vlocity_cmt__DefaultServiceAccountId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -3072,14 +3072,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:groupCart:%vlocity_namespace%__DefaultServiceAccountId__c",
+        "OutputFieldName": "records:groupCart:vlocity_cmt__DefaultServiceAccountId__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom7364",
-        "InputFieldName": "records:groupCart:%vlocity_namespace%__IsPriced__c",
+        "InputFieldName": "records:groupCart:vlocity_cmt__IsPriced__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -3091,14 +3091,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:groupCart:%vlocity_namespace%__IsPriced__c",
+        "OutputFieldName": "records:groupCart:vlocity_cmt__IsPriced__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "MultiSite-GetGroupsCustom9263",
-        "InputFieldName": "records:groupCart:%vlocity_namespace%__IsValidated__c",
+        "InputFieldName": "records:groupCart:vlocity_cmt__IsValidated__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -3110,7 +3110,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:groupCart:%vlocity_namespace%__IsValidated__c",
+        "OutputFieldName": "records:groupCart:vlocity_cmt__IsValidated__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"

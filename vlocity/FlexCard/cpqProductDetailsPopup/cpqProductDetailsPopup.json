@@ -16,7 +16,7 @@
         "Id": "0RbRO0000001wI60AI",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqProductDetailsPopup_2_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",
@@ -618,7 +618,7 @@
                             "property": {
                                 "card": "{card}",
                                 "currency": "USD",
-                                "fieldName": "%vlocity_namespace%__RecurringPrice__c.value",
+                                "fieldName": "vlocity_cmt__RecurringPrice__c.value",
                                 "label": "{Label.Recurring}",
                                 "locale": "en-US",
                                 "placeholder": "",

@@ -28,7 +28,7 @@
         "FilterOperator": "=",
         "FilterValue": "contextId",
         "GlobalKey": "GetQuoteDetailsCustom9551",
-        "InputFieldName": "%vlocity_namespace%__ParentQuoteId__c",
+        "InputFieldName": "vlocity_cmt__ParentQuoteId__c",
         "InputObjectName": "Quote",
         "InputObjectQuerySequence": 2,
         "IsDisabled": false,
@@ -220,7 +220,7 @@
     },
     {
         "GlobalKey": "GetQuoteDetailsCustom2840",
-        "InputFieldName": "Quote:%vlocity_namespace%__PriceListId__c",
+        "InputFieldName": "Quote:vlocity_cmt__PriceListId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -239,7 +239,7 @@
     },
     {
         "GlobalKey": "GetQuoteDetailsCustom5359",
-        "InputFieldName": "Quote:%vlocity_namespace%__PriceListId__r.Name",
+        "InputFieldName": "Quote:vlocity_cmt__PriceListId__r.Name",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

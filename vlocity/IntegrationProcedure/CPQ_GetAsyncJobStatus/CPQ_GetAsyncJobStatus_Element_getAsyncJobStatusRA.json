@@ -24,7 +24,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction1",
-        "remoteClass": "%vlocity_namespace%.VOIAsyncProcess",
+        "remoteClass": "vlocity_cmt.VOIAsyncProcess",
         "remoteMethod": "getAsyncJobStatus",
         "remoteOptions": {
             "asyncProcessId": "%asyncProcessId%",

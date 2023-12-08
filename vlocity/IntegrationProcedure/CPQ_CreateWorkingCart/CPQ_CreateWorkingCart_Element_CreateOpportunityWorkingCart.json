@@ -32,13 +32,13 @@
                     "Name": "Working Cart"
                 },
                 {
-                    "%vlocity_namespace%__OriginatingChannel__c": "Retail"
+                    "vlocity_cmt__OriginatingChannel__c": "Retail"
                 },
                 {
                     "pricelistName": "%getOpportunityDetail:PriceListName%"
                 },
                 {
-                    "%vlocity_namespace%__OpportunityId__c": "%contextId%"
+                    "vlocity_cmt__OpportunityId__c": "%contextId%"
                 },
                 {
                     "CloseDate": "%getOpportunityDetail:closeDate%"
@@ -54,7 +54,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction1",
-        "remoteClass": "%vlocity_namespace%.CpqAppHandler",
+        "remoteClass": "vlocity_cmt.CpqAppHandler",
         "remoteMethod": "createCart",
         "remoteOptions": {
         },

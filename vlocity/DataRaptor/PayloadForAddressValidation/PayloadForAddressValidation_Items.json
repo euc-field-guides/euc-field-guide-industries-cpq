@@ -20,7 +20,7 @@
     },
     {
         "GlobalKey": "PayloadForAddressValidationCustom4348",
-        "InputFieldName": "QuoteMembers:%vlocity_namespace%__City__c",
+        "InputFieldName": "QuoteMembers:vlocity_cmt__City__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -39,7 +39,7 @@
     },
     {
         "GlobalKey": "PayloadForAddressValidationCustom3875",
-        "InputFieldName": "QuoteMembers:%vlocity_namespace%__PostalCode__c",
+        "InputFieldName": "QuoteMembers:vlocity_cmt__PostalCode__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -58,7 +58,7 @@
     },
     {
         "GlobalKey": "PayloadForAddressValidationCustom993",
-        "InputFieldName": "QuoteMembers:%vlocity_namespace%__State__c",
+        "InputFieldName": "QuoteMembers:vlocity_cmt__State__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -77,7 +77,7 @@
     },
     {
         "GlobalKey": "PayloadForAddressValidationCustom1985",
-        "InputFieldName": "QuoteMembers:%vlocity_namespace%__StreetAddress__c",
+        "InputFieldName": "QuoteMembers:vlocity_cmt__StreetAddress__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

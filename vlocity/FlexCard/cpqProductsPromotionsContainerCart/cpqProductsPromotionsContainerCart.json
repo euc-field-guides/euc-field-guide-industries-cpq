@@ -398,7 +398,7 @@
         "Id": "0Rb5g0000011LkgCAE",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqProductsPromotionsContainerCart_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

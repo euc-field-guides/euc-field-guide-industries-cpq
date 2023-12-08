@@ -15,7 +15,7 @@
         "Id": "0Rb5g000000R2EfCAK",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqDiscountStatus_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",
@@ -35,7 +35,7 @@
                             "name": "Text",
                             "property": {
                                 "card": "{card}",
-                                "mergeField": "%3Cdiv%3E%7B%vlocity_namespace%__ApprovalStatus__c%5B'value'%5D%7D%3C/div%3E",
+                                "mergeField": "%3Cdiv%3E%7Bvlocity_cmt__ApprovalStatus__c%5B'value'%5D%7D%3C/div%3E",
                                 "record": "{record}"
                             },
                             "size": {

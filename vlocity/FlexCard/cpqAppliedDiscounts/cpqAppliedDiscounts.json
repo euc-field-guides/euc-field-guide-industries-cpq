@@ -104,7 +104,7 @@
         "Id": "0Rb5g000000QVBTCA4",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqAppliedDiscounts_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "states": [
@@ -255,7 +255,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__AppliesToAllItems__c.value",
+                                                            "field": "vlocity_cmt__AppliesToAllItems__c.value",
                                                             "id": "state-new-condition-7",
                                                             "operator": "==",
                                                             "type": "custom",
@@ -1831,7 +1831,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__Duration__c['value']",
+                                                            "field": "vlocity_cmt__Duration__c['value']",
                                                             "id": "state-new-condition-14",
                                                             "operator": "!=",
                                                             "type": "custom",
@@ -1843,7 +1843,7 @@
                                                 },
                                                 "fieldName": "",
                                                 "label": "{Label.CPQDuration}",
-                                                "placeholder": "{%vlocity_namespace%__Duration__c['value']} {%vlocity_namespace%__DurationUnitOfMeasure__c['value']}",
+                                                "placeholder": "{vlocity_cmt__Duration__c['value']} {vlocity_cmt__DurationUnitOfMeasure__c['value']}",
                                                 "record": "{record}",
                                                 "type": "text"
                                             },
@@ -1904,7 +1904,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__Duration__c['value']",
+                                                            "field": "vlocity_cmt__Duration__c['value']",
                                                             "id": "state-new-condition-14",
                                                             "operator": "==",
                                                             "type": "custom",

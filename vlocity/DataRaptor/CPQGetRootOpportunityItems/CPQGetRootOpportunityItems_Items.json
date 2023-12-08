@@ -4,7 +4,7 @@
         "FilterOperator": "NOT LIKE",
         "FilterValue": "onlyRoot",
         "GlobalKey": "CPQGetRootOpportunityItems3096488177352119",
-        "InputFieldName": "%vlocity_namespace%__LineNumber__c",
+        "InputFieldName": "vlocity_cmt__LineNumber__c",
         "InputObjectName": "OpportunityLineItem",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -68,7 +68,7 @@
     },
     {
         "GlobalKey": "CPQGetRootOpportunityItems2240668583989298",
-        "InputFieldName": "item:%vlocity_namespace%__RootItemId__c",
+        "InputFieldName": "item:vlocity_cmt__RootItemId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

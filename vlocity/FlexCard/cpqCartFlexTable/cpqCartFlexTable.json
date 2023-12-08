@@ -123,7 +123,7 @@
         "Id": "0RbRO0000001dfc0AA",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartFlexTable_5_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,
@@ -870,7 +870,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__IsChangesAllowed__c.value",
+                                                                    "field": "vlocity_cmt__IsChangesAllowed__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-392",
                                                                     "operator": "==",
@@ -878,7 +878,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__IsChangesAllowed__c.value",
+                                                                    "field": "vlocity_cmt__IsChangesAllowed__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-480",
                                                                     "logicalOperator": "||",
@@ -887,7 +887,7 @@
                                                                     "value": "true"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__IsChangesAllowed__c.value",
+                                                                    "field": "vlocity_cmt__IsChangesAllowed__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-600",
                                                                     "logicalOperator": "||",
@@ -911,7 +911,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                                    "field": "vlocity_cmt__SupplementalAction__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-618",
                                                                     "operator": "==",
@@ -919,7 +919,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                                    "field": "vlocity_cmt__SupplementalAction__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-706",
                                                                     "logicalOperator": "||",
@@ -928,7 +928,7 @@
                                                                     "value": "cancel"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                                    "field": "vlocity_cmt__SupplementalAction__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-826",
                                                                     "logicalOperator": "||",
@@ -941,7 +941,7 @@
                                                             "logicalOperator": "&&"
                                                         },
                                                         {
-                                                            "field": "%vlocity_namespace%__Action__c.value",
+                                                            "field": "vlocity_cmt__Action__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-11",
                                                             "logicalOperator": "&&",
@@ -1715,11 +1715,11 @@
                                                             }
                                                         },
                                                         {
-                                                            "conditionString": "%vlocity_namespace%__UsagePriceTotal__c == undefined && %vlocity_namespace%__Action__c.value == Disconnect",
+                                                            "conditionString": "vlocity_cmt__UsagePriceTotal__c == undefined && vlocity_cmt__Action__c.value == Disconnect",
                                                             "conditions": {
                                                                 "group": [
                                                                     {
-                                                                        "field": "%vlocity_namespace%__UsagePriceTotal__c",
+                                                                        "field": "vlocity_cmt__UsagePriceTotal__c",
                                                                         "hasMergeField": false,
                                                                         "id": "state-new-condition-15",
                                                                         "operator": "==",
@@ -1727,7 +1727,7 @@
                                                                         "value": "undefined"
                                                                     },
                                                                     {
-                                                                        "field": "%vlocity_namespace%__Action__c.value",
+                                                                        "field": "vlocity_cmt__Action__c.value",
                                                                         "hasMergeField": false,
                                                                         "id": "state-new-condition-28",
                                                                         "logicalOperator": "&&",
@@ -1794,11 +1794,11 @@
                                                             }
                                                         },
                                                         {
-                                                            "conditionString": "%vlocity_namespace%__Action__c.value == Disconnect || %vlocity_namespace%__SupplementalAction__c.value == Cancel",
+                                                            "conditionString": "vlocity_cmt__Action__c.value == Disconnect || vlocity_cmt__SupplementalAction__c.value == Cancel",
                                                             "conditions": {
                                                                 "group": [
                                                                     {
-                                                                        "field": "%vlocity_namespace%__Action__c.value",
+                                                                        "field": "vlocity_cmt__Action__c.value",
                                                                         "hasMergeField": false,
                                                                         "id": "state-new-condition-33",
                                                                         "operator": "==",
@@ -1806,7 +1806,7 @@
                                                                         "value": "Disconnect"
                                                                     },
                                                                     {
-                                                                        "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                                        "field": "vlocity_cmt__SupplementalAction__c.value",
                                                                         "hasMergeField": false,
                                                                         "id": "state-new-condition-10",
                                                                         "logicalOperator": "||",
@@ -1873,11 +1873,11 @@
                                                             }
                                                         },
                                                         {
-                                                            "conditionString": "%vlocity_namespace%__UsagePriceTotal__c == undefined",
+                                                            "conditionString": "vlocity_cmt__UsagePriceTotal__c == undefined",
                                                             "conditions": {
                                                                 "group": [
                                                                     {
-                                                                        "field": "%vlocity_namespace%__UsagePriceTotal__c",
+                                                                        "field": "vlocity_cmt__UsagePriceTotal__c",
                                                                         "hasMergeField": false,
                                                                         "id": "state-new-condition-8",
                                                                         "operator": "==",
@@ -1954,7 +1954,7 @@
                                                     "parentElementKey": "element_element_element_block_1_0_block_0_0_block_5_0",
                                                     "property": {
                                                         "card": "{card}",
-                                                        "fieldName": "Product2.%vlocity_namespace%__VersionLabel__c",
+                                                        "fieldName": "Product2.vlocity_cmt__VersionLabel__c",
                                                         "placeholder": "",
                                                         "record": "{record}",
                                                         "type": "text"
@@ -2155,11 +2155,11 @@
                                                     }
                                                 },
                                                 {
-                                                    "conditionString": "%vlocity_namespace%__UsagePriceTotal__c == undefined && %vlocity_namespace%__Action__c.value == Disconnect",
+                                                    "conditionString": "vlocity_cmt__UsagePriceTotal__c == undefined && vlocity_cmt__Action__c.value == Disconnect",
                                                     "conditions": {
                                                         "group": [
                                                             {
-                                                                "field": "%vlocity_namespace%__UsagePriceTotal__c",
+                                                                "field": "vlocity_cmt__UsagePriceTotal__c",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-0",
                                                                 "operator": "==",
@@ -2167,7 +2167,7 @@
                                                                 "value": "undefined"
                                                             },
                                                             {
-                                                                "field": "%vlocity_namespace%__Action__c.value",
+                                                                "field": "vlocity_cmt__Action__c.value",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-16",
                                                                 "logicalOperator": "&&",
@@ -2224,11 +2224,11 @@
                                                     }
                                                 },
                                                 {
-                                                    "conditionString": "%vlocity_namespace%__Action__c.value == Disconnect && %vlocity_namespace%__SupplementalAction__c.value == Cancel",
+                                                    "conditionString": "vlocity_cmt__Action__c.value == Disconnect && vlocity_cmt__SupplementalAction__c.value == Cancel",
                                                     "conditions": {
                                                         "group": [
                                                             {
-                                                                "field": "%vlocity_namespace%__Action__c.value",
+                                                                "field": "vlocity_cmt__Action__c.value",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-34",
                                                                 "operator": "==",
@@ -2236,7 +2236,7 @@
                                                                 "value": "Disconnect"
                                                             },
                                                             {
-                                                                "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                                "field": "vlocity_cmt__SupplementalAction__c.value",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-41",
                                                                 "logicalOperator": "&&",
@@ -2293,11 +2293,11 @@
                                                     }
                                                 },
                                                 {
-                                                    "conditionString": "%vlocity_namespace%__UsagePriceTotal__c == undefined && (lineItems == undefined && productGroups == undefined)",
+                                                    "conditionString": "vlocity_cmt__UsagePriceTotal__c == undefined && (lineItems == undefined && productGroups == undefined)",
                                                     "conditions": {
                                                         "group": [
                                                             {
-                                                                "field": "%vlocity_namespace%__UsagePriceTotal__c",
+                                                                "field": "vlocity_cmt__UsagePriceTotal__c",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-53",
                                                                 "operator": "==",
@@ -2376,11 +2376,11 @@
                                                     }
                                                 },
                                                 {
-                                                    "conditionString": "%vlocity_namespace%__UsagePriceTotal__c != undefined && (lineItems != undefined || productGroups != undefined)",
+                                                    "conditionString": "vlocity_cmt__UsagePriceTotal__c != undefined && (lineItems != undefined || productGroups != undefined)",
                                                     "conditions": {
                                                         "group": [
                                                             {
-                                                                "field": "%vlocity_namespace%__UsagePriceTotal__c",
+                                                                "field": "vlocity_cmt__UsagePriceTotal__c",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-4",
                                                                 "operator": "!=",
@@ -2486,7 +2486,7 @@
                                                             "id": "state-condition-object",
                                                             "isParent": true
                                                         },
-                                                        "mergeField": "%3Cdiv%3E%3Cstrong%3E%7B%vlocity_namespace%__Action__c.value%7D%3C/strong%3E%3C/div%3E",
+                                                        "mergeField": "%3Cdiv%3E%3Cstrong%3E%7Bvlocity_cmt__Action__c.value%7D%3C/strong%3E%3C/div%3E",
                                                         "record": "{record}"
                                                     },
                                                     "size": {
@@ -2606,11 +2606,11 @@
                                                             }
                                                         },
                                                         {
-                                                            "conditionString": "%vlocity_namespace%__Action__c.value == Disconnect",
+                                                            "conditionString": "vlocity_cmt__Action__c.value == Disconnect",
                                                             "conditions": {
                                                                 "group": [
                                                                     {
-                                                                        "field": "%vlocity_namespace%__Action__c.value",
+                                                                        "field": "vlocity_cmt__Action__c.value",
                                                                         "hasMergeField": false,
                                                                         "id": "state-new-condition-0",
                                                                         "operator": "==",
@@ -2676,11 +2676,11 @@
                                                             }
                                                         },
                                                         {
-                                                            "conditionString": "%vlocity_namespace%__Action__c.value == New",
+                                                            "conditionString": "vlocity_cmt__Action__c.value == New",
                                                             "conditions": {
                                                                 "group": [
                                                                     {
-                                                                        "field": "%vlocity_namespace%__Action__c.value",
+                                                                        "field": "vlocity_cmt__Action__c.value",
                                                                         "hasMergeField": false,
                                                                         "id": "state-new-condition-12",
                                                                         "operator": "==",
@@ -2749,11 +2749,11 @@
                                                             }
                                                         },
                                                         {
-                                                            "conditionString": "%vlocity_namespace%__Action__c.value == Change",
+                                                            "conditionString": "vlocity_cmt__Action__c.value == Change",
                                                             "conditions": {
                                                                 "group": [
                                                                     {
-                                                                        "field": "%vlocity_namespace%__Action__c.value",
+                                                                        "field": "vlocity_cmt__Action__c.value",
                                                                         "hasMergeField": false,
                                                                         "id": "state-new-condition-19",
                                                                         "operator": "==",
@@ -2819,11 +2819,11 @@
                                                             }
                                                         },
                                                         {
-                                                            "conditionString": "%vlocity_namespace%__Action__c.value == Existing",
+                                                            "conditionString": "vlocity_cmt__Action__c.value == Existing",
                                                             "conditions": {
                                                                 "group": [
                                                                     {
-                                                                        "field": "%vlocity_namespace%__Action__c.value",
+                                                                        "field": "vlocity_cmt__Action__c.value",
                                                                         "hasMergeField": false,
                                                                         "id": "state-new-condition-26",
                                                                         "operator": "==",
@@ -2915,7 +2915,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__SupplementalAction__c",
+                                                                    "field": "vlocity_cmt__SupplementalAction__c",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-14",
                                                                     "operator": "==",
@@ -2923,7 +2923,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                                    "field": "vlocity_cmt__SupplementalAction__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-46",
                                                                     "logicalOperator": "||",
@@ -3055,11 +3055,11 @@
                                                     }
                                                 },
                                                 {
-                                                    "conditionString": "%vlocity_namespace%__Action__c.value == Add",
+                                                    "conditionString": "vlocity_cmt__Action__c.value == Add",
                                                     "conditions": {
                                                         "group": [
                                                             {
-                                                                "field": "%vlocity_namespace%__Action__c.value",
+                                                                "field": "vlocity_cmt__Action__c.value",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-0",
                                                                 "operator": "==",
@@ -3141,7 +3141,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                            "field": "vlocity_cmt__SupplementalAction__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-0",
                                                             "operator": "!=",
@@ -3149,7 +3149,7 @@
                                                             "value": "null"
                                                         },
                                                         {
-                                                            "field": "%vlocity_namespace%__Action__c.value",
+                                                            "field": "vlocity_cmt__Action__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-7",
                                                             "logicalOperator": "&&",
@@ -3181,7 +3181,7 @@
                                                 },
                                                 "isChildCardTrackingEnabled": false,
                                                 "parentAttribute": {
-                                                    "supplementalAction": "{%vlocity_namespace%__SupplementalAction__c.value}"
+                                                    "supplementalAction": "{vlocity_cmt__SupplementalAction__c.value}"
                                                 },
                                                 "recordId": "{recordId}",
                                                 "selectedState": "Active"
@@ -3854,7 +3854,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__Action__c.value",
+                                                            "field": "vlocity_cmt__Action__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-82",
                                                             "operator": "==",
@@ -3864,7 +3864,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__QuoteGroupId__c",
+                                                                    "field": "vlocity_cmt__QuoteGroupId__c",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-101",
                                                                     "operator": "==",
@@ -3872,7 +3872,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__QuoteGroupId__c.value",
+                                                                    "field": "vlocity_cmt__QuoteGroupId__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-139",
                                                                     "logicalOperator": "||",
@@ -3887,7 +3887,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__OrderGroupId__c",
+                                                                    "field": "vlocity_cmt__OrderGroupId__c",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-223",
                                                                     "operator": "==",
@@ -3895,7 +3895,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__OrderGroupId__c.value",
+                                                                    "field": "vlocity_cmt__OrderGroupId__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-276",
                                                                     "logicalOperator": "||",
@@ -3933,7 +3933,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__IsChangesAllowed__c.value",
+                                                                    "field": "vlocity_cmt__IsChangesAllowed__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-45",
                                                                     "operator": "==",
@@ -3941,7 +3941,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__IsChangesAllowed__c.value",
+                                                                    "field": "vlocity_cmt__IsChangesAllowed__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-236",
                                                                     "logicalOperator": "||",
@@ -3950,7 +3950,7 @@
                                                                     "value": "true"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__IsChangesAllowed__c.value",
+                                                                    "field": "vlocity_cmt__IsChangesAllowed__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-610",
                                                                     "logicalOperator": "||",
@@ -3965,7 +3965,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                                    "field": "vlocity_cmt__SupplementalAction__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-390",
                                                                     "operator": "==",
@@ -3973,7 +3973,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                                    "field": "vlocity_cmt__SupplementalAction__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-510",
                                                                     "logicalOperator": "||",
@@ -3982,7 +3982,7 @@
                                                                     "value": "Cancel"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                                    "field": "vlocity_cmt__SupplementalAction__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-415",
                                                                     "logicalOperator": "||",
@@ -4175,7 +4175,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__IsChangesAllowed__c.value",
+                                                            "field": "vlocity_cmt__IsChangesAllowed__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-38",
                                                             "operator": "==",
@@ -4183,7 +4183,7 @@
                                                             "value": "false"
                                                         },
                                                         {
-                                                            "field": "%vlocity_namespace%__SupplementalAction__c.value",
+                                                            "field": "vlocity_cmt__SupplementalAction__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-48",
                                                             "logicalOperator": "||",
@@ -4201,7 +4201,7 @@
                                                             "value": "true"
                                                         },
                                                         {
-                                                            "field": "%vlocity_namespace%__Action__c.value",
+                                                            "field": "vlocity_cmt__Action__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-82",
                                                             "logicalOperator": "||",
@@ -4212,7 +4212,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__QuoteGroupId__c",
+                                                                    "field": "vlocity_cmt__QuoteGroupId__c",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-101",
                                                                     "operator": "!=",
@@ -4220,7 +4220,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__QuoteGroupId__c.value",
+                                                                    "field": "vlocity_cmt__QuoteGroupId__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-139",
                                                                     "logicalOperator": "&&",
@@ -4235,7 +4235,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__OrderGroupId__c",
+                                                                    "field": "vlocity_cmt__OrderGroupId__c",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-223",
                                                                     "operator": "!=",
@@ -4243,7 +4243,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__OrderGroupId__c.value",
+                                                                    "field": "vlocity_cmt__OrderGroupId__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-276",
                                                                     "logicalOperator": "&&",
@@ -4556,11 +4556,11 @@
                                                     }
                                                 },
                                                 {
-                                                    "conditionString": "%vlocity_namespace%__UsagePriceTotal__c == undefined",
+                                                    "conditionString": "vlocity_cmt__UsagePriceTotal__c == undefined",
                                                     "conditions": {
                                                         "group": [
                                                             {
-                                                                "field": "%vlocity_namespace%__UsagePriceTotal__c",
+                                                                "field": "vlocity_cmt__UsagePriceTotal__c",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-2",
                                                                 "operator": "==",

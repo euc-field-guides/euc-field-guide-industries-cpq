@@ -39,7 +39,7 @@
     },
     {
         "GlobalKey": "PreparePayloadForServiceQualificationItemCustom8736",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__City__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__City__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -58,7 +58,7 @@
     },
     {
         "GlobalKey": "PreparePayloadForServiceQualificationItemCustom6105",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__Country__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__Country__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -77,7 +77,7 @@
     },
     {
         "GlobalKey": "PreparePayloadForServiceQualificationItemCustom9395",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__PostalCode__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__PostalCode__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -96,7 +96,7 @@
     },
     {
         "GlobalKey": "PreparePayloadForServiceQualificationItemCustom2181",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__State__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__State__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -115,7 +115,7 @@
     },
     {
         "GlobalKey": "PreparePayloadForServiceQualificationItemCustom7625",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__StreetAddress__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__StreetAddress__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

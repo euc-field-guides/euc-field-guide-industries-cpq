@@ -162,7 +162,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction2",
-        "remoteClass": "%vlocity_namespace%.VOIAsyncProcess",
+        "remoteClass": "vlocity_cmt.VOIAsyncProcess",
         "remoteMethod": "startAsyncJob",
         "remoteOptions": {
         },

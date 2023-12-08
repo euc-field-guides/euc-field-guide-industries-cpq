@@ -110,7 +110,7 @@
         "Id": "0Rb5g000000SkqnCAC",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartAppliedDiscount_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [

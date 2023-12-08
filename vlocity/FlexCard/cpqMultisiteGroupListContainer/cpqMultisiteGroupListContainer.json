@@ -102,7 +102,7 @@
         "Id": "0RbRN0000001XCy0AM",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMultisiteGroupListContainer_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "states": [

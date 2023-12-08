@@ -20,7 +20,7 @@
     },
     {
         "GlobalKey": "CustomizeGroupDetailsForReplaceCustoma005g000031DjgvAACItem1",
-        "InputFieldName": "records:%vlocity_namespace%__GroupCartId__c:value",
+        "InputFieldName": "records:vlocity_cmt__GroupCartId__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -58,7 +58,7 @@
     },
     {
         "GlobalKey": "CustomizeGroupDetailsForReplaceCustom3801",
-        "InputFieldName": "records:%vlocity_namespace%__MemberType__c:value",
+        "InputFieldName": "records:vlocity_cmt__MemberType__c:value",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

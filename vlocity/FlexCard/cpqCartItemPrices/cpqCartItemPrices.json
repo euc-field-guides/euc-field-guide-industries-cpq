@@ -51,8 +51,8 @@
                                             "property": {
                                                 "card": "{card}",
                                                 "currency": "",
-                                                "fieldName": "%vlocity_namespace%__UsageUnitPrice__c.value",
-                                                "label": "{%vlocity_namespace%__UsageUnitPrice__c.label}",
+                                                "fieldName": "vlocity_cmt__UsageUnitPrice__c.value",
+                                                "label": "{vlocity_cmt__UsageUnitPrice__c.label}",
                                                 "locale": "",
                                                 "placeholder": "",
                                                 "record": "{record}",
@@ -149,11 +149,11 @@
                                                     }
                                                 },
                                                 {
-                                                    "conditionString": "%vlocity_namespace%__Action__c.value == Disconnect",
+                                                    "conditionString": "vlocity_cmt__Action__c.value == Disconnect",
                                                     "conditions": {
                                                         "group": [
                                                             {
-                                                                "field": "%vlocity_namespace%__Action__c.value",
+                                                                "field": "vlocity_cmt__Action__c.value",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-0",
                                                                 "operator": "==",
@@ -224,7 +224,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__UsageUnitPrice__c.originalValue",
+                                                            "field": "vlocity_cmt__UsageUnitPrice__c.originalValue",
                                                             "id": "state-new-condition-9",
                                                             "operator": "!=",
                                                             "type": "custom",
@@ -235,7 +235,7 @@
                                                     "isParent": true
                                                 },
                                                 "data-preloadConditionalElement": false,
-                                                "fieldName": "%vlocity_namespace%__UsageUnitPrice__c.originalValue",
+                                                "fieldName": "vlocity_cmt__UsageUnitPrice__c.originalValue",
                                                 "locale": "",
                                                 "placeholder": "",
                                                 "record": "{record}",
@@ -346,7 +346,7 @@
                                         "data-conditions": {
                                             "group": [
                                                 {
-                                                    "field": "%vlocity_namespace%__UsageUnitPrice__c",
+                                                    "field": "vlocity_cmt__UsageUnitPrice__c",
                                                     "hasMergeField": false,
                                                     "id": "state-new-condition-0",
                                                     "operator": "!=",
@@ -465,8 +465,8 @@
                                             "property": {
                                                 "card": "{card}",
                                                 "currency": "",
-                                                "fieldName": "%vlocity_namespace%__OneTimeCharge__c.value",
-                                                "label": "{%vlocity_namespace%__OneTimeCharge__c.label}",
+                                                "fieldName": "vlocity_cmt__OneTimeCharge__c.value",
+                                                "label": "{vlocity_cmt__OneTimeCharge__c.label}",
                                                 "locale": "",
                                                 "placeholder": "",
                                                 "record": "{record}",
@@ -563,11 +563,11 @@
                                                     }
                                                 },
                                                 {
-                                                    "conditionString": "%vlocity_namespace%__Action__c.value == Disconnect",
+                                                    "conditionString": "vlocity_cmt__Action__c.value == Disconnect",
                                                     "conditions": {
                                                         "group": [
                                                             {
-                                                                "field": "%vlocity_namespace%__Action__c.value",
+                                                                "field": "vlocity_cmt__Action__c.value",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-7",
                                                                 "operator": "==",
@@ -638,7 +638,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__OneTimeCharge__c.originalValue",
+                                                            "field": "vlocity_cmt__OneTimeCharge__c.originalValue",
                                                             "id": "state-new-condition-9",
                                                             "operator": "!=",
                                                             "type": "custom",
@@ -649,7 +649,7 @@
                                                     "isParent": true
                                                 },
                                                 "data-preloadConditionalElement": false,
-                                                "fieldName": "%vlocity_namespace%__OneTimeCharge__c.originalValue",
+                                                "fieldName": "vlocity_cmt__OneTimeCharge__c.originalValue",
                                                 "locale": "",
                                                 "placeholder": "",
                                                 "record": "{record}",
@@ -864,8 +864,8 @@
                                             "property": {
                                                 "card": "{card}",
                                                 "currency": "",
-                                                "fieldName": "%vlocity_namespace%__RecurringCharge__c.value",
-                                                "label": "{%vlocity_namespace%__RecurringCharge__c.label}",
+                                                "fieldName": "vlocity_cmt__RecurringCharge__c.value",
+                                                "label": "{vlocity_cmt__RecurringCharge__c.label}",
                                                 "locale": "",
                                                 "placeholder": "",
                                                 "record": "{record}",
@@ -962,11 +962,11 @@
                                                     }
                                                 },
                                                 {
-                                                    "conditionString": "%vlocity_namespace%__Action__c.value == Disconnect",
+                                                    "conditionString": "vlocity_cmt__Action__c.value == Disconnect",
                                                     "conditions": {
                                                         "group": [
                                                             {
-                                                                "field": "%vlocity_namespace%__Action__c.value",
+                                                                "field": "vlocity_cmt__Action__c.value",
                                                                 "hasMergeField": false,
                                                                 "id": "state-new-condition-14",
                                                                 "operator": "==",
@@ -1037,7 +1037,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__RecurringCharge__c.originalValue",
+                                                            "field": "vlocity_cmt__RecurringCharge__c.originalValue",
                                                             "id": "state-new-condition-9",
                                                             "operator": "!=",
                                                             "type": "custom",
@@ -1048,7 +1048,7 @@
                                                     "isParent": true
                                                 },
                                                 "data-preloadConditionalElement": false,
-                                                "fieldName": "%vlocity_namespace%__RecurringCharge__c.originalValue",
+                                                "fieldName": "vlocity_cmt__RecurringCharge__c.originalValue",
                                                 "locale": "",
                                                 "placeholder": "",
                                                 "record": "{record}",

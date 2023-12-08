@@ -5,7 +5,7 @@
         "FilterValue": "QuoteGroupId",
         "GlobalKey": "GetGroupSizeCustom1729",
         "InputFieldName": "Id",
-        "InputObjectName": "%vlocity_namespace%__QuoteGroup__c",
+        "InputObjectName": "vlocity_cmt__QuoteGroup__c",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
@@ -24,7 +24,7 @@
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
-        "FormulaExpression": "IF(QuoteGroup:%vlocity_namespace%__ExpectedMemberCount__c = 0 || ISBLANK(QuoteGroup:%vlocity_namespace%__ExpectedMemberCount__c), QuoteGroup:%vlocity_namespace%__MemberCount__c, QuoteGroup:%vlocity_namespace%__ExpectedMemberCount__c)",
+        "FormulaExpression": "IF(QuoteGroup:vlocity_cmt__ExpectedMemberCount__c = 0 || ISBLANK(QuoteGroup:vlocity_cmt__ExpectedMemberCount__c), QuoteGroup:vlocity_cmt__MemberCount__c, QuoteGroup:vlocity_cmt__ExpectedMemberCount__c)",
         "FormulaResultPath": "count",
         "FormulaSequence": 1,
         "GlobalKey": "GetGroupSizeCustom5927",

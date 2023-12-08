@@ -51,7 +51,7 @@
         "Id": "0Rb5g000000SbUdCAK",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqOrderStatusDiscardedDesktop_2_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [
@@ -367,7 +367,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderDocumentPdf?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderDocumentPdf?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQGenerateDocumentPDF}",
@@ -415,7 +415,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderRelationshipVisualization?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderRelationshipVisualization?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQAmendmentHistory}",
@@ -463,7 +463,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OMNotifications?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OMNotifications?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQStatusNotifications}",
@@ -1235,7 +1235,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderRelationshipVisualization?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderRelationshipVisualization?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQAmendmentHistory}",
@@ -1283,7 +1283,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OMNotifications?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OMNotifications?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQStatusNotifications}",

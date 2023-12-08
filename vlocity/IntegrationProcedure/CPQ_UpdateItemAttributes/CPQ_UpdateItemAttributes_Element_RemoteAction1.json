@@ -24,7 +24,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction1",
-        "remoteClass": "%vlocity_namespace%.CpqAppHandler",
+        "remoteClass": "vlocity_cmt.CpqAppHandler",
         "remoteMethod": "putItemAttributes",
         "remoteOptions": {
             "cartId": "%cartId%",

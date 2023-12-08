@@ -5,7 +5,7 @@
         "FilterOperator": "IN",
         "FilterValue": "AssetIds",
         "GlobalKey": "GetExistingAssetsFromOrderItemCustom8494",
-        "InputFieldName": "%vlocity_namespace%__AssetId__c",
+        "InputFieldName": "vlocity_cmt__AssetId__c",
         "InputObjectName": "OrderItem",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -51,7 +51,7 @@
     },
     {
         "GlobalKey": "GetExistingAssetsFromOrderItemCustom7071",
-        "InputFieldName": "%vlocity_namespace%__AssetId__c",
+        "InputFieldName": "vlocity_cmt__AssetId__c",
         "InputObjectName": "OrderItem",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
@@ -71,7 +71,7 @@
     },
     {
         "GlobalKey": "GetExistingAssetsFromOrderItemCustom4214",
-        "InputFieldName": "%vlocity_namespace%__AssetId__r.Name",
+        "InputFieldName": "vlocity_cmt__AssetId__r.Name",
         "InputObjectName": "OrderItem",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,

@@ -37,7 +37,7 @@
         "Id": "0Rb5e0000013wWICAY",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqDiscountList_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "states": [
@@ -61,7 +61,7 @@
                                     "property": {
                                         "card": "{card}",
                                         "fieldName": "",
-                                        "label": "{%vlocity_namespace%__DiscountType__c}",
+                                        "label": "{vlocity_cmt__DiscountType__c}",
                                         "placeholder": "{Name}",
                                         "record": "{record}",
                                         "type": "text"
@@ -171,7 +171,7 @@
                                         "data-conditions": {
                                             "group": [
                                                 {
-                                                    "field": "%vlocity_namespace%__AppliesToAllItems__c",
+                                                    "field": "vlocity_cmt__AppliesToAllItems__c",
                                                     "id": "state-new-condition-0",
                                                     "operator": "==",
                                                     "type": "custom",
@@ -976,7 +976,7 @@
                                         "data-conditions": {
                                             "group": [
                                                 {
-                                                    "field": "%vlocity_namespace%__Duration__c",
+                                                    "field": "vlocity_cmt__Duration__c",
                                                     "id": "state-new-condition-13",
                                                     "operator": "!=",
                                                     "type": "custom",
@@ -987,7 +987,7 @@
                                             "isParent": true
                                         },
                                         "label": "{Label.CPQDuration}",
-                                        "placeholder": "{%vlocity_namespace%__Duration__c} {%vlocity_namespace%__DurationUnitOfMeasure__c}",
+                                        "placeholder": "{vlocity_cmt__Duration__c} {vlocity_cmt__DurationUnitOfMeasure__c}",
                                         "record": "{record}",
                                         "type": "text"
                                     },
@@ -1048,7 +1048,7 @@
                                         "data-conditions": {
                                             "group": [
                                                 {
-                                                    "field": "%vlocity_namespace%__Duration__c",
+                                                    "field": "vlocity_cmt__Duration__c",
                                                     "id": "state-new-condition-13",
                                                     "operator": "==",
                                                     "type": "custom",
@@ -1517,7 +1517,7 @@
                                     "property": {
                                         "card": "{card}",
                                         "fieldName": "",
-                                        "label": "{%vlocity_namespace%__DiscountType__c}",
+                                        "label": "{vlocity_cmt__DiscountType__c}",
                                         "placeholder": "{Name}",
                                         "record": "{record}",
                                         "type": "text"
@@ -1627,7 +1627,7 @@
                                         "data-conditions": {
                                             "group": [
                                                 {
-                                                    "field": "%vlocity_namespace%__AppliesToAllItems__c",
+                                                    "field": "vlocity_cmt__AppliesToAllItems__c",
                                                     "id": "state-new-condition-0",
                                                     "operator": "==",
                                                     "type": "custom",
@@ -2712,7 +2712,7 @@
                                         "data-conditions": {
                                             "group": [
                                                 {
-                                                    "field": "%vlocity_namespace%__Duration__c",
+                                                    "field": "vlocity_cmt__Duration__c",
                                                     "id": "state-new-condition-13",
                                                     "operator": "!=",
                                                     "type": "custom",
@@ -2723,7 +2723,7 @@
                                             "isParent": true
                                         },
                                         "label": "{Label.CPQDuration}",
-                                        "placeholder": "{%vlocity_namespace%__Duration__c} {%vlocity_namespace%__DurationUnitOfMeasure__c}",
+                                        "placeholder": "{vlocity_cmt__Duration__c} {vlocity_cmt__DurationUnitOfMeasure__c}",
                                         "record": "{record}",
                                         "type": "text"
                                     },
@@ -2784,7 +2784,7 @@
                                         "data-conditions": {
                                             "group": [
                                                 {
-                                                    "field": "%vlocity_namespace%__Duration__c",
+                                                    "field": "vlocity_cmt__Duration__c",
                                                     "id": "state-new-condition-13",
                                                     "operator": "==",
                                                     "type": "custom",

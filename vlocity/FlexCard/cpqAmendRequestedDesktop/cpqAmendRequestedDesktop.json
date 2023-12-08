@@ -389,7 +389,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderDocumentPdf?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderDocumentPdf?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQGenerateDocumentPDF}",
@@ -437,7 +437,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderRelationshipVisualization?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderRelationshipVisualization?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQAmendmentHistory}",
@@ -485,7 +485,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OMNotifications?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OMNotifications?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQStatusNotifications}",
@@ -509,7 +509,7 @@
                                             "card": "{card}",
                                             "stateAction": {
                                                 "Web Page": {
-                                                    "targetName": "/apex/%vlocity_namespace%__XOMViewOrderDecomposition?id={Id}"
+                                                    "targetName": "/apex/vlocity_cmt__XOMViewOrderDecomposition?id={Id}"
                                                 },
                                                 "actionConditions": null,
                                                 "displayName": "{Label.CPQViewDecomposition}",
@@ -527,7 +527,7 @@
                                                 "card": "{card}",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__XOMViewOrderDecomposition?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__XOMViewOrderDecomposition?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQViewDecomposition}",
@@ -1306,7 +1306,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderDocumentPdf?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderDocumentPdf?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQGenerateDocumentPDF}",
@@ -1354,7 +1354,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderRelationshipVisualization?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderRelationshipVisualization?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQAmendmentHistory}",
@@ -1402,7 +1402,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OMNotifications?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OMNotifications?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQStatusNotifications}",

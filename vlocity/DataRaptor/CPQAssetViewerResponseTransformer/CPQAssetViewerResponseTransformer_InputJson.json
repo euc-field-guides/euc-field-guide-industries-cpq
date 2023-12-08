@@ -25,13 +25,13 @@
         },
         "records": [
             {
-                "%vlocity_namespace%__AssetReferenceId__c": {
+                "vlocity_cmt__AssetReferenceId__c": {
                     "actions": {
                     },
                     "alternateValues": null,
                     "dataType": "STRING",
                     "editable": false,
-                    "fieldName": "%vlocity_namespace%__AssetReferenceId__c",
+                    "fieldName": "vlocity_cmt__AssetReferenceId__c",
                     "hidden": true,
                     "label": "Asset Reference Id",
                     "messages": [
@@ -40,13 +40,13 @@
                     "previousValue": null,
                     "value": "20f55687-4866-29ee-d1d2-039c8d58f41a"
                 },
-                "%vlocity_namespace%__LineNumber__c": {
+                "vlocity_cmt__LineNumber__c": {
                     "actions": {
                     },
                     "alternateValues": null,
                     "dataType": "STRING",
                     "editable": false,
-                    "fieldName": "%vlocity_namespace%__LineNumber__c",
+                    "fieldName": "vlocity_cmt__LineNumber__c",
                     "hidden": true,
                     "label": "Line Number",
                     "messages": [
@@ -55,13 +55,13 @@
                     "previousValue": null,
                     "value": "0001"
                 },
-                "%vlocity_namespace%__OneTimeCharge__c": {
+                "vlocity_cmt__OneTimeCharge__c": {
                     "actions": {
                     },
                     "alternateValues": null,
                     "dataType": "CURRENCY",
                     "editable": false,
-                    "fieldName": "%vlocity_namespace%__OneTimeCharge__c",
+                    "fieldName": "vlocity_cmt__OneTimeCharge__c",
                     "hidden": true,
                     "label": "One Time Charge",
                     "messages": [
@@ -70,13 +70,13 @@
                     "previousValue": null,
                     "value": 100
                 },
-                "%vlocity_namespace%__OneTimeTotal__c": {
+                "vlocity_cmt__OneTimeTotal__c": {
                     "actions": {
                     },
                     "alternateValues": null,
                     "dataType": "CURRENCY",
                     "editable": false,
-                    "fieldName": "%vlocity_namespace%__OneTimeTotal__c",
+                    "fieldName": "vlocity_cmt__OneTimeTotal__c",
                     "hidden": true,
                     "label": "One Time Total",
                     "messages": [
@@ -85,13 +85,13 @@
                     "previousValue": null,
                     "value": 300
                 },
-                "%vlocity_namespace%__RootItemId__c": {
+                "vlocity_cmt__RootItemId__c": {
                     "actions": {
                     },
                     "alternateValues": null,
                     "dataType": "STRING",
                     "editable": false,
-                    "fieldName": "%vlocity_namespace%__RootItemId__c",
+                    "fieldName": "vlocity_cmt__RootItemId__c",
                     "hidden": true,
                     "label": "RootItemId",
                     "messages": [
@@ -100,13 +100,13 @@
                     "previousValue": null,
                     "value": "20f55687-4866-29ee-d1d2-039c8d58f41a"
                 },
-                "%vlocity_namespace%__SequenceNumber__c": {
+                "vlocity_cmt__SequenceNumber__c": {
                     "actions": {
                     },
                     "alternateValues": null,
                     "dataType": "DOUBLE",
                     "editable": false,
-                    "fieldName": "%vlocity_namespace%__SequenceNumber__c",
+                    "fieldName": "vlocity_cmt__SequenceNumber__c",
                     "hidden": true,
                     "label": "Sequence Number",
                     "messages": [
@@ -194,13 +194,13 @@
                 "childAssets": {
                     "records": [
                         {
-                            "%vlocity_namespace%__AssetReferenceId__c": {
+                            "vlocity_cmt__AssetReferenceId__c": {
                                 "actions": {
                                 },
                                 "alternateValues": null,
                                 "dataType": "STRING",
                                 "editable": false,
-                                "fieldName": "%vlocity_namespace%__AssetReferenceId__c",
+                                "fieldName": "vlocity_cmt__AssetReferenceId__c",
                                 "hidden": true,
                                 "label": "Asset Reference Id",
                                 "messages": [
@@ -209,13 +209,13 @@
                                 "previousValue": null,
                                 "value": "98ebe022-cc1f-5aa1-effc-245ba600d464"
                             },
-                            "%vlocity_namespace%__LineNumber__c": {
+                            "vlocity_cmt__LineNumber__c": {
                                 "actions": {
                                 },
                                 "alternateValues": null,
                                 "dataType": "STRING",
                                 "editable": false,
-                                "fieldName": "%vlocity_namespace%__LineNumber__c",
+                                "fieldName": "vlocity_cmt__LineNumber__c",
                                 "hidden": true,
                                 "label": "Line Number",
                                 "messages": [
@@ -224,13 +224,13 @@
                                 "previousValue": null,
                                 "value": "0001.0001"
                             },
-                            "%vlocity_namespace%__OneTimeCharge__c": {
+                            "vlocity_cmt__OneTimeCharge__c": {
                                 "actions": {
                                 },
                                 "alternateValues": null,
                                 "dataType": "CURRENCY",
                                 "editable": false,
-                                "fieldName": "%vlocity_namespace%__OneTimeCharge__c",
+                                "fieldName": "vlocity_cmt__OneTimeCharge__c",
                                 "hidden": true,
                                 "label": "One Time Charge",
                                 "messages": [
@@ -239,13 +239,13 @@
                                 "previousValue": null,
                                 "value": 100
                             },
-                            "%vlocity_namespace%__OneTimeTotal__c": {
+                            "vlocity_cmt__OneTimeTotal__c": {
                                 "actions": {
                                 },
                                 "alternateValues": null,
                                 "dataType": "CURRENCY",
                                 "editable": false,
-                                "fieldName": "%vlocity_namespace%__OneTimeTotal__c",
+                                "fieldName": "vlocity_cmt__OneTimeTotal__c",
                                 "hidden": true,
                                 "label": "One Time Total",
                                 "messages": [
@@ -254,13 +254,13 @@
                                 "previousValue": null,
                                 "value": 200
                             },
-                            "%vlocity_namespace%__ParentItemId__c": {
+                            "vlocity_cmt__ParentItemId__c": {
                                 "actions": {
                                 },
                                 "alternateValues": null,
                                 "dataType": "STRING",
                                 "editable": false,
-                                "fieldName": "%vlocity_namespace%__ParentItemId__c",
+                                "fieldName": "vlocity_cmt__ParentItemId__c",
                                 "hidden": true,
                                 "label": "ParentItemId",
                                 "messages": [
@@ -269,13 +269,13 @@
                                 "previousValue": null,
                                 "value": "20f55687-4866-29ee-d1d2-039c8d58f41a"
                             },
-                            "%vlocity_namespace%__RootItemId__c": {
+                            "vlocity_cmt__RootItemId__c": {
                                 "actions": {
                                 },
                                 "alternateValues": null,
                                 "dataType": "STRING",
                                 "editable": false,
-                                "fieldName": "%vlocity_namespace%__RootItemId__c",
+                                "fieldName": "vlocity_cmt__RootItemId__c",
                                 "hidden": true,
                                 "label": "RootItemId",
                                 "messages": [
@@ -284,13 +284,13 @@
                                 "previousValue": null,
                                 "value": "20f55687-4866-29ee-d1d2-039c8d58f41a"
                             },
-                            "%vlocity_namespace%__SequenceNumber__c": {
+                            "vlocity_cmt__SequenceNumber__c": {
                                 "actions": {
                                 },
                                 "alternateValues": null,
                                 "dataType": "DOUBLE",
                                 "editable": false,
-                                "fieldName": "%vlocity_namespace%__SequenceNumber__c",
+                                "fieldName": "vlocity_cmt__SequenceNumber__c",
                                 "hidden": true,
                                 "label": "Sequence Number",
                                 "messages": [

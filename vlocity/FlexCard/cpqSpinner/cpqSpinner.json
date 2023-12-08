@@ -15,7 +15,7 @@
         "Id": "0Rb5g000000R34RCAS",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqSpinner_1_CPQ",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

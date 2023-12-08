@@ -15,7 +15,7 @@
         "Id": "0RbRO0000001OWU0A2",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartEmptyState_1_Salesforce",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "states": [

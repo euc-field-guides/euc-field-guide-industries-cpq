@@ -28,7 +28,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction1",
-        "remoteClass": "%vlocity_namespace%.MultiServiceAppHandler",
+        "remoteClass": "vlocity_cmt.MultiServiceAppHandler",
         "remoteMethod": "upsertAttachment",
         "remoteOptions": {
             "": ""

@@ -28,7 +28,7 @@
         "disOnTplt": false,
         "elementValueMap": {
             "Name": "=%DeserializeResponse:response:Name%",
-            "SetupValue": "=%DeserializeResponse:response:%vlocity_namespace%__SetupValue__c%"
+            "SetupValue": "=%DeserializeResponse:response:vlocity_cmt__SetupValue__c%"
         },
         "executionConditionalFormula": "",
         "failOnStepError": true,

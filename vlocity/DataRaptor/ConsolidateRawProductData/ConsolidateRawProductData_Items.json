@@ -41,7 +41,7 @@
     },
     {
         "GlobalKey": "ConsolidateRawProductDataCustom9497",
-        "InputFieldName": "GroupDetailsRaw:%vlocity_namespace%__SelectedAssetsCommonConfiguration__c",
+        "InputFieldName": "GroupDetailsRaw:vlocity_cmt__SelectedAssetsCommonConfiguration__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

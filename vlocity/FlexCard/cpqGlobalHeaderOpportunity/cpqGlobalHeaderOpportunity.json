@@ -327,7 +327,7 @@
         "Id": "0Rb8Z000000EgBlSAK",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqGlobalHeaderOpportunity_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,

@@ -56,7 +56,7 @@
                                 }
                             },
                             "rest": {
-                                "link": "/services/apexrest/%vlocity_namespace%/v2/cpq/catalogs?cartId=8015g0000015JqsAAE&includeAllCatalogs=true&ContextId=8015g0000015JqsAAE",
+                                "link": "/services/apexrest/vlocity_cmt/v2/cpq/catalogs?cartId=8015g0000015JqsAAE&includeAllCatalogs=true&ContextId=8015g0000015JqsAAE",
                                 "method": "GET",
                                 "params": {
                                 }
@@ -84,7 +84,7 @@
                                         }
                                     },
                                     "rest": {
-                                        "link": "/services/apexrest/%vlocity_namespace%/v2/listsofvalues?listkeys=TimePlans,TimePolicies",
+                                        "link": "/services/apexrest/vlocity_cmt/v2/listsofvalues?listkeys=TimePlans,TimePolicies",
                                         "method": "GET",
                                         "params": {
                                         }
@@ -164,7 +164,7 @@
                                 }
                             },
                             "rest": {
-                                "link": "/services/apexrest/%vlocity_namespace%/v2/cpq/carts/8015g0000015JqsAAE/products?cartId=8015g0000015JqsAAE",
+                                "link": "/services/apexrest/vlocity_cmt/v2/cpq/carts/8015g0000015JqsAAE/products?cartId=8015g0000015JqsAAE",
                                 "method": "GET",
                                 "params": {
                                 }

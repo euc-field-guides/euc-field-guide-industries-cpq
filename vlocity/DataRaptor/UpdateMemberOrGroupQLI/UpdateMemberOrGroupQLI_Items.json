@@ -15,7 +15,7 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldFormat": "String",
-        "OutputFieldName": "%vlocity_namespace%__QuoteGroupId__c",
+        "OutputFieldName": "vlocity_cmt__QuoteGroupId__c",
         "OutputObjectName": "QuoteLineItem",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -36,7 +36,7 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldFormat": "String",
-        "OutputFieldName": "%vlocity_namespace%__QuoteMemberId__c",
+        "OutputFieldName": "vlocity_cmt__QuoteMemberId__c",
         "OutputObjectName": "QuoteLineItem",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"

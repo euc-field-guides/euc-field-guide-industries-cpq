@@ -63,7 +63,7 @@
     },
     {
         "GlobalKey": "GetQuoteInformationCustoma1h5f0000005mPQAAYItem3",
-        "InputFieldName": "Quote:%vlocity_namespace%__PriceListId__c",
+        "InputFieldName": "Quote:vlocity_cmt__PriceListId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -82,7 +82,7 @@
     },
     {
         "GlobalKey": "GetQuoteInformationCustoma1h5f0000005mPQAAYItem4",
-        "InputFieldName": "Quote:%vlocity_namespace%__PriceListId__r.Name",
+        "InputFieldName": "Quote:vlocity_cmt__PriceListId__r.Name",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

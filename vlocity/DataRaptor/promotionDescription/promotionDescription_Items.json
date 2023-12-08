@@ -22,7 +22,7 @@
     },
     {
         "GlobalKey": "promotionDescription3332826342846589",
-        "InputFieldName": "records:%vlocity_namespace%__AppliesToAllItems__c",
+        "InputFieldName": "records:vlocity_cmt__AppliesToAllItems__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -34,14 +34,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AppliesToAllItems__c",
+        "OutputFieldName": "records:vlocity_cmt__AppliesToAllItems__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "promotionDescription35740955150635423",
-        "InputFieldName": "records:%vlocity_namespace%__AppliesToAllItems__c",
+        "InputFieldName": "records:vlocity_cmt__AppliesToAllItems__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -53,14 +53,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AppliesToAllItems__c",
+        "OutputFieldName": "records:vlocity_cmt__AppliesToAllItems__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "promotionDescription3795436972107378",
-        "InputFieldName": "records:%vlocity_namespace%__AppliesToAllItems__c",
+        "InputFieldName": "records:vlocity_cmt__AppliesToAllItems__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -72,7 +72,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__AppliesToAllItems__c",
+        "OutputFieldName": "records:vlocity_cmt__AppliesToAllItems__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -91,7 +91,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Code__c",
+        "OutputFieldName": "records:vlocity_cmt__Code__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -110,7 +110,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Code__c",
+        "OutputFieldName": "records:vlocity_cmt__Code__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -129,14 +129,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Code__c",
+        "OutputFieldName": "records:vlocity_cmt__Code__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "promotionDescription06811417532521502",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c",
+        "InputFieldName": "records:vlocity_cmt__Description__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -148,14 +148,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c",
+        "OutputFieldName": "records:vlocity_cmt__Description__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "promotionDescription09147277205495952",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c",
+        "InputFieldName": "records:vlocity_cmt__Description__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -167,14 +167,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c",
+        "OutputFieldName": "records:vlocity_cmt__Description__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "promotionDescription5131238178079189",
-        "InputFieldName": "records:%vlocity_namespace%__Description__c",
+        "InputFieldName": "records:vlocity_cmt__Description__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -186,14 +186,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__Description__c",
+        "OutputFieldName": "records:vlocity_cmt__Description__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "promotionDescription345283338710505",
-        "InputFieldName": "records:%vlocity_namespace%__DurationUnitOfMeasure__c",
+        "InputFieldName": "records:vlocity_cmt__DurationUnitOfMeasure__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -205,14 +205,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__DurationUnitOfMeasure__c",
+        "OutputFieldName": "records:vlocity_cmt__DurationUnitOfMeasure__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "promotionDescription5364252413188912",
-        "InputFieldName": "records:%vlocity_namespace%__DurationUnitOfMeasure__c",
+        "InputFieldName": "records:vlocity_cmt__DurationUnitOfMeasure__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -224,14 +224,14 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__DurationUnitOfMeasure__c",
+        "OutputFieldName": "records:vlocity_cmt__DurationUnitOfMeasure__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
         "GlobalKey": "promotionDescription7001702603136308",
-        "InputFieldName": "records:%vlocity_namespace%__DurationUnitOfMeasure__c",
+        "InputFieldName": "records:vlocity_cmt__DurationUnitOfMeasure__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -243,7 +243,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:%vlocity_namespace%__DurationUnitOfMeasure__c",
+        "OutputFieldName": "records:vlocity_cmt__DurationUnitOfMeasure__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -1257,7 +1257,7 @@
     },
     {
         "GlobalKey": "promotionDescription2799817386354595",
-        "InputFieldName": "records:%vlocity_namespace%__Code__c",
+        "InputFieldName": "records:vlocity_cmt__Code__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1276,7 +1276,7 @@
     },
     {
         "GlobalKey": "promotionDescription3322748512523668",
-        "InputFieldName": "records:%vlocity_namespace%__Code__c",
+        "InputFieldName": "records:vlocity_cmt__Code__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -1295,7 +1295,7 @@
     },
     {
         "GlobalKey": "promotionDescription39681036878199527",
-        "InputFieldName": "records:%vlocity_namespace%__Code__c",
+        "InputFieldName": "records:vlocity_cmt__Code__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

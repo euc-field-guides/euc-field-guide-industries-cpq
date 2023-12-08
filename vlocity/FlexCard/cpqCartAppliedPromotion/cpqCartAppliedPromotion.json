@@ -66,7 +66,7 @@
         "Id": "0Rb5g000000SkqYCAS",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartAppliedPromotion_5_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

@@ -365,7 +365,7 @@
                                             "sObjectType": "Order",
                                             "stateAction": {
                                                 "Web Page": {
-                                                    "targetName": "/lightning/cmp/%vlocity_namespace%__vlocityLWCOmniWrapper?c__target=%vlocity_namespace%:lWCCPQCancelOrderEnglish&c__layout=lightning&c__tabIcon=custom:custom18&c__ContextId={Id}"
+                                                    "targetName": "/lightning/cmp/vlocity_cmt__vlocityLWCOmniWrapper?c__target=vlocity_cmt:lWCCPQCancelOrderEnglish&c__layout=lightning&c__tabIcon=custom:custom18&c__ContextId={Id}"
                                                 },
                                                 "actionConditions": null,
                                                 "displayName": "{Label.CPQCancel}",
@@ -390,7 +390,7 @@
                                                 "sObjectType": "Order",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/lightning/cmp/%vlocity_namespace%__vlocityLWCOmniWrapper?c__target=%vlocity_namespace%:lWCCPQCancelOrderEnglish&c__layout=lightning&c__tabIcon=custom:custom18&c__ContextId={recordId}&c__tabLabel=Order Cancellation"
+                                                        "targetName": "/lightning/cmp/vlocity_cmt__vlocityLWCOmniWrapper?c__target=vlocity_cmt:lWCCPQCancelOrderEnglish&c__layout=lightning&c__tabIcon=custom:custom18&c__ContextId={recordId}&c__tabLabel=Order Cancellation"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQCancel}",
@@ -414,7 +414,7 @@
                                             "card": "{card}",
                                             "stateAction": {
                                                 "Web Page": {
-                                                    "targetName": "/apex/%vlocity_namespace%__XOMViewOrderDecomposition?id={Id}"
+                                                    "targetName": "/apex/vlocity_cmt__XOMViewOrderDecomposition?id={Id}"
                                                 },
                                                 "actionConditions": null,
                                                 "displayName": "{Label.CPQViewDecomposition}",
@@ -432,7 +432,7 @@
                                                 "card": "{card}",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__XOMViewOrderDecomposition?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__XOMViewOrderDecomposition?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQViewDecomposition}",

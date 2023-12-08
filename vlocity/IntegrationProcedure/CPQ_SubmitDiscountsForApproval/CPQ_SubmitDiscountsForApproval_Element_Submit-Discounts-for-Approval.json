@@ -23,7 +23,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction1",
-        "remoteClass": "%vlocity_namespace%.CPQAppHandler",
+        "remoteClass": "vlocity_cmt.CPQAppHandler",
         "remoteMethod": "submitDiscountsForApproval",
         "remoteOptions": {
         },

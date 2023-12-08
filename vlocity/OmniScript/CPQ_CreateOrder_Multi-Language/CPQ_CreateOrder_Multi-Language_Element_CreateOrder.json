@@ -40,7 +40,7 @@
         "redirectPreviousLabel": "",
         "redirectPreviousWidth": 3,
         "redirectTemplateUrl": "vlcAcknowledge.html",
-        "remoteClass": "%vlocity_namespace%.CPQAppHandler",
+        "remoteClass": "vlocity_cmt.CPQAppHandler",
         "remoteMethod": "checkout",
         "remoteOptions": {
             "postTransformBundle": "",

@@ -51,7 +51,7 @@
         "Id": "0Rb5g000000Sg1RCAS",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqOpportunityStatusDesktop_2_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [
@@ -341,7 +341,7 @@
                                                 "sObjectType": "Opportunity",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/{Id}/e?retURL=/apex/%vlocity_namespace%__HybridCPQ%3Fid%3D{Id}"
+                                                        "targetName": "/{Id}/e?retURL=/apex/vlocity_cmt__HybridCPQ%3Fid%3D{Id}"
                                                     },
                                                     "displayName": "{Label.CPQEdit}",
                                                     "id": "flex-action-1693898659357",
@@ -387,7 +387,7 @@
                                                 "sObjectType": "Opportunity",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderDocumentPdf?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderDocumentPdf?id={Id}"
                                                     },
                                                     "actionConditions": null,
                                                     "displayName": "{Label.CPQGenerateDocumentPDF}",

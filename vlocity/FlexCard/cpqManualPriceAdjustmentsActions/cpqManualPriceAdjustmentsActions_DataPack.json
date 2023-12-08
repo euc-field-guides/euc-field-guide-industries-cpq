@@ -16,7 +16,7 @@
             {
                 "id": 100,
                 "name": "Parent.namespace",
-                "val": "%vlocity_namespace%__"
+                "val": "vlocity_cmt__"
             },
             {
                 "id": 12,
@@ -31,7 +31,7 @@
             {
                 "id": 14,
                 "name": "Parent.fields",
-                "val": "%vlocity_namespace%__OneTimeCharge__c"
+                "val": "vlocity_cmt__OneTimeCharge__c"
             }
         ],
         "orderBy": {

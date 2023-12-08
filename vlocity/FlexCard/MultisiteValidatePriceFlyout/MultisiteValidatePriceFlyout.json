@@ -59,7 +59,7 @@
         "Id": "0RbRN0000001Uto0AE",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfMultisiteValidatePriceFlyout_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "states": [

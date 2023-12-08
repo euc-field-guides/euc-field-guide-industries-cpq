@@ -5,7 +5,7 @@
         "FilterValue": "PriceListId",
         "GlobalKey": "MultiSite - ExtractPriceListCustom8988",
         "InputFieldName": "Id",
-        "InputObjectName": "%vlocity_namespace%__PriceList__c",
+        "InputObjectName": "vlocity_cmt__PriceList__c",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
@@ -44,7 +44,7 @@
     },
     {
         "GlobalKey": "MultiSite - ExtractPriceListCustom8432",
-        "InputFieldName": "PriceList:%vlocity_namespace%__Pricebook2Id__c",
+        "InputFieldName": "PriceList:vlocity_cmt__Pricebook2Id__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

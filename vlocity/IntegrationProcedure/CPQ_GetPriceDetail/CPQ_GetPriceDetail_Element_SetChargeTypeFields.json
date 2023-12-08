@@ -13,7 +13,7 @@
         "chainOnStep": false,
         "disOnTplt": false,
         "elementValueMap": {
-            "fields": "%vlocity_namespace%__%fields%"
+            "fields": "vlocity_cmt__%fields%"
         },
         "executionConditionalFormula": "",
         "failOnStepError": true,

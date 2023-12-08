@@ -8,7 +8,7 @@
         },
         "type": "Custom",
         "value": {
-            "body": "[{\"actions\":{\"getGroupMembers\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupMembers\",\"groupId\":\"a3W5g000000kglBEAQ\",\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"pageSize\":10,\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}},\"getGroupedServices\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupedServices\",\"groupCartId\":\"0Q05g000000gfI8CAI\",\"groupId\":\"a3W5g000000kglBEAQ\",\"pageSize\":10,\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}}},\"%vlocity_namespace%__AsyncOperation__c\":{\"actions\":{}},\"%vlocity_namespace%__AsyncJobId__c\":{\"actions\":{}},\"%vlocity_namespace%__LockedFor__c\":{\"actions\":{}},\"%vlocity_namespace%__Description__c\":{\"actions\":{}},\"%vlocity_namespace%__LockedBy__c\":{\"actions\":{}},\"%vlocity_namespace%__GroupCartId__r\":{\"%vlocity_namespace%__MultiServiceMessageData__c\":\"{\\\"messages\\\":[],\\\"canCheckoutDiscounts\\\":false,\\\"canCheckout\\\":true}\",\"%vlocity_namespace%__IsValidated__c\":false,\"%vlocity_namespace%__IsPriced__c\":false},\"%vlocity_namespace%__GroupCartId__c\":{\"actions\":{},\"value\":\"0Q05g000000gfI8CAI\"},\"%vlocity_namespace%__HasUnappliedMembers__c\":{\"actions\":{},\"value\":true},\"%vlocity_namespace%__HasUnappliedGroupItems__c\":{\"actions\":{},\"value\":true},\"%vlocity_namespace%__MultiServiceMessageData__c\":{\"actions\":{},\"value\":\"{\\\"warningMessageCount\\\":0,\\\"errorMessageCount\\\":0,\\\"canGroupCheckout\\\":true}\"},\"%vlocity_namespace%__MemberType__c\":{\"actions\":{},\"value\":\"ServicePoint\"},\"Name\":{\"actions\":{},\"value\":\"G-1\"},\"%vlocity_namespace%__MemberCount__c\":{\"actions\":{},\"value\":120},\"Id\":{\"actions\":{},\"value\":\"a3W5g000000kglBEAQ\"},\"groupCart\":{\"attributes\":{\"url\":\"/services/data/v52.0/sobjects/Quote/0Q05g000000gfI8CAI\",\"type\":\"Quote\"},\"%vlocity_namespace%__IsValidated__c\":false,\"%vlocity_namespace%__IsPriced__c\":false,\"Id\":\"0Q05g000000gfI8CAI\"},\"value\":\"a3W5g000000kglBEAQ\",\"itemsCount\":120,\"hasUnappliedMembers\":true,\"displaySequence\":-1,\"groupCartURL\":\"apex/%vlocity_namespace%__MultiServiceHybridCPQ?id=0Q05g000000gfI8CAI&parentId=0065g000005lzNAAAY&groupCart=true&groupId=a3W5g000000kglBEAQ&contextId=0Q05g0000011E5ZCAU&cartType=Quote\",\"groupCartId\":\"0Q05g000000gfI8CAI\",\"label\":\"G-1\",\"groupName\":\"G-1\",\"groupId\":\"a3W5g000000kglBEAQ\",\"hasUnappliedGroupItems\":true},{\"actions\":{\"getGroupMembers\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupMembers\",\"groupId\":\"a3W5g000000kglGEAQ\",\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"pageSize\":10,\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}},\"getGroupedServices\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupedServices\",\"groupCartId\":\"0Q05g000000gfIDCAY\",\"groupId\":\"a3W5g000000kglGEAQ\",\"pageSize\":10,\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}}},\"%vlocity_namespace%__AsyncOperation__c\":{\"actions\":{}},\"%vlocity_namespace%__AsyncJobId__c\":{\"actions\":{}},\"%vlocity_namespace%__LockedFor__c\":{\"actions\":{}},\"%vlocity_namespace%__MultiServiceMessageData__c\":{\"actions\":{}},\"%vlocity_namespace%__Description__c\":{\"actions\":{}},\"%vlocity_namespace%__LockedBy__c\":{\"actions\":{}},\"%vlocity_namespace%__GroupCartId__r\":{\"%vlocity_namespace%__IsValidated__c\":false,\"%vlocity_namespace%__IsPriced__c\":false},\"%vlocity_namespace%__GroupCartId__c\":{\"actions\":{},\"value\":\"0Q05g000000gfIDCAY\"},\"%vlocity_namespace%__HasUnappliedMembers__c\":{\"actions\":{},\"value\":true},\"%vlocity_namespace%__HasUnappliedGroupItems__c\":{\"actions\":{},\"value\":true},\"%vlocity_namespace%__MemberType__c\":{\"actions\":{},\"value\":\"ServicePoint\"},\"Name\":{\"actions\":{},\"value\":\"G-2\"},\"%vlocity_namespace%__MemberCount__c\":{\"actions\":{},\"value\":90},\"Id\":{\"actions\":{},\"value\":\"a3W5g000000kglGEAQ\"},\"groupCart\":{\"attributes\":{\"url\":\"/services/data/v52.0/sobjects/Quote/0Q05g000000gfIDCAY\",\"type\":\"Quote\"},\"%vlocity_namespace%__IsValidated__c\":false,\"%vlocity_namespace%__IsPriced__c\":false,\"Id\":\"0Q05g000000gfIDCAY\"},\"value\":\"a3W5g000000kglGEAQ\",\"itemsCount\":90,\"hasUnappliedMembers\":true,\"displaySequence\":-1,\"groupCartURL\":\"apex/%vlocity_namespace%__MultiServiceHybridCPQ?id=0Q05g000000gfIDCAY&parentId=0065g000005lzNAAAY&groupCart=true&groupId=a3W5g000000kglGEAQ&contextId=0Q05g0000011E5ZCAU&cartType=Quote\",\"groupCartId\":\"0Q05g000000gfIDCAY\",\"label\":\"G-2\",\"groupName\":\"G-2\",\"groupId\":\"a3W5g000000kglGEAQ\",\"hasUnappliedGroupItems\":true},{\"actions\":{\"getGroupMembers\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupMembers\",\"groupId\":\"a3W5g000000kglLEAQ\",\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"pageSize\":10,\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}},\"getGroupedServices\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupedServices\",\"groupCartId\":\"0Q05g000000gfIICAY\",\"groupId\":\"a3W5g000000kglLEAQ\",\"pageSize\":10,\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}}},\"%vlocity_namespace%__AsyncOperation__c\":{\"actions\":{}},\"%vlocity_namespace%__AsyncJobId__c\":{\"actions\":{}},\"%vlocity_namespace%__LockedFor__c\":{\"actions\":{}},\"%vlocity_namespace%__MultiServiceMessageData__c\":{\"actions\":{}},\"%vlocity_namespace%__Description__c\":{\"actions\":{}},\"%vlocity_namespace%__LockedBy__c\":{\"actions\":{}},\"%vlocity_namespace%__GroupCartId__r\":{\"%vlocity_namespace%__IsValidated__c\":false,\"%vlocity_namespace%__IsPriced__c\":false},\"%vlocity_namespace%__GroupCartId__c\":{\"actions\":{},\"value\":\"0Q05g000000gfIICAY\"},\"%vlocity_namespace%__HasUnappliedMembers__c\":{\"actions\":{},\"value\":true},\"%vlocity_namespace%__HasUnappliedGroupItems__c\":{\"actions\":{},\"value\":true},\"%vlocity_namespace%__MemberType__c\":{\"actions\":{},\"value\":\"ServicePoint\"},\"Name\":{\"actions\":{},\"value\":\"G-3\"},\"%vlocity_namespace%__MemberCount__c\":{\"actions\":{},\"value\":60},\"Id\":{\"actions\":{},\"value\":\"a3W5g000000kglLEAQ\"},\"groupCart\":{\"attributes\":{\"url\":\"/services/data/v52.0/sobjects/Quote/0Q05g000000gfIICAY\",\"type\":\"Quote\"},\"%vlocity_namespace%__IsValidated__c\":false,\"%vlocity_namespace%__IsPriced__c\":false,\"Id\":\"0Q05g000000gfIICAY\"},\"value\":\"a3W5g000000kglLEAQ\",\"itemsCount\":60,\"hasUnappliedMembers\":true,\"displaySequence\":-1,\"groupCartURL\":\"apex/%vlocity_namespace%__MultiServiceHybridCPQ?id=0Q05g000000gfIICAY&parentId=0065g000005lzNAAAY&groupCart=true&groupId=a3W5g000000kglLEAQ&contextId=0Q05g0000011E5ZCAU&cartType=Quote\",\"groupCartId\":\"0Q05g000000gfIICAY\",\"label\":\"G-3\",\"groupName\":\"G-3\",\"groupId\":\"a3W5g000000kglLEAQ\",\"hasUnappliedGroupItems\":true},{\"actions\":{\"getGroupMembers\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupMembers\",\"groupId\":\"a3W5g000000kglQEAQ\",\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"pageSize\":10,\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}},\"getGroupedServices\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupedServices\",\"groupCartId\":\"0Q05g000000gfINCAY\",\"groupId\":\"a3W5g000000kglQEAQ\",\"pageSize\":10,\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}}},\"%vlocity_namespace%__AsyncOperation__c\":{\"actions\":{}},\"%vlocity_namespace%__AsyncJobId__c\":{\"actions\":{}},\"%vlocity_namespace%__LockedFor__c\":{\"actions\":{}},\"%vlocity_namespace%__Description__c\":{\"actions\":{}},\"%vlocity_namespace%__LockedBy__c\":{\"actions\":{}},\"%vlocity_namespace%__GroupCartId__r\":{\"%vlocity_namespace%__MultiServiceMessageData__c\":\"{\\\"messages\\\":[],\\\"canCheckoutDiscounts\\\":false,\\\"canCheckout\\\":true}\",\"%vlocity_namespace%__IsValidated__c\":false,\"%vlocity_namespace%__IsPriced__c\":false},\"%vlocity_namespace%__GroupCartId__c\":{\"actions\":{},\"value\":\"0Q05g000000gfINCAY\"},\"%vlocity_namespace%__HasUnappliedMembers__c\":{\"actions\":{},\"value\":false},\"%vlocity_namespace%__HasUnappliedGroupItems__c\":{\"actions\":{},\"value\":false},\"%vlocity_namespace%__MultiServiceMessageData__c\":{\"actions\":{},\"value\":\"{\\\"canGroupCheckout\\\":true,\\\"warningMessageCount\\\":0,\\\"errorMessageCount\\\":0}\"},\"%vlocity_namespace%__MemberType__c\":{\"actions\":{},\"value\":\"ServicePoint\"},\"Name\":{\"actions\":{},\"value\":\"G-4\"},\"%vlocity_namespace%__MemberCount__c\":{\"actions\":{},\"value\":30},\"Id\":{\"actions\":{},\"value\":\"a3W5g000000kglQEAQ\"},\"groupCart\":{\"attributes\":{\"url\":\"/services/data/v52.0/sobjects/Quote/0Q05g000000gfINCAY\",\"type\":\"Quote\"},\"%vlocity_namespace%__IsValidated__c\":false,\"%vlocity_namespace%__IsPriced__c\":false,\"Id\":\"0Q05g000000gfINCAY\"},\"value\":\"a3W5g000000kglQEAQ\",\"itemsCount\":30,\"hasUnappliedMembers\":false,\"displaySequence\":-1,\"groupCartURL\":\"apex/%vlocity_namespace%__MultiServiceHybridCPQ?id=0Q05g000000gfINCAY&parentId=0065g000005lzNAAAY&groupCart=true&groupId=a3W5g000000kglQEAQ&contextId=0Q05g0000011E5ZCAU&cartType=Quote\",\"groupCartId\":\"0Q05g000000gfINCAY\",\"label\":\"G-4\",\"groupName\":\"G-4\",\"groupId\":\"a3W5g000000kglQEAQ\",\"hasUnappliedGroupItems\":false}]",
+            "body": "[{\"actions\":{\"getGroupMembers\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupMembers\",\"groupId\":\"a3W5g000000kglBEAQ\",\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"pageSize\":10,\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}},\"getGroupedServices\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupedServices\",\"groupCartId\":\"0Q05g000000gfI8CAI\",\"groupId\":\"a3W5g000000kglBEAQ\",\"pageSize\":10,\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}}},\"vlocity_cmt__AsyncOperation__c\":{\"actions\":{}},\"vlocity_cmt__AsyncJobId__c\":{\"actions\":{}},\"vlocity_cmt__LockedFor__c\":{\"actions\":{}},\"vlocity_cmt__Description__c\":{\"actions\":{}},\"vlocity_cmt__LockedBy__c\":{\"actions\":{}},\"vlocity_cmt__GroupCartId__r\":{\"vlocity_cmt__MultiServiceMessageData__c\":\"{\\\"messages\\\":[],\\\"canCheckoutDiscounts\\\":false,\\\"canCheckout\\\":true}\",\"vlocity_cmt__IsValidated__c\":false,\"vlocity_cmt__IsPriced__c\":false},\"vlocity_cmt__GroupCartId__c\":{\"actions\":{},\"value\":\"0Q05g000000gfI8CAI\"},\"vlocity_cmt__HasUnappliedMembers__c\":{\"actions\":{},\"value\":true},\"vlocity_cmt__HasUnappliedGroupItems__c\":{\"actions\":{},\"value\":true},\"vlocity_cmt__MultiServiceMessageData__c\":{\"actions\":{},\"value\":\"{\\\"warningMessageCount\\\":0,\\\"errorMessageCount\\\":0,\\\"canGroupCheckout\\\":true}\"},\"vlocity_cmt__MemberType__c\":{\"actions\":{},\"value\":\"ServicePoint\"},\"Name\":{\"actions\":{},\"value\":\"G-1\"},\"vlocity_cmt__MemberCount__c\":{\"actions\":{},\"value\":120},\"Id\":{\"actions\":{},\"value\":\"a3W5g000000kglBEAQ\"},\"groupCart\":{\"attributes\":{\"url\":\"/services/data/v52.0/sobjects/Quote/0Q05g000000gfI8CAI\",\"type\":\"Quote\"},\"vlocity_cmt__IsValidated__c\":false,\"vlocity_cmt__IsPriced__c\":false,\"Id\":\"0Q05g000000gfI8CAI\"},\"value\":\"a3W5g000000kglBEAQ\",\"itemsCount\":120,\"hasUnappliedMembers\":true,\"displaySequence\":-1,\"groupCartURL\":\"apex/vlocity_cmt__MultiServiceHybridCPQ?id=0Q05g000000gfI8CAI&parentId=0065g000005lzNAAAY&groupCart=true&groupId=a3W5g000000kglBEAQ&contextId=0Q05g0000011E5ZCAU&cartType=Quote\",\"groupCartId\":\"0Q05g000000gfI8CAI\",\"label\":\"G-1\",\"groupName\":\"G-1\",\"groupId\":\"a3W5g000000kglBEAQ\",\"hasUnappliedGroupItems\":true},{\"actions\":{\"getGroupMembers\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupMembers\",\"groupId\":\"a3W5g000000kglGEAQ\",\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"pageSize\":10,\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}},\"getGroupedServices\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupedServices\",\"groupCartId\":\"0Q05g000000gfIDCAY\",\"groupId\":\"a3W5g000000kglGEAQ\",\"pageSize\":10,\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}}},\"vlocity_cmt__AsyncOperation__c\":{\"actions\":{}},\"vlocity_cmt__AsyncJobId__c\":{\"actions\":{}},\"vlocity_cmt__LockedFor__c\":{\"actions\":{}},\"vlocity_cmt__MultiServiceMessageData__c\":{\"actions\":{}},\"vlocity_cmt__Description__c\":{\"actions\":{}},\"vlocity_cmt__LockedBy__c\":{\"actions\":{}},\"vlocity_cmt__GroupCartId__r\":{\"vlocity_cmt__IsValidated__c\":false,\"vlocity_cmt__IsPriced__c\":false},\"vlocity_cmt__GroupCartId__c\":{\"actions\":{},\"value\":\"0Q05g000000gfIDCAY\"},\"vlocity_cmt__HasUnappliedMembers__c\":{\"actions\":{},\"value\":true},\"vlocity_cmt__HasUnappliedGroupItems__c\":{\"actions\":{},\"value\":true},\"vlocity_cmt__MemberType__c\":{\"actions\":{},\"value\":\"ServicePoint\"},\"Name\":{\"actions\":{},\"value\":\"G-2\"},\"vlocity_cmt__MemberCount__c\":{\"actions\":{},\"value\":90},\"Id\":{\"actions\":{},\"value\":\"a3W5g000000kglGEAQ\"},\"groupCart\":{\"attributes\":{\"url\":\"/services/data/v52.0/sobjects/Quote/0Q05g000000gfIDCAY\",\"type\":\"Quote\"},\"vlocity_cmt__IsValidated__c\":false,\"vlocity_cmt__IsPriced__c\":false,\"Id\":\"0Q05g000000gfIDCAY\"},\"value\":\"a3W5g000000kglGEAQ\",\"itemsCount\":90,\"hasUnappliedMembers\":true,\"displaySequence\":-1,\"groupCartURL\":\"apex/vlocity_cmt__MultiServiceHybridCPQ?id=0Q05g000000gfIDCAY&parentId=0065g000005lzNAAAY&groupCart=true&groupId=a3W5g000000kglGEAQ&contextId=0Q05g0000011E5ZCAU&cartType=Quote\",\"groupCartId\":\"0Q05g000000gfIDCAY\",\"label\":\"G-2\",\"groupName\":\"G-2\",\"groupId\":\"a3W5g000000kglGEAQ\",\"hasUnappliedGroupItems\":true},{\"actions\":{\"getGroupMembers\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupMembers\",\"groupId\":\"a3W5g000000kglLEAQ\",\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"pageSize\":10,\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}},\"getGroupedServices\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupedServices\",\"groupCartId\":\"0Q05g000000gfIICAY\",\"groupId\":\"a3W5g000000kglLEAQ\",\"pageSize\":10,\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}}},\"vlocity_cmt__AsyncOperation__c\":{\"actions\":{}},\"vlocity_cmt__AsyncJobId__c\":{\"actions\":{}},\"vlocity_cmt__LockedFor__c\":{\"actions\":{}},\"vlocity_cmt__MultiServiceMessageData__c\":{\"actions\":{}},\"vlocity_cmt__Description__c\":{\"actions\":{}},\"vlocity_cmt__LockedBy__c\":{\"actions\":{}},\"vlocity_cmt__GroupCartId__r\":{\"vlocity_cmt__IsValidated__c\":false,\"vlocity_cmt__IsPriced__c\":false},\"vlocity_cmt__GroupCartId__c\":{\"actions\":{},\"value\":\"0Q05g000000gfIICAY\"},\"vlocity_cmt__HasUnappliedMembers__c\":{\"actions\":{},\"value\":true},\"vlocity_cmt__HasUnappliedGroupItems__c\":{\"actions\":{},\"value\":true},\"vlocity_cmt__MemberType__c\":{\"actions\":{},\"value\":\"ServicePoint\"},\"Name\":{\"actions\":{},\"value\":\"G-3\"},\"vlocity_cmt__MemberCount__c\":{\"actions\":{},\"value\":60},\"Id\":{\"actions\":{},\"value\":\"a3W5g000000kglLEAQ\"},\"groupCart\":{\"attributes\":{\"url\":\"/services/data/v52.0/sobjects/Quote/0Q05g000000gfIICAY\",\"type\":\"Quote\"},\"vlocity_cmt__IsValidated__c\":false,\"vlocity_cmt__IsPriced__c\":false,\"Id\":\"0Q05g000000gfIICAY\"},\"value\":\"a3W5g000000kglLEAQ\",\"itemsCount\":60,\"hasUnappliedMembers\":true,\"displaySequence\":-1,\"groupCartURL\":\"apex/vlocity_cmt__MultiServiceHybridCPQ?id=0Q05g000000gfIICAY&parentId=0065g000005lzNAAAY&groupCart=true&groupId=a3W5g000000kglLEAQ&contextId=0Q05g0000011E5ZCAU&cartType=Quote\",\"groupCartId\":\"0Q05g000000gfIICAY\",\"label\":\"G-3\",\"groupName\":\"G-3\",\"groupId\":\"a3W5g000000kglLEAQ\",\"hasUnappliedGroupItems\":true},{\"actions\":{\"getGroupMembers\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupMembers\",\"groupId\":\"a3W5g000000kglQEAQ\",\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"pageSize\":10,\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}},\"getGroupedServices\":{\"client\":{\"params\":{}},\"remote\":{\"params\":{\"methodName\":\"getGroupedServices\",\"groupCartId\":\"0Q05g000000gfINCAY\",\"groupId\":\"a3W5g000000kglQEAQ\",\"pageSize\":10,\"offset\":0,\"contextId\":\"0Q05g0000011E5ZCAU\",\"parentId\":\"0065g000005lzNAAAY\"}},\"rest\":{\"params\":{}}}},\"vlocity_cmt__AsyncOperation__c\":{\"actions\":{}},\"vlocity_cmt__AsyncJobId__c\":{\"actions\":{}},\"vlocity_cmt__LockedFor__c\":{\"actions\":{}},\"vlocity_cmt__Description__c\":{\"actions\":{}},\"vlocity_cmt__LockedBy__c\":{\"actions\":{}},\"vlocity_cmt__GroupCartId__r\":{\"vlocity_cmt__MultiServiceMessageData__c\":\"{\\\"messages\\\":[],\\\"canCheckoutDiscounts\\\":false,\\\"canCheckout\\\":true}\",\"vlocity_cmt__IsValidated__c\":false,\"vlocity_cmt__IsPriced__c\":false},\"vlocity_cmt__GroupCartId__c\":{\"actions\":{},\"value\":\"0Q05g000000gfINCAY\"},\"vlocity_cmt__HasUnappliedMembers__c\":{\"actions\":{},\"value\":false},\"vlocity_cmt__HasUnappliedGroupItems__c\":{\"actions\":{},\"value\":false},\"vlocity_cmt__MultiServiceMessageData__c\":{\"actions\":{},\"value\":\"{\\\"canGroupCheckout\\\":true,\\\"warningMessageCount\\\":0,\\\"errorMessageCount\\\":0}\"},\"vlocity_cmt__MemberType__c\":{\"actions\":{},\"value\":\"ServicePoint\"},\"Name\":{\"actions\":{},\"value\":\"G-4\"},\"vlocity_cmt__MemberCount__c\":{\"actions\":{},\"value\":30},\"Id\":{\"actions\":{},\"value\":\"a3W5g000000kglQEAQ\"},\"groupCart\":{\"attributes\":{\"url\":\"/services/data/v52.0/sobjects/Quote/0Q05g000000gfINCAY\",\"type\":\"Quote\"},\"vlocity_cmt__IsValidated__c\":false,\"vlocity_cmt__IsPriced__c\":false,\"Id\":\"0Q05g000000gfINCAY\"},\"value\":\"a3W5g000000kglQEAQ\",\"itemsCount\":30,\"hasUnappliedMembers\":false,\"displaySequence\":-1,\"groupCartURL\":\"apex/vlocity_cmt__MultiServiceHybridCPQ?id=0Q05g000000gfINCAY&parentId=0065g000005lzNAAAY&groupCart=true&groupId=a3W5g000000kglQEAQ&contextId=0Q05g0000011E5ZCAU&cartType=Quote\",\"groupCartId\":\"0Q05g000000gfINCAY\",\"label\":\"G-4\",\"groupName\":\"G-4\",\"groupId\":\"a3W5g000000kglQEAQ\",\"hasUnappliedGroupItems\":false}]",
             "dsDelay": "",
             "resultVar": ""
         }
@@ -21,7 +21,7 @@
         "Id": "0Rb5g000000ShJHCA0",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMultiSiteGroupsList_8_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",
@@ -56,7 +56,7 @@
                                                         "data-conditions": {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__LockedBy__c.value",
+                                                                    "field": "vlocity_cmt__LockedBy__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-22",
                                                                     "operator": "!=",
@@ -79,7 +79,7 @@
                                                             "Web Page": {
                                                                 "targetName": "/apex"
                                                             },
-                                                            "displayName": "{Label.MSLockedPartOne} {%vlocity_namespace%__AsyncOperation__c.value} {%vlocity_namespace%__LockedFor__c.value} {Label.MSLockedPartTwo}",
+                                                            "displayName": "{Label.MSLockedPartOne} {vlocity_cmt__AsyncOperation__c.value} {vlocity_cmt__LockedFor__c.value} {Label.MSLockedPartTwo}",
                                                             "eventName": "setValues",
                                                             "id": "flex-action-1633422402018",
                                                             "openUrlIn": "Current Window",
@@ -94,7 +94,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__AsyncJobId__c.value",
+                                                            "field": "vlocity_cmt__AsyncJobId__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-22",
                                                             "operator": "!=",
@@ -102,7 +102,7 @@
                                                             "value": "undefined"
                                                         },
                                                         {
-                                                            "field": "%vlocity_namespace%__AsyncJobId__c.value",
+                                                            "field": "vlocity_cmt__AsyncJobId__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-2",
                                                             "logicalOperator": "&&",
@@ -120,7 +120,7 @@
                                                 "iconName": "utility:spinner",
                                                 "iconOnly": true,
                                                 "iconSize": "small",
-                                                "label": "\\{Label.MSLockedPartOne} {%vlocity_namespace%__AsyncOperation__c.value} {%vlocity_namespace%__LockedFor__c.value} {Label.MSLockedPartTwo}",
+                                                "label": "\\{Label.MSLockedPartOne} {vlocity_cmt__AsyncOperation__c.value} {vlocity_cmt__LockedFor__c.value} {Label.MSLockedPartTwo}",
                                                 "record": "{record}",
                                                 "showSpinner": "false",
                                                 "stateObj": "{record}"
@@ -236,7 +236,7 @@
                                                         "data-conditions": {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__LockedBy__c.value",
+                                                                    "field": "vlocity_cmt__LockedBy__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-22",
                                                                     "operator": "!=",
@@ -259,7 +259,7 @@
                                                             "Web Page": {
                                                                 "targetName": "/apex"
                                                             },
-                                                            "displayName": "{Label.MSLockedPartOne} {%vlocity_namespace%__AsyncOperation__c.value} {%vlocity_namespace%__LockedFor__c.value} {Label.MSLockedPartTwo}",
+                                                            "displayName": "{Label.MSLockedPartOne} {vlocity_cmt__AsyncOperation__c.value} {vlocity_cmt__LockedFor__c.value} {Label.MSLockedPartTwo}",
                                                             "eventName": "setValues",
                                                             "id": "flex-action-1633422402018",
                                                             "openUrlIn": "Current Window",
@@ -276,7 +276,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__AsyncJobId__c.value",
+                                                                    "field": "vlocity_cmt__AsyncJobId__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-5",
                                                                     "operator": "==",
@@ -284,7 +284,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__AsyncJobId__c.value",
+                                                                    "field": "vlocity_cmt__AsyncJobId__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-10",
                                                                     "logicalOperator": "||",
@@ -298,7 +298,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__LockedBy__c.value",
+                                                                    "field": "vlocity_cmt__LockedBy__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-7",
                                                                     "operator": "!=",
@@ -306,7 +306,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__LockedBy__c.value",
+                                                                    "field": "vlocity_cmt__LockedBy__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-15",
                                                                     "logicalOperator": "&&",
@@ -328,7 +328,7 @@
                                                 "iconName": "utility:lock",
                                                 "iconOnly": true,
                                                 "iconSize": "small",
-                                                "label": "\\{Label.MSLockedPartOne} {%vlocity_namespace%__AsyncOperation__c.value} {%vlocity_namespace%__LockedFor__c.value} {Label.MSLockedPartTwo}",
+                                                "label": "\\{Label.MSLockedPartOne} {vlocity_cmt__AsyncOperation__c.value} {vlocity_cmt__LockedFor__c.value} {Label.MSLockedPartTwo}",
                                                 "record": "{record}",
                                                 "showSpinner": "false",
                                                 "stateObj": "{record}"
@@ -443,7 +443,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__LockedBy__c.value",
+                                                            "field": "vlocity_cmt__LockedBy__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-22",
                                                             "operator": "==",
@@ -451,7 +451,7 @@
                                                             "value": "undefined"
                                                         },
                                                         {
-                                                            "field": "%vlocity_namespace%__HasUnappliedGroupItems__c.value",
+                                                            "field": "vlocity_cmt__HasUnappliedGroupItems__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-31",
                                                             "logicalOperator": "&&",
@@ -460,7 +460,7 @@
                                                             "value": "false"
                                                         },
                                                         {
-                                                            "field": "%vlocity_namespace%__HasUnappliedMembers__c.value",
+                                                            "field": "vlocity_cmt__HasUnappliedMembers__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-41",
                                                             "logicalOperator": "&&",
@@ -471,7 +471,7 @@
                                                         {
                                                             "group": [
                                                                 {
-                                                                    "field": "groupCart.%vlocity_namespace%__IsPriced__c",
+                                                                    "field": "groupCart.vlocity_cmt__IsPriced__c",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-20",
                                                                     "operator": "==",
@@ -479,7 +479,7 @@
                                                                     "value": "false"
                                                                 },
                                                                 {
-                                                                    "field": "groupCart.%vlocity_namespace%__IsValidated__c",
+                                                                    "field": "groupCart.vlocity_cmt__IsValidated__c",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-73",
                                                                     "logicalOperator": "||",
@@ -624,7 +624,7 @@
                                                         "data-conditions": {
                                                             "group": [
                                                                 {
-                                                                    "field": "%vlocity_namespace%__LockedBy__c.value",
+                                                                    "field": "vlocity_cmt__LockedBy__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-22",
                                                                     "operator": "==",
@@ -632,7 +632,7 @@
                                                                     "value": "undefined"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__HasUnappliedGroupItems__c.value",
+                                                                    "field": "vlocity_cmt__HasUnappliedGroupItems__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-31",
                                                                     "logicalOperator": "&&",
@@ -641,7 +641,7 @@
                                                                     "value": "false"
                                                                 },
                                                                 {
-                                                                    "field": "%vlocity_namespace%__HasUnappliedMembers__c.value",
+                                                                    "field": "vlocity_cmt__HasUnappliedMembers__c.value",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-41",
                                                                     "logicalOperator": "&&",
@@ -650,7 +650,7 @@
                                                                     "value": "false"
                                                                 },
                                                                 {
-                                                                    "field": "groupCart.%vlocity_namespace%__IsPriced__c",
+                                                                    "field": "groupCart.vlocity_cmt__IsPriced__c",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-54",
                                                                     "logicalOperator": "&&",
@@ -659,7 +659,7 @@
                                                                     "value": "true"
                                                                 },
                                                                 {
-                                                                    "field": "groupCart.%vlocity_namespace%__IsValidated__c",
+                                                                    "field": "groupCart.vlocity_cmt__IsValidated__c",
                                                                     "hasMergeField": false,
                                                                     "id": "state-new-condition-75",
                                                                     "logicalOperator": "&&",
@@ -694,7 +694,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__LockedBy__c.value",
+                                                            "field": "vlocity_cmt__LockedBy__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-22",
                                                             "operator": "==",
@@ -702,7 +702,7 @@
                                                             "value": "undefined"
                                                         },
                                                         {
-                                                            "field": "%vlocity_namespace%__HasUnappliedGroupItems__c.value",
+                                                            "field": "vlocity_cmt__HasUnappliedGroupItems__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-31",
                                                             "logicalOperator": "&&",
@@ -711,7 +711,7 @@
                                                             "value": "false"
                                                         },
                                                         {
-                                                            "field": "%vlocity_namespace%__HasUnappliedMembers__c.value",
+                                                            "field": "vlocity_cmt__HasUnappliedMembers__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-41",
                                                             "logicalOperator": "&&",
@@ -720,7 +720,7 @@
                                                             "value": "false"
                                                         },
                                                         {
-                                                            "field": "groupCart.%vlocity_namespace%__IsPriced__c",
+                                                            "field": "groupCart.vlocity_cmt__IsPriced__c",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-54",
                                                             "logicalOperator": "&&",
@@ -729,7 +729,7 @@
                                                             "value": "true"
                                                         },
                                                         {
-                                                            "field": "groupCart.%vlocity_namespace%__IsValidated__c",
+                                                            "field": "groupCart.vlocity_cmt__IsValidated__c",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-75",
                                                             "logicalOperator": "&&",
@@ -859,7 +859,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__LockedBy__c.value",
+                                                            "field": "vlocity_cmt__LockedBy__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-22",
                                                             "operator": "==",
@@ -1024,7 +1024,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__LockedBy__c.value",
+                                                            "field": "vlocity_cmt__LockedBy__c.value",
                                                             "hasMergeField": false,
                                                             "id": "state-new-condition-22",
                                                             "operator": "==",

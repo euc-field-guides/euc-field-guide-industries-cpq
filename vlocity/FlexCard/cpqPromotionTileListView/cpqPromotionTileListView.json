@@ -28,7 +28,7 @@
         "Id": "0Rb5g000000SjyvCAC",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqPromotionTileListView_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [
@@ -735,7 +735,7 @@
                                                             "parentElementKey": "element_element_element_element_block_0_1_block_1_1_block_2_1_block_0_1",
                                                             "property": {
                                                                 "card": "{card}",
-                                                                "fieldName": "%vlocity_namespace%__effectivestartdate__c",
+                                                                "fieldName": "vlocity_cmt__effectivestartdate__c",
                                                                 "format": "M/D/YYYY",
                                                                 "label": "",
                                                                 "mask": "",
@@ -936,7 +936,7 @@
                                                             "parentElementKey": "element_element_element_element_block_0_1_block_1_1_block_2_1_block_1_1",
                                                             "property": {
                                                                 "card": "{card}",
-                                                                "fieldName": "%vlocity_namespace%__effectiveenddate__c",
+                                                                "fieldName": "vlocity_cmt__effectiveenddate__c",
                                                                 "format": "M/D/YYYY",
                                                                 "label": "",
                                                                 "mask": "",
@@ -2401,7 +2401,7 @@
                                                     "parentElementKey": "element_element_element_block_0_2_block_1_2_block_2_2",
                                                     "property": {
                                                         "card": "{card}",
-                                                        "fieldName": "%vlocity_namespace%__effectivestartdate__c",
+                                                        "fieldName": "vlocity_cmt__effectivestartdate__c",
                                                         "format": "M/D/YYYY",
                                                         "label": "",
                                                         "placeholder": "{Label.CPQStartDateOfPromotionPlaceholder}",
@@ -2697,7 +2697,7 @@
                                                     "parentElementKey": "element_element_element_block_0_2_block_1_2_block_3_2",
                                                     "property": {
                                                         "card": "{card}",
-                                                        "fieldName": "%vlocity_namespace%__effectiveenddate__c",
+                                                        "fieldName": "vlocity_cmt__effectiveenddate__c",
                                                         "format": "M/D/YYYY",
                                                         "label": "",
                                                         "placeholder": "{Label.CPQEndDateOfPromotionPlaceholder}",

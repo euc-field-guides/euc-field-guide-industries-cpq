@@ -4,8 +4,8 @@
         "FilterOperator": "=",
         "FilterValue": "QuoteId",
         "GlobalKey": "GetMembersFromQuote48559546059475966",
-        "InputFieldName": "%vlocity_namespace%__QuoteId__c",
-        "InputObjectName": "%vlocity_namespace%__QuoteMember__c",
+        "InputFieldName": "vlocity_cmt__QuoteId__c",
+        "InputObjectName": "vlocity_cmt__QuoteMember__c",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
@@ -44,7 +44,7 @@
     },
     {
         "GlobalKey": "GetMembersFromQuote7082309231384956",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__Address1__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__Address1__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -63,7 +63,7 @@
     },
     {
         "GlobalKey": "GetMembersFromQuote9519748579802334",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__City__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__City__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -82,7 +82,7 @@
     },
     {
         "GlobalKey": "GetMembersFromQuote4867848429854418",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__Country__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__Country__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -101,7 +101,7 @@
     },
     {
         "GlobalKey": "GetMembersFromQuote31839536068478624",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__Email__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__Email__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -120,7 +120,7 @@
     },
     {
         "GlobalKey": "GetMembersFromQuote3404634567982585",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__FirstName__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__FirstName__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -158,7 +158,7 @@
     },
     {
         "GlobalKey": "GetMembersFromQuote8977780209352473",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__LastName__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__LastName__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -196,7 +196,7 @@
     },
     {
         "GlobalKey": "GetMembersFromQuote4852902660058611",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__ServiceAccountId__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__ServiceAccountId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -215,7 +215,7 @@
     },
     {
         "GlobalKey": "GetMembersFromQuote07418591299694999",
-        "InputFieldName": "QuoteMember:%vlocity_namespace%__State__c",
+        "InputFieldName": "QuoteMember:vlocity_cmt__State__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

@@ -14,7 +14,7 @@
         },
         "additionalInput": {
             "currentPage": "%currentPage%",
-            "fields": "%vlocity_namespace%__OrderProductId__c,Description,%vlocity_namespace%__OneTimeTotal__c,Status,%vlocity_namespace%__EffectiveOneTimeTotal__c,%vlocity_namespace%__ServiceAccountId__r.Name,%vlocity_namespace%__RecurringCharge__c,Product2.%vlocity_namespace%__VersionLabel__c",
+            "fields": "vlocity_cmt__OrderProductId__c,Description,vlocity_cmt__OneTimeTotal__c,Status,vlocity_cmt__EffectiveOneTimeTotal__c,vlocity_cmt__ServiceAccountId__r.Name,vlocity_cmt__RecurringCharge__c,Product2.vlocity_cmt__VersionLabel__c",
             "filters": "AccountId:%accountId%%filterString%",
             "offsetSize": "%offset%",
             "pagesize": "%pagesize%",

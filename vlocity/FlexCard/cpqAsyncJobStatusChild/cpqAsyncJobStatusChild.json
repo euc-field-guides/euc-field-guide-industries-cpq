@@ -26,7 +26,7 @@
         "Id": "0Rb5e000002RDeqCAG",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqAsyncJobStatusChild_2_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

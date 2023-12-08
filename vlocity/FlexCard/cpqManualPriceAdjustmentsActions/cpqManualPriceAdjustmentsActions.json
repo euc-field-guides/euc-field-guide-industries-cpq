@@ -14,7 +14,7 @@
             {
                 "id": 100,
                 "name": "Parent.namespace",
-                "val": "%vlocity_namespace%__"
+                "val": "vlocity_cmt__"
             },
             {
                 "id": 12,
@@ -29,7 +29,7 @@
             {
                 "id": 14,
                 "name": "Parent.fields",
-                "val": "%vlocity_namespace%__OneTimeCharge__c"
+                "val": "vlocity_cmt__OneTimeCharge__c"
             }
         ],
         "orderBy": {
@@ -262,7 +262,7 @@
                 "stateAction": {
                     "eventName": "updatedatasource",
                     "id": "flex-action-1615206448954",
-                    "message": "{\"type\":\"IntegrationProcedures\",\"value\":{\"dsDelay\":0,\"ipMethod\":\"CPQ_GetListsOfValues\",\"vlocityAsync\":false,\"inputMap\":{\"cartId\":\"{Parent.cartId}\",\"listkeys\":\"{action.listkeys}\",\"PricingVariableCode\":\"{action.PricingVariableCode}\",\"fields\":\"{action.fields}\"}},\"orderBy\":{\"name\":\"\",\"isReverse\":false},\"contextVariables\":[{\"name\":\"Parent.cartId\",\"val\":\"8014W000001yoLzQAI\",\"id\":1},{\"name\":\"action.listkeys\",\"val\":\"AdjustmentCodes,TimePlans,TimePolicies\",\"id\":8},{\"name\":\"action.fields\",\"val\":\"%vlocity_namespace%__RecurringCharge__c\",\"id\":12},{\"name\":\"action.PricingVariableCode\",\"val\":\"REC_MNTH_STD_PRC\",\"id\":13}]}",
+                    "message": "{\"type\":\"IntegrationProcedures\",\"value\":{\"dsDelay\":0,\"ipMethod\":\"CPQ_GetListsOfValues\",\"vlocityAsync\":false,\"inputMap\":{\"cartId\":\"{Parent.cartId}\",\"listkeys\":\"{action.listkeys}\",\"PricingVariableCode\":\"{action.PricingVariableCode}\",\"fields\":\"{action.fields}\"}},\"orderBy\":{\"name\":\"\",\"isReverse\":false},\"contextVariables\":[{\"name\":\"Parent.cartId\",\"val\":\"8014W000001yoLzQAI\",\"id\":1},{\"name\":\"action.listkeys\",\"val\":\"AdjustmentCodes,TimePlans,TimePolicies\",\"id\":8},{\"name\":\"action.fields\",\"val\":\"vlocity_cmt__RecurringCharge__c\",\"id\":12},{\"name\":\"action.PricingVariableCode\",\"val\":\"REC_MNTH_STD_PRC\",\"id\":13}]}",
                     "type": "cardAction"
                 }
             },
@@ -276,7 +276,7 @@
                     "stateAction": {
                         "eventName": "updatedatasource",
                         "id": "flex-action-1615206448954",
-                        "message": "{\"type\":\"IntegrationProcedures\",\"value\":{\"dsDelay\":0,\"ipMethod\":\"CPQ_GetListsOfValues\",\"vlocityAsync\":false,\"inputMap\":{\"cartId\":\"{Parent.cartId}\",\"listkeys\":\"{action.listkeys}\",\"PricingVariableCode\":\"{action.PricingVariableCode}\",\"fields\":\"{action.fields}\"}},\"orderBy\":{\"name\":\"\",\"isReverse\":false},\"contextVariables\":[{\"name\":\"Parent.cartId\",\"val\":\"8014W000001yoLzQAI\",\"id\":1},{\"name\":\"action.listkeys\",\"val\":\"AdjustmentCodes,TimePlans,TimePolicies\",\"id\":8},{\"name\":\"action.fields\",\"val\":\"%vlocity_namespace%__RecurringCharge__c\",\"id\":12},{\"name\":\"action.PricingVariableCode\",\"val\":\"REC_MNTH_STD_PRC\",\"id\":13}]}",
+                        "message": "{\"type\":\"IntegrationProcedures\",\"value\":{\"dsDelay\":0,\"ipMethod\":\"CPQ_GetListsOfValues\",\"vlocityAsync\":false,\"inputMap\":{\"cartId\":\"{Parent.cartId}\",\"listkeys\":\"{action.listkeys}\",\"PricingVariableCode\":\"{action.PricingVariableCode}\",\"fields\":\"{action.fields}\"}},\"orderBy\":{\"name\":\"\",\"isReverse\":false},\"contextVariables\":[{\"name\":\"Parent.cartId\",\"val\":\"8014W000001yoLzQAI\",\"id\":1},{\"name\":\"action.listkeys\",\"val\":\"AdjustmentCodes,TimePlans,TimePolicies\",\"id\":8},{\"name\":\"action.fields\",\"val\":\"vlocity_cmt__RecurringCharge__c\",\"id\":12},{\"name\":\"action.PricingVariableCode\",\"val\":\"REC_MNTH_STD_PRC\",\"id\":13}]}",
                         "type": "cardAction"
                     }
                 }
@@ -647,7 +647,7 @@
         "Id": "0Rb5g000000R5UWCA0",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqManualPriceAdjustmentsActions_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [

@@ -859,7 +859,7 @@
         "Id": "0RbRO0000002T4G0AU",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqAssetViewerContainer_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "sessionVars": [
@@ -1075,7 +1075,7 @@
                                                         {
                                                             "id": 0,
                                                             "label": "options",
-                                                            "value": "[   {     \"label\": \"{Label.CPQNone}\",     \"value\": \"none\"   },   {     \"label\": \"{Label.CPQName}\",     \"value\": \"Name\"   },   {     \"label\": \"{Label.CPQServiceAccount}\",     \"value\": \"%vlocity_namespace%__ServiceAccountId__r\"   },   {     \"label\": \"{Label.Quantity2}\",     \"value\": \"Quantity\"   },   {     \"label\": \"{Label.CPQDiscountRecurringCharges}\",     \"value\": \"%vlocity_namespace%__RecurringCharge__c\"   },   {     \"label\": \"{Label.CPQOneTimeChargeColumn}\",     \"value\": \"%vlocity_namespace%__OneTimeCharge__c\"   },   {     \"label\": \"{Label.OneTimeTotal}\",     \"value\": \"%vlocity_namespace%__OneTimeTotal__c\"   } ]"
+                                                            "value": "[   {     \"label\": \"{Label.CPQNone}\",     \"value\": \"none\"   },   {     \"label\": \"{Label.CPQName}\",     \"value\": \"Name\"   },   {     \"label\": \"{Label.CPQServiceAccount}\",     \"value\": \"vlocity_cmt__ServiceAccountId__r\"   },   {     \"label\": \"{Label.Quantity2}\",     \"value\": \"Quantity\"   },   {     \"label\": \"{Label.CPQDiscountRecurringCharges}\",     \"value\": \"vlocity_cmt__RecurringCharge__c\"   },   {     \"label\": \"{Label.CPQOneTimeChargeColumn}\",     \"value\": \"vlocity_cmt__OneTimeCharge__c\"   },   {     \"label\": \"{Label.OneTimeTotal}\",     \"value\": \"vlocity_cmt__OneTimeTotal__c\"   } ]"
                                                         },
                                                         {
                                                             "id": 1,
@@ -6010,7 +6010,7 @@
                                                         {
                                                             "id": 0,
                                                             "label": "options",
-                                                            "value": "[   {     \"label\": \"{Label.CPQNone}\",     \"value\": \"none\"   },   {     \"label\": \"{Label.CPQName}\",     \"value\": \"Name\"   },   {     \"label\": \"{Label.CPQServiceAccount}\",     \"value\": \"%vlocity_namespace%__ServiceAccountId__r\"   },   {     \"label\": \"{Label.Quantity2}\",     \"value\": \"Quantity\"   },   {     \"label\": \"{Label.CPQDiscountRecurringCharges}\",     \"value\": \"%vlocity_namespace%__RecurringCharge__c\"   },   {     \"label\": \"{Label.CPQOneTimeChargeColumn}\",     \"value\": \"%vlocity_namespace%__OneTimeCharge__c\"   },   {     \"label\": \"{Label.OneTimeTotal}\",     \"value\": \"%vlocity_namespace%__OneTimeTotal__c\"   } ]"
+                                                            "value": "[   {     \"label\": \"{Label.CPQNone}\",     \"value\": \"none\"   },   {     \"label\": \"{Label.CPQName}\",     \"value\": \"Name\"   },   {     \"label\": \"{Label.CPQServiceAccount}\",     \"value\": \"vlocity_cmt__ServiceAccountId__r\"   },   {     \"label\": \"{Label.Quantity2}\",     \"value\": \"Quantity\"   },   {     \"label\": \"{Label.CPQDiscountRecurringCharges}\",     \"value\": \"vlocity_cmt__RecurringCharge__c\"   },   {     \"label\": \"{Label.CPQOneTimeChargeColumn}\",     \"value\": \"vlocity_cmt__OneTimeCharge__c\"   },   {     \"label\": \"{Label.OneTimeTotal}\",     \"value\": \"vlocity_cmt__OneTimeTotal__c\"   } ]"
                                                         },
                                                         {
                                                             "id": 1,

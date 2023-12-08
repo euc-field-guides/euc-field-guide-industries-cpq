@@ -1,12 +1,12 @@
 {
     "records": [
         {
-            "%vlocity_namespace%__CatalogCode__c": "Mobile",
-            "%vlocity_namespace%__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
-            "%vlocity_namespace%__GlobalKey__c": "7a086d3c-ec11-5ca3-0bae-b503c08ac9b8",
-            "%vlocity_namespace%__IsActive__c": true,
-            "%vlocity_namespace%__IsCatalogRoot__c": false,
-            "%vlocity_namespace%__IsDefault__c": false,
+            "vlocity_cmt__CatalogCode__c": "Mobile",
+            "vlocity_cmt__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
+            "vlocity_cmt__GlobalKey__c": "7a086d3c-ec11-5ca3-0bae-b503c08ac9b8",
+            "vlocity_cmt__IsActive__c": true,
+            "vlocity_cmt__IsCatalogRoot__c": false,
+            "vlocity_cmt__IsDefault__c": false,
             "CreatedById": "0055g000007BFFrAAO",
             "CreatedDate": "2021-06-10T13:37:55.000+0000",
             "Id": "a0e5g000000hIhxAAE",
@@ -19,20 +19,20 @@
             "OwnerId": "0055g000007BFFrAAO",
             "SystemModstamp": "2021-06-10T13:37:55.000+0000",
             "attributes": {
-                "type": "%vlocity_namespace%__Catalog__c",
-                "url": "/services/data/v51.0/sobjects/%vlocity_namespace%__Catalog__c/a0e5g000000hIhxAAE"
+                "type": "vlocity_cmt__Catalog__c",
+                "url": "/services/data/v51.0/sobjects/vlocity_cmt__Catalog__c/a0e5g000000hIhxAAE"
             },
             "catalogId": "a0e5g000000hIhxAAE",
             "catalogName": "Mobile",
             "displaySequence": -1
         },
         {
-            "%vlocity_namespace%__CatalogCode__c": "NewCatalog",
-            "%vlocity_namespace%__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
-            "%vlocity_namespace%__GlobalKey__c": "c8ec76ac-e30c-7274-8018-955f8d83bcfd",
-            "%vlocity_namespace%__IsActive__c": true,
-            "%vlocity_namespace%__IsCatalogRoot__c": false,
-            "%vlocity_namespace%__IsDefault__c": false,
+            "vlocity_cmt__CatalogCode__c": "NewCatalog",
+            "vlocity_cmt__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
+            "vlocity_cmt__GlobalKey__c": "c8ec76ac-e30c-7274-8018-955f8d83bcfd",
+            "vlocity_cmt__IsActive__c": true,
+            "vlocity_cmt__IsCatalogRoot__c": false,
+            "vlocity_cmt__IsDefault__c": false,
             "CreatedById": "0055g000007BFFrAAO",
             "CreatedDate": "2021-06-06T09:25:17.000+0000",
             "Id": "a0e5g000000hIGdAAM",
@@ -45,20 +45,20 @@
             "OwnerId": "0055g000007BFFrAAO",
             "SystemModstamp": "2021-06-10T13:25:21.000+0000",
             "attributes": {
-                "type": "%vlocity_namespace%__Catalog__c",
-                "url": "/services/data/v51.0/sobjects/%vlocity_namespace%__Catalog__c/a0e5g000000hIGdAAM"
+                "type": "vlocity_cmt__Catalog__c",
+                "url": "/services/data/v51.0/sobjects/vlocity_cmt__Catalog__c/a0e5g000000hIGdAAM"
             },
             "catalogId": "a0e5g000000hIGdAAM",
             "catalogName": "New Catalog",
             "displaySequence": -1
         },
         {
-            "%vlocity_namespace%__CatalogCode__c": "MobileAccessories",
-            "%vlocity_namespace%__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
-            "%vlocity_namespace%__GlobalKey__c": "0063bbe9-8e58-4815-c995-b6d140240933",
-            "%vlocity_namespace%__IsActive__c": true,
-            "%vlocity_namespace%__IsCatalogRoot__c": false,
-            "%vlocity_namespace%__IsDefault__c": false,
+            "vlocity_cmt__CatalogCode__c": "MobileAccessories",
+            "vlocity_cmt__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
+            "vlocity_cmt__GlobalKey__c": "0063bbe9-8e58-4815-c995-b6d140240933",
+            "vlocity_cmt__IsActive__c": true,
+            "vlocity_cmt__IsCatalogRoot__c": false,
+            "vlocity_cmt__IsDefault__c": false,
             "CreatedById": "0055g000007BFFrAAO",
             "CreatedDate": "2021-06-10T13:38:54.000+0000",
             "Id": "a0e5g000000hIi3AAE",
@@ -71,20 +71,20 @@
             "OwnerId": "0055g000007BFFrAAO",
             "SystemModstamp": "2021-06-10T13:38:55.000+0000",
             "attributes": {
-                "type": "%vlocity_namespace%__Catalog__c",
-                "url": "/services/data/v51.0/sobjects/%vlocity_namespace%__Catalog__c/a0e5g000000hIi3AAE"
+                "type": "vlocity_cmt__Catalog__c",
+                "url": "/services/data/v51.0/sobjects/vlocity_cmt__Catalog__c/a0e5g000000hIi3AAE"
             },
             "catalogId": "a0e5g000000hIi3AAE",
             "catalogName": "Mobile Accessories",
             "displaySequence": -1
         },
         {
-            "%vlocity_namespace%__CatalogCode__c": "InternetPlans",
-            "%vlocity_namespace%__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
-            "%vlocity_namespace%__GlobalKey__c": "6576a860-8a9e-d12d-82bb-f3ee2a8be988",
-            "%vlocity_namespace%__IsActive__c": true,
-            "%vlocity_namespace%__IsCatalogRoot__c": false,
-            "%vlocity_namespace%__IsDefault__c": false,
+            "vlocity_cmt__CatalogCode__c": "InternetPlans",
+            "vlocity_cmt__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
+            "vlocity_cmt__GlobalKey__c": "6576a860-8a9e-d12d-82bb-f3ee2a8be988",
+            "vlocity_cmt__IsActive__c": true,
+            "vlocity_cmt__IsCatalogRoot__c": false,
+            "vlocity_cmt__IsDefault__c": false,
             "CreatedById": "0055g000007BFFrAAO",
             "CreatedDate": "2021-06-10T13:38:20.000+0000",
             "Id": "a0e5g000000hIi2AAE",
@@ -97,20 +97,20 @@
             "OwnerId": "0055g000007BFFrAAO",
             "SystemModstamp": "2021-06-10T13:38:21.000+0000",
             "attributes": {
-                "type": "%vlocity_namespace%__Catalog__c",
-                "url": "/services/data/v51.0/sobjects/%vlocity_namespace%__Catalog__c/a0e5g000000hIi2AAE"
+                "type": "vlocity_cmt__Catalog__c",
+                "url": "/services/data/v51.0/sobjects/vlocity_cmt__Catalog__c/a0e5g000000hIi2AAE"
             },
             "catalogId": "a0e5g000000hIi2AAE",
             "catalogName": "Internet Plans",
             "displaySequence": -1
         },
         {
-            "%vlocity_namespace%__CatalogCode__c": "TabletsAccessories",
-            "%vlocity_namespace%__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
-            "%vlocity_namespace%__GlobalKey__c": "983786a9-4727-dd5a-eddf-4326f45350bb",
-            "%vlocity_namespace%__IsActive__c": true,
-            "%vlocity_namespace%__IsCatalogRoot__c": false,
-            "%vlocity_namespace%__IsDefault__c": false,
+            "vlocity_cmt__CatalogCode__c": "TabletsAccessories",
+            "vlocity_cmt__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
+            "vlocity_cmt__GlobalKey__c": "983786a9-4727-dd5a-eddf-4326f45350bb",
+            "vlocity_cmt__IsActive__c": true,
+            "vlocity_cmt__IsCatalogRoot__c": false,
+            "vlocity_cmt__IsDefault__c": false,
             "CreatedById": "0055g000007BFFrAAO",
             "CreatedDate": "2021-06-10T13:40:12.000+0000",
             "Id": "a0e5g000000hIiCAAU",
@@ -123,20 +123,20 @@
             "OwnerId": "0055g000007BFFrAAO",
             "SystemModstamp": "2021-06-10T13:40:12.000+0000",
             "attributes": {
-                "type": "%vlocity_namespace%__Catalog__c",
-                "url": "/services/data/v51.0/sobjects/%vlocity_namespace%__Catalog__c/a0e5g000000hIiCAAU"
+                "type": "vlocity_cmt__Catalog__c",
+                "url": "/services/data/v51.0/sobjects/vlocity_cmt__Catalog__c/a0e5g000000hIiCAAU"
             },
             "catalogId": "a0e5g000000hIiCAAU",
             "catalogName": "Tablets Accessories",
             "displaySequence": -1
         },
         {
-            "%vlocity_namespace%__CatalogCode__c": "Tablets",
-            "%vlocity_namespace%__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
-            "%vlocity_namespace%__GlobalKey__c": "37816d4c-d4fb-8d10-fc23-51aef9e2f8fb",
-            "%vlocity_namespace%__IsActive__c": true,
-            "%vlocity_namespace%__IsCatalogRoot__c": false,
-            "%vlocity_namespace%__IsDefault__c": false,
+            "vlocity_cmt__CatalogCode__c": "Tablets",
+            "vlocity_cmt__DefaultPriceListId__c": "a3D5g000000oW2bEAE",
+            "vlocity_cmt__GlobalKey__c": "37816d4c-d4fb-8d10-fc23-51aef9e2f8fb",
+            "vlocity_cmt__IsActive__c": true,
+            "vlocity_cmt__IsCatalogRoot__c": false,
+            "vlocity_cmt__IsDefault__c": false,
             "CreatedById": "0055g000007BFFrAAO",
             "CreatedDate": "2021-06-10T13:39:52.000+0000",
             "Id": "a0e5g000000hIi7AAE",
@@ -149,8 +149,8 @@
             "OwnerId": "0055g000007BFFrAAO",
             "SystemModstamp": "2021-06-10T13:39:53.000+0000",
             "attributes": {
-                "type": "%vlocity_namespace%__Catalog__c",
-                "url": "/services/data/v51.0/sobjects/%vlocity_namespace%__Catalog__c/a0e5g000000hIi7AAE"
+                "type": "vlocity_cmt__Catalog__c",
+                "url": "/services/data/v51.0/sobjects/vlocity_cmt__Catalog__c/a0e5g000000hIi7AAE"
             },
             "catalogId": "a0e5g000000hIi7AAE",
             "catalogName": "Tablets",

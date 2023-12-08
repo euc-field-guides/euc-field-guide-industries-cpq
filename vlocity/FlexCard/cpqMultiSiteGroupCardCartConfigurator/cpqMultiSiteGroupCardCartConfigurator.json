@@ -31,7 +31,7 @@
         "Id": "0Rb5g000000SKKDCA4",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMultiSiteGroupCardCartConfigurator_1_Salesforce",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,

@@ -316,7 +316,7 @@
         "Id": "0Rb5g000000RqSSCA0",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartDetailViewContainer_9_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,
@@ -1691,7 +1691,7 @@
         "isExplicitImport": false,
         "isExposed": true,
         "masterLabel": "cpqCartDetailViewContainer",
-        "runtimeNamespace": "%vlocity_namespace%",
+        "runtimeNamespace": "vlocity_cmt",
         "targetConfigs": "PHRhcmdldENvbmZpZyB0YXJnZXRzPSJsaWdodG5pbmdDb21tdW5pdHlfX0RlZmF1bHQiPgogICAgICA8cHJvcGVydHkgbmFtZT0icmVjb3JkSWQiIHR5cGU9IlN0cmluZyIvPgogICAgPC90YXJnZXRDb25maWc+",
         "targets": {
             "target": [

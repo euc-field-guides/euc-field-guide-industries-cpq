@@ -32,7 +32,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction3",
-        "remoteClass": "%vlocity_namespace%.MultiServiceAppHandler",
+        "remoteClass": "vlocity_cmt.MultiServiceAppHandler",
         "remoteMethod": "addToGroup",
         "remoteOptions": {
         },

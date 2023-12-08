@@ -55,7 +55,7 @@
         "Id": "0RbRO0000001Uts0AE",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqProductView_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [

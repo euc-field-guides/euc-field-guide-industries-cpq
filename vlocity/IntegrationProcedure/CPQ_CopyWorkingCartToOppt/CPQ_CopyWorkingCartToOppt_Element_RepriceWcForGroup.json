@@ -41,7 +41,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction11",
-        "remoteClass": "%vlocity_namespace%.CpqAppHandler",
+        "remoteClass": "vlocity_cmt.CpqAppHandler",
         "remoteMethod": "runCartValidation",
         "remoteOptions": {
         },

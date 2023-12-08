@@ -24,7 +24,7 @@
         "Id": "0Rb5g000000ScJ2CAK",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqPromotions_6_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

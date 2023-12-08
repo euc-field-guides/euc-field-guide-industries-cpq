@@ -24,7 +24,7 @@
         "Id": "0Rb5g000000RBlJCAW",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqPriceAdjustmentList_11_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [

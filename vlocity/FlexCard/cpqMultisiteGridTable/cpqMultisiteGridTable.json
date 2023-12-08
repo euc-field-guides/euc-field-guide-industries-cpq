@@ -129,7 +129,7 @@
         "Id": "0Rb8Z000000QxMgSAK",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMultisiteGridTable_4_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,

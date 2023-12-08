@@ -43,7 +43,7 @@
                 ]
             }
         },
-        "source": "/apex/%vlocity_namespace%__HybridCPQ?id=%CreateFollowOnOrder:records|1:followOnOrderId%",
+        "source": "/apex/vlocity_cmt__HybridCPQ?id=%CreateFollowOnOrder:records|1:followOnOrderId%",
         "ssm": false,
         "type": "URL",
         "validationRequired": null,

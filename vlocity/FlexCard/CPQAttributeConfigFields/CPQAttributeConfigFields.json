@@ -17,7 +17,7 @@
         "Id": "0Rb5g000000QkMqCAK",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCPQAttributeConfigFields",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "states": [

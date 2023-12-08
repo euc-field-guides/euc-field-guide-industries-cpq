@@ -21,7 +21,7 @@
         "Id": "0Rb5g000000r5HKCAY",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartInlinePromoForAssetViewer_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "states": [

@@ -32,7 +32,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__DefaultBillingAccountId__c",
+        "OutputFieldName": "vlocity_cmt__DefaultBillingAccountId__c",
         "OutputObjectName": "Order",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -51,7 +51,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__DefaultServiceAccountId__c",
+        "OutputFieldName": "vlocity_cmt__DefaultServiceAccountId__c",
         "OutputObjectName": "Order",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -70,7 +70,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__ParentOrderId__c",
+        "OutputFieldName": "vlocity_cmt__ParentOrderId__c",
         "OutputObjectName": "Order",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"

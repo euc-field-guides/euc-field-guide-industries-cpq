@@ -279,7 +279,7 @@
         "Id": "0Rb5e0000013wGkCAI",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqManualPriceAdjustments_2_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [
@@ -297,7 +297,7 @@
         },
         {
             "name": "namespace",
-            "val": "%vlocity_namespace%__"
+            "val": "vlocity_cmt__"
         },
         {
             "name": "chargeType",
@@ -309,7 +309,7 @@
         },
         {
             "name": "fields",
-            "val": "%vlocity_namespace%__OneTimeCharge__c"
+            "val": "vlocity_cmt__OneTimeCharge__c"
         },
         {
             "name": "listkeys",
@@ -479,7 +479,7 @@
                                                     "extraParams": {
                                                         "PricingVariableCode": "OT_STD_PRC",
                                                         "chargeType": "OneTimeCharge__c",
-                                                        "fields": "%vlocity_namespace%__OneTimeCharge__c",
+                                                        "fields": "vlocity_cmt__OneTimeCharge__c",
                                                         "listkeys": "AdjustmentCodes"
                                                     },
                                                     "hasExtraParams": true,
@@ -617,7 +617,7 @@
                                                     "extraParams": {
                                                         "PricingVariableCode": "OT_STD_PRC",
                                                         "chargeType": "OneTimeCharge__c",
-                                                        "fields": "%vlocity_namespace%__OneTimeCharge__c",
+                                                        "fields": "vlocity_cmt__OneTimeCharge__c",
                                                         "listkeys": "AdjustmentCodes"
                                                     },
                                                     "hasExtraParams": true,
@@ -755,7 +755,7 @@
                                                     "extraParams": {
                                                         "PricingVariableCode": "REC_MNTH_STD_PRC",
                                                         "chargeType": "RecurringCharge__c",
-                                                        "fields": "%vlocity_namespace%__RecurringCharge__c",
+                                                        "fields": "vlocity_cmt__RecurringCharge__c",
                                                         "listkeys": "AdjustmentCodes,TimePlans,TimePolicies"
                                                     },
                                                     "hasExtraParams": true,
@@ -893,7 +893,7 @@
                                                     "extraParams": {
                                                         "PricingVariableCode": "REC_MNTH_STD_PRC",
                                                         "chargeType": "RecurringCharge__c",
-                                                        "fields": "%vlocity_namespace%__RecurringCharge__c",
+                                                        "fields": "vlocity_cmt__RecurringCharge__c",
                                                         "listkeys": "AdjustmentCodes,TimePlans,TimePolicies"
                                                     },
                                                     "hasExtraParams": true,
@@ -1031,7 +1031,7 @@
                                                     "extraParams": {
                                                         "PricingVariableCode": "USAGE_STD_PRC",
                                                         "chargeType": "UsageUnitPrice__c",
-                                                        "fields": "%vlocity_namespace%__UsageUnitPrice__c",
+                                                        "fields": "vlocity_cmt__UsageUnitPrice__c",
                                                         "listkeys": "AdjustmentCodes"
                                                     },
                                                     "hasExtraParams": true,
@@ -1169,7 +1169,7 @@
                                                     "extraParams": {
                                                         "PricingVariableCode": "USAGE_STD_PRC",
                                                         "chargeType": "UsageUnitPrice__c",
-                                                        "fields": "%vlocity_namespace%__UsageUnitPrice__c",
+                                                        "fields": "vlocity_cmt__UsageUnitPrice__c",
                                                         "listkeys": "AdjustmentCodes"
                                                     },
                                                     "hasExtraParams": true,

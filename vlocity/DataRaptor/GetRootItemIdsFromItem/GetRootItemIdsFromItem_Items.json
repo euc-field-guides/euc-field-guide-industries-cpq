@@ -5,7 +5,7 @@
         "FilterValue": "'UseAssetReferenceIdForParentAndRoot'",
         "GlobalKey": "GetRootItemIdsFromItemCustom8549",
         "InputFieldName": "Name",
-        "InputObjectName": "%vlocity_namespace%__CpqConfigurationSetup__c",
+        "InputObjectName": "vlocity_cmt__CpqConfigurationSetup__c",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
@@ -48,7 +48,7 @@
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
-        "FormulaExpression": "IF(CPQConfigurationSetup:%vlocity_namespace%__SetupValue__c, QuoteLineItem:%vlocity_namespace%__RootItemId__c, QuoteLineItem:Id)",
+        "FormulaExpression": "IF(CPQConfigurationSetup:vlocity_cmt__SetupValue__c, QuoteLineItem:vlocity_cmt__RootItemId__c, QuoteLineItem:Id)",
         "FormulaResultPath": "FinalRootItemId",
         "FormulaSequence": 1,
         "GlobalKey": "GetRootItemIdsFromItemCustom4530",

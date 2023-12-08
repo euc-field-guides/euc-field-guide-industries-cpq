@@ -4,7 +4,7 @@
         "FilterOperator": "=",
         "FilterValue": "QuoteId",
         "GlobalKey": "GetMasterOrderDetailsCustom3126",
-        "InputFieldName": "%vlocity_namespace%__QuoteId__c",
+        "InputFieldName": "vlocity_cmt__QuoteId__c",
         "InputObjectName": "Order",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,

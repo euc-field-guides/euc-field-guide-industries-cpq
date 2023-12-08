@@ -38,7 +38,7 @@
                 ]
             }
         },
-        "source": "/apex/%vlocity_namespace%__HybridCPQ?id=%CreateSupplementalOrder:records|1:supplementalOrderId%",
+        "source": "/apex/vlocity_cmt__HybridCPQ?id=%CreateSupplementalOrder:records|1:supplementalOrderId%",
         "ssm": false,
         "type": "URL",
         "validationRequired": null,

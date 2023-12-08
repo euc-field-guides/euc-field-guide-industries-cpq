@@ -55,7 +55,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__AsyncOperation__c",
+        "OutputFieldName": "vlocity_cmt__AsyncOperation__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -74,7 +74,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__pricelistid__c",
+        "OutputFieldName": "vlocity_cmt__pricelistid__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -93,7 +93,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__requestedstartdate__c",
+        "OutputFieldName": "vlocity_cmt__requestedstartdate__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"

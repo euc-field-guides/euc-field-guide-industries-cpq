@@ -477,7 +477,7 @@
         "isExplicitImport": false,
         "isExposed": true,
         "masterLabel": "cpqGlobalHeaderContainer",
-        "runtimeNamespace": "%vlocity_namespace%",
+        "runtimeNamespace": "vlocity_cmt",
         "targetConfigs": "PHRhcmdldENvbmZpZyB0YXJnZXRzPSJsaWdodG5pbmdDb21tdW5pdHlfX0RlZmF1bHQiPgogICAgICA8cHJvcGVydHkgbmFtZT0icmVjb3JkSWQiIHR5cGU9IlN0cmluZyIvPgogICAgPC90YXJnZXRDb25maWc+",
         "targets": {
             "target": [

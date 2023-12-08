@@ -1,0 +1,18 @@
+{
+    "password": "psFvc7cbvm!mn",
+    "username": "test-le1jluf7hlpw@example.com",
+    "devHubId": "andrew@sfi-emea-energy.dev",
+    "id": "00D3L00000011BYUAY",
+    "createdBy": "andrew@sfi-emea-energy.dev",
+    "createdDate": "2023-12-05T16:56:32.000+0000",
+    "expirationDate": "2024-01-04",
+    "status": "Active",
+    "edition": "Enterprise",
+    "orgName": "NewTest",
+    "accessToken": "00D3L00000011BY!AQkAQHIZ5OUd5VfHtlNZ8lsRtyT7DrL95Z5fgkmEF.EOu2A6b2SLsf1D8JWZHjL7rcAnI50Bf28t9fZSRWm44SMPcoIyQ5rJ",
+    "instanceUrl": "https://ability-momentum-7895.scratch.my.salesforce.com",
+    "clientId": "PlatformCLI",
+    "sfdxAuthUrl": "force://PlatformCLI::5Aep8610sLGgdffxwUCBurTqN80LC_dxxL9em22foZrdhWHaM2WcjXTX8TIxguXFf1YY1guMmoTozKp7Auf_WXY@ability-momentum-7895.scratch.my.salesforce.com",
+    "alias": "NewTest",
+    "vbtSfdxUsername": "NewTest"
+}

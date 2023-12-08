@@ -802,7 +802,7 @@
         "Id": "0RbRN0000001wic0AA",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqBrowsePhaseContainer_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",
@@ -2736,7 +2736,7 @@
         "isExplicitImport": false,
         "isExposed": true,
         "masterLabel": "cpqBrowsePhaseContainer",
-        "runtimeNamespace": "%vlocity_namespace%",
+        "runtimeNamespace": "vlocity_cmt",
         "targets": {
             "target": [
                 "lightning__AppPage",

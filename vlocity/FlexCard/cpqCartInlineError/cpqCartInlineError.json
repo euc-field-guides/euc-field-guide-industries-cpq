@@ -8,7 +8,7 @@
         },
         "type": "Custom",
         "value": {
-            "body": "[\n    {\n        \"actions\": {\n            \"DETAILS\": {\n                \"client\": {\n                    \"params\": {}\n                },\n                \"remote\": {\n                    \"params\": {\n                        \"cartId\": \"8015g000000c2TlAAI\",\n                        \"id\": \"8025g000000kbd7AAA\",\n                        \"methodName\": \"getCartsItemsById\"\n                    }\n                },\n                \"rest\": {\n                    \"link\": \"/services/apexrest/%vlocity_namespace%/v2/cpq/carts/8015g000000c2TlAAI/items/8025g000000kbd7AAA?cartId=8015g000000c2TlAAI&id=8025g000000kbd7AAA\",\n                    \"method\": \"GET\",\n                    \"params\": {}\n                }\n            }\n        },\n        \"message\": \"Required attribute missing for Broadband.\",\n        \"severity\": \"ERROR\",\n        \"code\": \"204\",\n        \"bundleId\": \"8025g000000kbd7AAA\",\n        \"messageId\": \"8025g000000kbd7AAA|01t5g000000eCQ6AAM\"\n    }\n]",
+            "body": "[\n    {\n        \"actions\": {\n            \"DETAILS\": {\n                \"client\": {\n                    \"params\": {}\n                },\n                \"remote\": {\n                    \"params\": {\n                        \"cartId\": \"8015g000000c2TlAAI\",\n                        \"id\": \"8025g000000kbd7AAA\",\n                        \"methodName\": \"getCartsItemsById\"\n                    }\n                },\n                \"rest\": {\n                    \"link\": \"/services/apexrest/vlocity_cmt/v2/cpq/carts/8015g000000c2TlAAI/items/8025g000000kbd7AAA?cartId=8015g000000c2TlAAI&id=8025g000000kbd7AAA\",\n                    \"method\": \"GET\",\n                    \"params\": {}\n                }\n            }\n        },\n        \"message\": \"Required attribute missing for Broadband.\",\n        \"severity\": \"ERROR\",\n        \"code\": \"204\",\n        \"bundleId\": \"8025g000000kbd7AAA\",\n        \"messageId\": \"8025g000000kbd7AAA|01t5g000000eCQ6AAM\"\n    }\n]",
             "dsDelay": "",
             "resultVar": ""
         }
@@ -23,7 +23,7 @@
         "Id": "0Rb5g000000SrFOCA0",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartInlineError_4_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

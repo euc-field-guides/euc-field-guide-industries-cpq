@@ -21,7 +21,7 @@
         "Id": "0Rb8Z000000EfQiSAK",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqApplyDiscountInfoModal_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "states": [

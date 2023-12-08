@@ -56,7 +56,7 @@
         "targetId": "%ContextId%",
         "targetLWCLayout": "lightning",
         "targetType": "Web Page",
-        "targetUrl": "/apex/%vlocity_namespace%__XOMViewOrderDecomposition?id=%ContextId%",
+        "targetUrl": "/apex/vlocity_cmt__XOMViewOrderDecomposition?id=%ContextId%",
         "validationRequired": "Submit",
         "variant": "brand",
         "wpm": false

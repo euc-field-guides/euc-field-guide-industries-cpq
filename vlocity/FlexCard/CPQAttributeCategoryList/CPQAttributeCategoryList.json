@@ -30,7 +30,7 @@
         "Id": "0Rb5g000000QuITCA0",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCPQAttributeCategoryList_6_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "states": [

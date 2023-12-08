@@ -15,7 +15,7 @@
         "Id": "0Rb5g000001222BCAQ",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMultisiteServicePointContainer_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "sessionVars": [
@@ -215,7 +215,7 @@
         "isExplicitImport": false,
         "isExposed": true,
         "masterLabel": "cpqMultisiteServicePointContainer",
-        "runtimeNamespace": "%vlocity_namespace%",
+        "runtimeNamespace": "vlocity_cmt",
         "targetConfigs": "PHRhcmdldENvbmZpZyB0YXJnZXRzPSJsaWdodG5pbmdDb21tdW5pdHlfX0RlZmF1bHQiPgogICAgICA8cHJvcGVydHkgbmFtZT0icmVjb3JkSWQiIHR5cGU9IlN0cmluZyIvPgogICAgPC90YXJnZXRDb25maWc+",
         "targets": {
             "target": [

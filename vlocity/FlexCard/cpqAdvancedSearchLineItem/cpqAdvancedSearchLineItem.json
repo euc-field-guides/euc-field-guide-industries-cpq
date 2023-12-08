@@ -8,7 +8,7 @@
         },
         "type": "Custom",
         "value": {
-            "body": "{\n      \"operator\": \"equals\",\n      \"options\": [\n        {\n          \"value\": \"equals\",\n          \"label\": \"Equals\"\n        }\n      ],\n      \"pickListValues\": [],\n      \"type\": \"currency\",\n      \"fieldName\": \"%vlocity_namespace%__RecurringCharge__c\",\n      \"fieldAPIName\": \"%vlocity_namespace%__RecurringCharge__c\",\n      \"fieldLabel\": \"Recurring Charge\",\n      \"objectName\": \"Asset\",\n      \"objectAPIName\": \"Asset\",\n      \"displaySequence\": 1\n    }",
+            "body": "{\n      \"operator\": \"equals\",\n      \"options\": [\n        {\n          \"value\": \"equals\",\n          \"label\": \"Equals\"\n        }\n      ],\n      \"pickListValues\": [],\n      \"type\": \"currency\",\n      \"fieldName\": \"vlocity_cmt__RecurringCharge__c\",\n      \"fieldAPIName\": \"vlocity_cmt__RecurringCharge__c\",\n      \"fieldLabel\": \"Recurring Charge\",\n      \"objectName\": \"Asset\",\n      \"objectAPIName\": \"Asset\",\n      \"displaySequence\": 1\n    }",
             "dsDelay": 0,
             "resultVar": ""
         }
@@ -262,7 +262,7 @@
         "Id": "0Rb5g000000qxp6CAA",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqAdvancedSearchLineItem_2_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "states": [

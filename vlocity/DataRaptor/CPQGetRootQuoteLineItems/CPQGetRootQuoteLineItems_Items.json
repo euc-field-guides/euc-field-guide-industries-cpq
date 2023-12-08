@@ -4,7 +4,7 @@
         "FilterOperator": "NOT LIKE",
         "FilterValue": "onlyRoot",
         "GlobalKey": "CPQ - Get Root QuoteLineItems043073685343034906",
-        "InputFieldName": "%vlocity_namespace%__LineNumber__c",
+        "InputFieldName": "vlocity_cmt__LineNumber__c",
         "InputObjectName": "QuoteLineItem",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -49,7 +49,7 @@
     },
     {
         "GlobalKey": "CPQ - Get Root QuoteLineItems9607476066101903",
-        "InputFieldName": "Item:%vlocity_namespace%__RootItemId__c",
+        "InputFieldName": "Item:vlocity_cmt__RootItemId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

@@ -8,7 +8,7 @@
         },
         "type": "Custom",
         "value": {
-            "body": "[\n  {\n    \"type\": \"text\",\n    \"fieldName\": \"%vlocity_namespace%__MarketIdentifier__c.value\",\n    \"label\": \"Market Identifier\",\n    \"title\": \"ServicePoints Data\"\n  },\n  {\n    \"type\": \"text\",\n    \"fieldName\": \"%vlocity_namespace%__PremisesId__r.%vlocity_namespace%__StreetAddress__c.value\",\n    \"label\": \"Street Address\"\n  },\n  {\n    \"type\": \"text\",\n    \"fieldName\": \"%vlocity_namespace%__PremisesId__r.%vlocity_namespace%__City__c.value\",\n    \"label\": \"City\"\n  }\n]",
+            "body": "[\n  {\n    \"type\": \"text\",\n    \"fieldName\": \"vlocity_cmt__MarketIdentifier__c.value\",\n    \"label\": \"Market Identifier\",\n    \"title\": \"ServicePoints Data\"\n  },\n  {\n    \"type\": \"text\",\n    \"fieldName\": \"vlocity_cmt__PremisesId__r.vlocity_cmt__StreetAddress__c.value\",\n    \"label\": \"Street Address\"\n  },\n  {\n    \"type\": \"text\",\n    \"fieldName\": \"vlocity_cmt__PremisesId__r.vlocity_cmt__City__c.value\",\n    \"label\": \"City\"\n  }\n]",
             "dsDelay": "",
             "resultVar": ""
         }
@@ -53,7 +53,7 @@
         "Id": "0RbRN0000001XeA0AU",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMultisiteTableColumnFilter_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "sessionVars": [

@@ -61,7 +61,7 @@
         "Id": "0Rb5g000000SlnpCAC",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqRecordMessageList_3_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "selectableMode": "Multi",
     "sessionVars": [

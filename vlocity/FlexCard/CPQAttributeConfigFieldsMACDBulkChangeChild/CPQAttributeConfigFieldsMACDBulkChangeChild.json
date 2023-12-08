@@ -49,7 +49,7 @@
         "Id": "0Rb5e000002RUASCA4",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCPQAttributeConfigFieldsMACDBulkChangeChild_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableField": "disabled",

@@ -96,7 +96,7 @@
     },
     {
         "GlobalKey": "CPQGetPriceListsDR3762351067291434",
-        "InputFieldName": "records:actions:setpricelist:remote:params:inputFields:%vlocity_namespace%__PriceListId__c",
+        "InputFieldName": "records:actions:setpricelist:remote:params:inputFields:vlocity_cmt__PriceListId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -108,7 +108,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "records:actions:setpricelist:remote:params:inputFields:%vlocity_namespace%__PriceListId__c",
+        "OutputFieldName": "records:actions:setpricelist:remote:params:inputFields:vlocity_cmt__PriceListId__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"

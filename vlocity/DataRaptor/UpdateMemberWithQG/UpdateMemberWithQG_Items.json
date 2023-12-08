@@ -13,8 +13,8 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__QuoteGroupId__c",
-        "OutputObjectName": "%vlocity_namespace%__QuoteMember__c",
+        "OutputFieldName": "vlocity_cmt__QuoteGroupId__c",
+        "OutputObjectName": "vlocity_cmt__QuoteMember__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -33,7 +33,7 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__QuoteMember__c",
+        "OutputObjectName": "vlocity_cmt__QuoteMember__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -53,7 +53,7 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__QuoteMember__c",
+        "OutputObjectName": "vlocity_cmt__QuoteMember__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     }

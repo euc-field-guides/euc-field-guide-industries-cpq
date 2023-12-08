@@ -1,0 +1,17 @@
+{
+    "username": "test-pkqpzphzarhj@example.com",
+    "devHubId": "andrew@sfi-emea-energy.dev",
+    "id": "00D2z0000006NfcEAE",
+    "createdBy": "andrew@sfi-emea-energy.dev",
+    "createdDate": "2023-12-08T07:03:49.000+0000",
+    "expirationDate": "2024-01-07",
+    "status": "Active",
+    "edition": "Enterprise",
+    "orgName": "FridayTest",
+    "accessToken": "00D2z0000006Nfc!ARwAQIXZCqoVOUdt31ql48Cg024oimg0gF7r9OLTrMrVlI2D3oPMFSa_lXkG3bLDUwepLU3uBpaUEg.972nJD4JvcIwYdk81",
+    "instanceUrl": "https://connect-drive-5293.scratch.my.salesforce.com",
+    "clientId": "PlatformCLI",
+    "sfdxAuthUrl": "force://PlatformCLI::5Aep861OKsJJT.vrDWj1JGl2qNNqRce6ISM9dcvla8opV3bIc3svURuE5dGhnTcS_7c_VOKCUHoLTTB40SktfMH@connect-drive-5293.scratch.my.salesforce.com",
+    "alias": "FridayTest",
+    "vbtSfdxUsername": "FridayTest"
+}

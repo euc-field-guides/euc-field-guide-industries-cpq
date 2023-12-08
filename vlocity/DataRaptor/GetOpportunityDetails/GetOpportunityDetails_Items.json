@@ -106,7 +106,7 @@
     },
     {
         "GlobalKey": "GetOpportunityDetailsCustoma005g0000323xVDAAYItem11",
-        "InputFieldName": "Opportunity:%vlocity_namespace%__PriceListId__c",
+        "InputFieldName": "Opportunity:vlocity_cmt__PriceListId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -125,7 +125,7 @@
     },
     {
         "GlobalKey": "GetOpportunityDetailsCustom6300",
-        "InputFieldName": "Opportunity:%vlocity_namespace%__PriceListId__r.Name",
+        "InputFieldName": "Opportunity:vlocity_cmt__PriceListId__r.Name",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

@@ -10,13 +10,13 @@
     },
     "PropertySetConfig": {
         "HTMLTemplateId": "",
-        "cancelMessage": "%vlocity_namespace%__OmnicancelMessage",
+        "cancelMessage": "vlocity_cmt__OmnicancelMessage",
         "controlWidth": 12,
         "disOnTplt": false,
         "iconName": "",
         "iconPosition": "left",
         "iconVariant": "",
-        "label": "%vlocity_namespace%__OmnicancelLabel",
+        "label": "vlocity_cmt__OmnicancelLabel",
         "loginAction": "login",
         "message": {
         },

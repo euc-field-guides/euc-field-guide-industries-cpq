@@ -46,7 +46,7 @@
     },
     {
         "GlobalKey": "CPQ-QuoteToMasterOrderRequestCustom7998",
-        "InputFieldName": "Quote:%vlocity_namespace%__PriceListId__c",
+        "InputFieldName": "Quote:vlocity_cmt__PriceListId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -58,7 +58,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__PriceListId__c",
+        "OutputFieldName": "vlocity_cmt__PriceListId__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
@@ -77,7 +77,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 1,
-        "OutputFieldName": "%vlocity_namespace%__quoteid__c",
+        "OutputFieldName": "vlocity_cmt__quoteid__c",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"

@@ -5,7 +5,7 @@
         "FilterOperator": "IN",
         "FilterValue": "AssetIds",
         "GlobalKey": "GetExistingAssetsFromQuoteLineItem36452375833532247",
-        "InputFieldName": "%vlocity_namespace%__AssetId__c",
+        "InputFieldName": "vlocity_cmt__AssetId__c",
         "InputObjectName": "QuoteLineItem",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -51,7 +51,7 @@
     },
     {
         "GlobalKey": "GetExistingAssetsFromQuoteLineItemCustom2655",
-        "InputFieldName": "%vlocity_namespace%__AssetId__c",
+        "InputFieldName": "vlocity_cmt__AssetId__c",
         "InputObjectName": "QuoteLineItem",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
@@ -71,7 +71,7 @@
     },
     {
         "GlobalKey": "GetExistingAssetsFromQuoteLineItemCustom9013",
-        "InputFieldName": "%vlocity_namespace%__AssetId__r.Name",
+        "InputFieldName": "vlocity_cmt__AssetId__r.Name",
         "InputObjectName": "QuoteLineItem",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,

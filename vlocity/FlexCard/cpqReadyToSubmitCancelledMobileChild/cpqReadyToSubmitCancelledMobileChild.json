@@ -285,7 +285,7 @@
                                             "card": "{card}",
                                             "stateAction": {
                                                 "Web Page": {
-                                                    "targetName": "/apex/%vlocity_namespace%__XOMViewOrderDecomposition?id={Id}"
+                                                    "targetName": "/apex/vlocity_cmt__XOMViewOrderDecomposition?id={Id}"
                                                 },
                                                 "displayName": "{Label.CPQViewDecomposition}",
                                                 "id": "flex-action-1629107121285",

@@ -102,7 +102,7 @@
         ],
         "disOnTplt": false,
         "hide": false,
-        "lwcName": "%vlocity_namespace%__cpqMultiSiteUtil",
+        "lwcName": "vlocity_cmt__cpqMultiSiteUtil",
         "show": null
     },
     "Type": "Custom Lightning Web Component",

@@ -1757,7 +1757,7 @@
                                 "record": "{record}",
                                 "stateAction": {
                                     "Web Page": {
-                                        "targetName": "/lightning/cmp/%vlocity_namespace%__vlocityLWCOmniWrapper?c__target=c:cPQBulkReplaceMultiLanguage&c__layout=lightning&c__tabIcon=custom:custom18&c__cartId={Id}&c__cartType=Order&c__accountId={AccountId}"
+                                        "targetName": "/lightning/cmp/vlocity_cmt__vlocityLWCOmniWrapper?c__target=c:cPQBulkReplaceMultiLanguage&c__layout=lightning&c__tabIcon=custom:custom18&c__cartId={Id}&c__cartType=Order&c__accountId={AccountId}"
                                     },
                                     "displayName": "{Label.CPQSelectBundleForBulkReplace}",
                                     "hasExtraParams": true,

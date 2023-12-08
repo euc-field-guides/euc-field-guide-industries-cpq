@@ -38,7 +38,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction3",
-        "remoteClass": "%vlocity_namespace%.CpqBulkChangeDataPreProcessor",
+        "remoteClass": "vlocity_cmt.CpqBulkChangeDataPreProcessor",
         "remoteMethod": "groupAssetsByMembers",
         "remoteOptions": {
         },

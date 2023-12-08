@@ -1530,7 +1530,7 @@
         "Id": "0Rb5g000000Sk6kCAC",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqProductSearch_6_CPQ1",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,

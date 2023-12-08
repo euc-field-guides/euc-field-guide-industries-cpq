@@ -18,7 +18,7 @@
             {
                 "AllOrNone": false,
                 "Id": "%QuoteGroupId%",
-                "Type": "%vlocity_namespace%__QuoteGroup__c"
+                "Type": "vlocity_cmt__QuoteGroup__c"
             }
         ],
         "disOnTplt": false,

@@ -1,6 +1,6 @@
 {
     "cartType": "Quote",
     "objectNames": [
-        "%vlocity_namespace%__ServicePoint__c"
+        "vlocity_cmt__ServicePoint__c"
     ]
 }

@@ -86,7 +86,7 @@
     },
     {
         "GlobalKey": "getCartdetailsCustom6520",
-        "InputFieldName": "cart:%vlocity_namespace%__EffectiveOneTimeTotal__c",
+        "InputFieldName": "cart:vlocity_cmt__EffectiveOneTimeTotal__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -105,7 +105,7 @@
     },
     {
         "GlobalKey": "getCartdetailsCustom1215",
-        "InputFieldName": "cart:%vlocity_namespace%__EffectiveQuoteTotal__c",
+        "InputFieldName": "cart:vlocity_cmt__EffectiveQuoteTotal__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -124,7 +124,7 @@
     },
     {
         "GlobalKey": "getCartdetailsCustom4822",
-        "InputFieldName": "cart:%vlocity_namespace%__EffectiveRecurringTotal__c",
+        "InputFieldName": "cart:vlocity_cmt__EffectiveRecurringTotal__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

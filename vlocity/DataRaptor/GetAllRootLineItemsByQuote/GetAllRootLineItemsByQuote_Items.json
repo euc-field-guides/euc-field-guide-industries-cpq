@@ -4,7 +4,7 @@
         "FilterOperator": "=",
         "FilterValue": "'$Vlocity.NULL'",
         "GlobalKey": "GetAllRootLineItemsByQuoteCustoma00RN0000011UWFYA2Item0",
-        "InputFieldName": "%vlocity_namespace%__ParentItemId__c",
+        "InputFieldName": "vlocity_cmt__ParentItemId__c",
         "InputObjectName": "QuoteLineItem",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
@@ -50,7 +50,7 @@
     {
         "FilterGroup": 0,
         "FilterOperator": "ORDER BY",
-        "FilterValue": "%vlocity_namespace%__LineNumber__c desc",
+        "FilterValue": "vlocity_cmt__LineNumber__c desc",
         "GlobalKey": "GetAllRootLineItemsByQuoteCustoma00RN0000011UWFYA2Item2",
         "InputObjectName": "QuoteLineItem",
         "InputObjectQuerySequence": 1,
@@ -92,7 +92,7 @@
     },
     {
         "GlobalKey": "GetAllRootLineItemsByQuoteCustoma00RN0000011UWFYA2Item4",
-        "InputFieldName": "LineItem:%vlocity_namespace%__LineNumber__c",
+        "InputFieldName": "LineItem:vlocity_cmt__LineNumber__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -111,7 +111,7 @@
     },
     {
         "GlobalKey": "GetAllRootLineItemsByQuoteCustoma00RN0000011UWFYA2Item5",
-        "InputFieldName": "LineItem:%vlocity_namespace%__ParentItemId__c",
+        "InputFieldName": "LineItem:vlocity_cmt__ParentItemId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

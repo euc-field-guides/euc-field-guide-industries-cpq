@@ -45,7 +45,7 @@
         ],
         "hide": false,
         "label": null,
-        "lwcName": "%vlocity_namespace%__cpqCartConfiguratorUtil",
+        "lwcName": "vlocity_cmt__cpqCartConfiguratorUtil",
         "show": null
     },
     "Type": "Custom Lightning Web Component",

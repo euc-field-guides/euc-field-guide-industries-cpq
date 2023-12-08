@@ -54,7 +54,7 @@
         "Id": "0Rb5g000000SHBXCA4",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMultiSiteAppliedFilters_4_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

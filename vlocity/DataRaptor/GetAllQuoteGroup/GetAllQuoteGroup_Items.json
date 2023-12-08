@@ -4,8 +4,8 @@
         "FilterOperator": "=",
         "FilterValue": "SalesQuoteId",
         "GlobalKey": "GetAllQuoteGroupCustom8514",
-        "InputFieldName": "%vlocity_namespace%__QuoteId__c",
-        "InputObjectName": "%vlocity_namespace%__QuoteGroup__c",
+        "InputFieldName": "vlocity_cmt__QuoteId__c",
+        "InputObjectName": "vlocity_cmt__QuoteGroup__c",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
@@ -44,7 +44,7 @@
     },
     {
         "GlobalKey": "GetAllQuoteGroupCustom5285",
-        "InputFieldName": "QG:%vlocity_namespace%__ExpectedMemberCount__c",
+        "InputFieldName": "QG:vlocity_cmt__ExpectedMemberCount__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -82,7 +82,7 @@
     },
     {
         "GlobalKey": "GetAllQuoteGroupCustom7085",
-        "InputFieldName": "QG:%vlocity_namespace%__MemberType__c",
+        "InputFieldName": "QG:vlocity_cmt__MemberType__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

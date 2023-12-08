@@ -150,7 +150,7 @@
         "Id": "0Rb5g000000QV7HCAW",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqProductFilterChild_4_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",

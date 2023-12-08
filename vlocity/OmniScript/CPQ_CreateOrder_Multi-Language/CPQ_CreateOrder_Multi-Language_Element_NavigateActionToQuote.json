@@ -47,7 +47,7 @@
         "targetLWCLayout": "lightning",
         "targetName": "Quote",
         "targetType": "Record",
-        "targetUrl": "/apex/%vlocity_namespace%__HybridCPQ?id=%cartId%",
+        "targetUrl": "/apex/vlocity_cmt__HybridCPQ?id=%cartId%",
         "validationRequired": "Submit",
         "variant": "brand",
         "wpm": false

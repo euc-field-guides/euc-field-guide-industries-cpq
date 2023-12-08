@@ -41,7 +41,7 @@
         "Id": "0Rb5g0000011v0oCAA",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfMultiSiteCombobox_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,

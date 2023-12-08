@@ -1199,7 +1199,7 @@
         "Id": "0RbRN0000001YiV0AU",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqMultiSiteHeader_8_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,

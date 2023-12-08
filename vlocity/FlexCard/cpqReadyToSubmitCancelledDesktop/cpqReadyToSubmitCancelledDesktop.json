@@ -525,7 +525,7 @@
                                                 "label": "Action",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderDocumentPdf?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderDocumentPdf?id={Id}"
                                                     },
                                                     "displayName": "Action",
                                                     "id": "flex-action-1693818368230",
@@ -552,7 +552,7 @@
                                                 "label": "Action",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OrderRelationshipVisualization?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OrderRelationshipVisualization?id={Id}"
                                                     },
                                                     "displayName": "Action",
                                                     "id": "flex-action-1693818839772",
@@ -622,7 +622,7 @@
                                                 "label": "Action",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/apex/%vlocity_namespace%__OMNotifications?id={Id}"
+                                                        "targetName": "/apex/vlocity_cmt__OMNotifications?id={Id}"
                                                     },
                                                     "displayName": "Action",
                                                     "id": "flex-action-1693819386839",
@@ -649,7 +649,7 @@
                                                 "label": "Action",
                                                 "stateAction": {
                                                     "Web Page": {
-                                                        "targetName": "/{Id}/e?retURL=/apex/%vlocity_namespace%__HybridCPQ%3Fid%3D{Id}"
+                                                        "targetName": "/{Id}/e?retURL=/apex/vlocity_cmt__HybridCPQ%3Fid%3D{Id}"
                                                     },
                                                     "displayName": "Action",
                                                     "id": "flex-action-1693820044691",

@@ -18,7 +18,7 @@
                 {
                     "batchOperationType": "Validate",
                     "batchSize": 5,
-                    "className": "%vlocity_namespace%.MSInvokeCartValidationBatch",
+                    "className": "vlocity_cmt.MSInvokeCartValidationBatch",
                     "classParams": {
                         "executeVIP": {
                             "vipName": "MultiService_RunCartValidation",
@@ -43,7 +43,7 @@
                 {
                     "batchOperationType": "Price",
                     "batchSize": 10,
-                    "className": "%vlocity_namespace%.MSInvokeCartPricingBatch",
+                    "className": "vlocity_cmt.MSInvokeCartPricingBatch",
                     "classParams": {
                         "executeVIP": {
                             "vipName": "MultiService_RunCartPricing",
@@ -97,7 +97,7 @@
         "failureResponse": {
         },
         "label": "RemoteAction1",
-        "remoteClass": "%vlocity_namespace%.MultiServiceAppHandler",
+        "remoteClass": "vlocity_cmt.MultiServiceAppHandler",
         "remoteMethod": "invokeBatchSerially",
         "remoteOptions": {
         },

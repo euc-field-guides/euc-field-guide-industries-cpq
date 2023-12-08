@@ -14,8 +14,8 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldFormat": "String",
-        "OutputFieldName": "%vlocity_namespace%__AsyncJobId__c",
-        "OutputObjectName": "%vlocity_namespace%__OrderGroup__c",
+        "OutputFieldName": "vlocity_cmt__AsyncJobId__c",
+        "OutputObjectName": "vlocity_cmt__OrderGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -35,7 +35,7 @@
         "OutputCreationSequence": 1,
         "OutputFieldFormat": "String",
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__OrderGroup__c",
+        "OutputObjectName": "vlocity_cmt__OrderGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -55,7 +55,7 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldName": "Id",
-        "OutputObjectName": "%vlocity_namespace%__OrderGroup__c",
+        "OutputObjectName": "vlocity_cmt__OrderGroup__c",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     }

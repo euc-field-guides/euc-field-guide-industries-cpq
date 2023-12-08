@@ -24,11 +24,11 @@
         "failureResponse": {
         },
         "label": "RemoteAction1",
-        "remoteClass": "%vlocity_namespace%.CpqAppHandler",
+        "remoteClass": "vlocity_cmt.CpqAppHandler",
         "remoteMethod": "getCartsTargetOffers",
         "remoteOptions": {
             "cartId": "%cartId%",
-            "fields": "IsActive,Id,Name,UnitPrice,ProductCode,%vlocity_namespace%__RecurringPrice__c",
+            "fields": "IsActive,Id,Name,UnitPrice,ProductCode,vlocity_cmt__RecurringPrice__c",
             "includeAttributes": true,
             "includeIneligible": false,
             "localeCode": "en_US",

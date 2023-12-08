@@ -5,7 +5,7 @@
         "FilterValue": "PromoId",
         "GlobalKey": "GetPromoDetailsCustom7677",
         "InputFieldName": "Id",
-        "InputObjectName": "%vlocity_namespace%__Promotion__c",
+        "InputObjectName": "vlocity_cmt__Promotion__c",
         "InputObjectQuerySequence": 1,
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
@@ -25,7 +25,7 @@
     },
     {
         "GlobalKey": "GetPromoDetailsCustom3701",
-        "InputFieldName": "Promo:%vlocity_namespace%__Description__c",
+        "InputFieldName": "Promo:vlocity_cmt__Description__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

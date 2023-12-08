@@ -30,7 +30,7 @@
         ],
         "disOnTplt": false,
         "hide": false,
-        "lwcName": "%vlocity_namespace%__cpqDiscountApprovalUtil",
+        "lwcName": "vlocity_cmt__cpqDiscountApprovalUtil",
         "show": null
     },
     "Type": "Custom Lightning Web Component",

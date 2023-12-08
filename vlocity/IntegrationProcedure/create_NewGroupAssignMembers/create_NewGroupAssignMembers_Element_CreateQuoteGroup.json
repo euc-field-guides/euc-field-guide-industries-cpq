@@ -18,8 +18,8 @@
             "SalesQuoteId": "%SalesQuoteId%"
         },
         "additionalOutput": {
-            "ExpectedMemberCount": "%CreateQuoteGroup:%vlocity_namespace%__QuoteGroup__c_1:%vlocity_namespace%__ExpectedMemberCount__c%",
-            "GroupId": "%CreateQuoteGroup:%vlocity_namespace%__QuoteGroup__c_1:Id%"
+            "ExpectedMemberCount": "%CreateQuoteGroup:vlocity_cmt__QuoteGroup__c_1:vlocity_cmt__ExpectedMemberCount__c%",
+            "GroupId": "%CreateQuoteGroup:vlocity_cmt__QuoteGroup__c_1:Id%"
         },
         "bundle": "ESMCreateQuoteGroup",
         "chainOnStep": false,

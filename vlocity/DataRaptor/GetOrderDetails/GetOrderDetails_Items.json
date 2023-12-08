@@ -28,7 +28,7 @@
         "FilterOperator": "=",
         "FilterValue": "contextId",
         "GlobalKey": "GetOrderDetailsCustom4989",
-        "InputFieldName": "%vlocity_namespace%__ParentOrderId__c",
+        "InputFieldName": "vlocity_cmt__ParentOrderId__c",
         "InputObjectName": "Order",
         "InputObjectQuerySequence": 2,
         "IsDisabled": false,
@@ -97,7 +97,7 @@
     {
         "FilterGroup": 0,
         "FilterOperator": "=",
-        "FilterValue": "Order:%vlocity_namespace%__OriginatingContactId__c",
+        "FilterValue": "Order:vlocity_cmt__OriginatingContactId__c",
         "GlobalKey": "GetOrderDetailsCustom7976",
         "InputFieldName": "Id",
         "InputObjectName": "Contact",
@@ -220,7 +220,7 @@
     },
     {
         "GlobalKey": "GetOrderDetailsCustom5609",
-        "InputFieldName": "Order:%vlocity_namespace%__PriceListId__c",
+        "InputFieldName": "Order:vlocity_cmt__PriceListId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -239,7 +239,7 @@
     },
     {
         "GlobalKey": "GetOrderDetailsCustom6649",
-        "InputFieldName": "Order:%vlocity_namespace%__PriceListId__r.Name",
+        "InputFieldName": "Order:vlocity_cmt__PriceListId__r.Name",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -277,7 +277,7 @@
     },
     {
         "GlobalKey": "GetOrderDetailsCustom9890",
-        "InputFieldName": "Order:%vlocity_namespace%__OriginatingContactId__c",
+        "InputFieldName": "Order:vlocity_cmt__OriginatingContactId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -334,7 +334,7 @@
     },
     {
         "GlobalKey": "GetOrderDetailsCustom2482",
-        "InputFieldName": "Order:%vlocity_namespace%__orchestrationPlanId__c",
+        "InputFieldName": "Order:vlocity_cmt__orchestrationPlanId__c",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,

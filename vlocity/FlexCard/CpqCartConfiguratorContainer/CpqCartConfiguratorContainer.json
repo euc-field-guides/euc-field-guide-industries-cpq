@@ -16,7 +16,7 @@
         "Id": "0Rb8Z0000019F1dSAE",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCartConfiguratorContainer_1_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "osSupport": true,

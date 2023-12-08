@@ -346,7 +346,7 @@
         "Id": "0Rb5g000000Spk6CAC",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqViewSelector_6_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "sessionVars": [

@@ -19,7 +19,7 @@
         "Id": "0Rb5g000000QSavCAG",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqPromotionDetailView",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "states": [
@@ -693,7 +693,7 @@
                                                                 "data-conditions": {
                                                                     "group": [
                                                                         {
-                                                                            "field": "%vlocity_namespace%__effectivestartdate__c",
+                                                                            "field": "vlocity_cmt__effectivestartdate__c",
                                                                             "id": "state-new-condition-56",
                                                                             "operator": "!=",
                                                                             "type": "custom",
@@ -703,7 +703,7 @@
                                                                     "id": "state-condition-object",
                                                                     "isParent": true
                                                                 },
-                                                                "fieldName": "%vlocity_namespace%__effectivestartdate__c",
+                                                                "fieldName": "vlocity_cmt__effectivestartdate__c",
                                                                 "format": "DD/MM/YYYY",
                                                                 "placeholder": "Start Date of Promotion",
                                                                 "record": "{record}",
@@ -825,14 +825,14 @@
                                                                 "data-conditions": {
                                                                     "group": [
                                                                         {
-                                                                            "field": "%vlocity_namespace%__CommitmentStartDate__c",
+                                                                            "field": "vlocity_cmt__CommitmentStartDate__c",
                                                                             "id": "state-new-condition-35",
                                                                             "operator": "!=",
                                                                             "type": "custom",
                                                                             "value": "undefined"
                                                                         },
                                                                         {
-                                                                            "field": "%vlocity_namespace%__CommitmentStartDate__c.value",
+                                                                            "field": "vlocity_cmt__CommitmentStartDate__c.value",
                                                                             "id": "state-new-condition-42",
                                                                             "logicalOperator": "&&",
                                                                             "operator": "!=",
@@ -843,7 +843,7 @@
                                                                     "id": "state-condition-object",
                                                                     "isParent": true
                                                                 },
-                                                                "fieldName": "%vlocity_namespace%__CommitmentStartDate__c.value",
+                                                                "fieldName": "vlocity_cmt__CommitmentStartDate__c.value",
                                                                 "format": "DD/MM/YYYY",
                                                                 "placeholder": "Start Date of Promotion",
                                                                 "record": "{record}",
@@ -1306,7 +1306,7 @@
                                                                 "data-conditions": {
                                                                     "group": [
                                                                         {
-                                                                            "field": "%vlocity_namespace%__effectiveenddate__c",
+                                                                            "field": "vlocity_cmt__effectiveenddate__c",
                                                                             "id": "state-new-condition-123",
                                                                             "operator": "!=",
                                                                             "type": "custom",
@@ -1316,7 +1316,7 @@
                                                                     "id": "state-condition-object",
                                                                     "isParent": true
                                                                 },
-                                                                "fieldName": "%vlocity_namespace%__effectiveenddate__c",
+                                                                "fieldName": "vlocity_cmt__effectiveenddate__c",
                                                                 "format": "DD/MM/YYYY",
                                                                 "placeholder": "End Date of Promotion",
                                                                 "record": "{record}",
@@ -1438,14 +1438,14 @@
                                                                 "data-conditions": {
                                                                     "group": [
                                                                         {
-                                                                            "field": "%vlocity_namespace%__CommitmentEndDate__c",
+                                                                            "field": "vlocity_cmt__CommitmentEndDate__c",
                                                                             "id": "state-new-condition-130",
                                                                             "operator": "!=",
                                                                             "type": "custom",
                                                                             "value": "undefined"
                                                                         },
                                                                         {
-                                                                            "field": "%vlocity_namespace%__CommitmentEndDate__c.value",
+                                                                            "field": "vlocity_cmt__CommitmentEndDate__c.value",
                                                                             "id": "state-new-condition-137",
                                                                             "logicalOperator": "&&",
                                                                             "operator": "!=",
@@ -1456,7 +1456,7 @@
                                                                     "id": "state-condition-object",
                                                                     "isParent": true
                                                                 },
-                                                                "fieldName": "%vlocity_namespace%__CommitmentEndDate__c.value",
+                                                                "fieldName": "vlocity_cmt__CommitmentEndDate__c.value",
                                                                 "format": "DD/MM/YYYY",
                                                                 "placeholder": "End Date of Promotion",
                                                                 "record": "{record}",
@@ -1813,7 +1813,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__Code__c",
+                                                            "field": "vlocity_cmt__Code__c",
                                                             "id": "state-new-condition-84",
                                                             "operator": "!=",
                                                             "type": "custom",
@@ -1932,7 +1932,7 @@
                                                 "data-conditions": {
                                                     "group": [
                                                         {
-                                                            "field": "%vlocity_namespace%__Code__c",
+                                                            "field": "vlocity_cmt__Code__c",
                                                             "id": "state-new-condition-77",
                                                             "operator": "!=",
                                                             "type": "custom",
@@ -1942,7 +1942,7 @@
                                                     "id": "state-condition-object",
                                                     "isParent": true
                                                 },
-                                                "fieldName": "%vlocity_namespace%__Code__c",
+                                                "fieldName": "vlocity_cmt__Code__c",
                                                 "placeholder": "ID of Promotion",
                                                 "record": "{record}",
                                                 "type": "text"

@@ -163,7 +163,7 @@
         "Id": "0RbRO0000001hTf0AI",
         "ManageableState": "unmanaged",
         "MasterLabel": "cfCpqCreateCustomDiscountAmountDetails_2_Vlocity",
-        "NamespacePrefix": "%vlocity_namespace%"
+        "NamespacePrefix": "vlocity_cmt"
     },
     "multilanguageSupport": true,
     "selectableMode": "Multi",
