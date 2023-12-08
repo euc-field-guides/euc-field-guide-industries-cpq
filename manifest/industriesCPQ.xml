@@ -283,15 +283,12 @@
         <members>MultiSite_StartApplyToGroup_Procedure_1</members>
         <members>MultiSite_StartValidatePrice_Procedure_1</members>
         <members>MultiSite_UpdateGroup_Procedure_1</members>
-        <members>QMgetFields_WFieldLabel_Procedure_1</members>
         <members>Remove_QuoteGroup_Procedure_1</members>
         <members>UpdateCloneModify_SalesQLIsWQPR_Procedure_1</members>
-        <members>create_NewGroupAssignMembers_Procedure_1</members>
         <members>create_WorkingCart_Procedure_1</members>
         <members>getAll_QuoteGroup_Procedure_1</members>
         <members>getAll_members_Procedure_1</members>
         <members>member_upload_Procedure_1</members>
-        <members>removeQM_FromQuoteGroup_Procedure_1</members>
         <members>update_QGroupName_Procedure_1</members>
         <name>OmniIntegrationProcedure</name>
     </types>
@@ -474,5 +471,5 @@
         <members>Quote.CreateOrder</members>
         <name>WebLink</name>
     </types>
-    <version>59.0</version>
+    <version>60.0</version>
 </Package>
