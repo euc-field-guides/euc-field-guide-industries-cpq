@@ -20,7 +20,7 @@
   &quot;actionMessage&quot; : &quot;&quot;,
   &quot;additionalInput&quot; : { },
   &quot;additionalOutput&quot; : { },
-  &quot;bundle&quot; : &quot;createTrackingEntry&quot;,
+  &quot;bundle&quot; : &quot;&quot;,
   &quot;chainOnStep&quot; : false,
   &quot;disOnTplt&quot; : false,
   &quot;executionConditionalFormula&quot; : &quot;&quot;,
