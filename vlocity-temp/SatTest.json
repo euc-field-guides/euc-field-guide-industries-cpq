@@ -1,0 +1,18 @@
+{
+    "password": "czqn#f2dsFudo",
+    "username": "test-bgy6c50xm2ya@example.com",
+    "devHubId": "andrew@sfi-emea-energy.dev",
+    "id": "00D3M0000000tcxUAA",
+    "createdBy": "andrew@sfi-emea-energy.dev",
+    "createdDate": "2023-12-09T09:16:26.000+0000",
+    "expirationDate": "2024-01-08",
+    "status": "Active",
+    "edition": "Enterprise",
+    "orgName": "SatTest",
+    "accessToken": "00D3M0000000tcx!ARgAQCTwMKkM91SRQ4u6FUhZiuwIrQOeilQt3A4xUhu8C0gZ5IjU7OogEPUn3C3k_gb5Ndts4I9Szw1x2U6SwGGep7gEHY.i",
+    "instanceUrl": "https://java-flow-9942.scratch.my.salesforce.com",
+    "clientId": "PlatformCLI",
+    "sfdxAuthUrl": "force://PlatformCLI::5Aep86198p7_UTv0khNocGqqcLGCdkfrvhCaUZme7HYSjQdIRcd3PUSpNm320v4.iKTIuHmDLVWEzRACcKZwWVa@java-flow-9942.scratch.my.salesforce.com",
+    "alias": "SatTest",
+    "vbtSfdxUsername": "SatTest"
+}

@@ -5,6 +5,7 @@ VlocityDataPackKeys:
     - FlexCard/guidedJourneyFireFC
     - OmniScript/CPQGuided_ProductSelection_English
     - lwc/guidedJourneyFire
+    - flexipages/OSE_CPQOrderRecordPage.flexipage
 VlocityTypesToFetch:
     - FlexCard
     - OmniScript

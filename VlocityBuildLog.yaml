@@ -1,19 +1,22 @@
-Org: FridayTest
+Org: SatTest
 Version: 1.17.5
-Node: v18.18.2
-PackageVersion: !<tag:yaml.org,2002:js/undefined> ''
+Node: v21.2.0
+PackageVersion: '900.519'
 Namespace: vlocity_cmt
 Job: VDX
 Action: Deploy
 ProjectPath: vlocity
-TotalTime: 0m 8s
+TotalTime: 0m 38s
 Count:
   Success: {}
-Errors: []
+  Error: {}
+Errors:
+  - 'OmniScript LWC Activation Error >> OmniScript/CPQ_AssetViewerQuoteFlow_Multi-Language -  Error Activating LWC - ERROR: [object Object]'
 Status:
   Success: {}
+  Error: {}
 StatusCount:
   Remaining: 0
-  Success: 439
-  Error: 0
+  Success: 441
+  Error: 1
 id: !<tag:yaml.org,2002:js/undefined> ''
