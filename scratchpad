@@ -1,0 +1,11 @@
+DP_CPQ_EpcDefaultObjects
+DP_UPC_Product_Report_IP
+DP_CPQ_PricingPlanDefaultData
+
+installVlocityInitial
+
+installDPsfromStaticResource
+
+StaticResourceQuery: Select Name, Body from StaticResource where Name = 'DP_CPQ_EpcDefaultObjects'
+StaticResourceQuery: Select Name, Body from StaticResource where Name = 'DP_UPC_Product_Report_IP'
+StaticResourceQuery: Select Name, Body from StaticResource where Name = 'DP_CPQ_PricingPlanDefaultData'
