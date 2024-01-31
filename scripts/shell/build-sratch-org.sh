@@ -30,7 +30,7 @@ done
  
 echo "--> "
 echo "--> Building your org, please wait..."
-RES=$(sf org create scratch --definition-file config/energy-cloud-scratch-def.json --duration-days 30 --alias "${ORG_NAME}" --name "${ORG_NAME}" --description "${ORG_DESC}")
+RES=$(sf org create scratch --definition-file config/energy-cloud-preview-scratch-def.json --duration-days 30 --alias "${ORG_NAME}" --name "${ORG_NAME}" --description "${ORG_DESC}")
 
  
 if [ "$?" = "1" ]
