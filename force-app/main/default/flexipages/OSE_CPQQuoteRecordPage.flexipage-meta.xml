@@ -436,7 +436,7 @@
                     <value>cpqAsyncJobStatus</value>
                 </componentInstanceProperties>
                 <componentName>runtime_omnistudio:flexcard</componentName>
-                <identifier>runtime_omnistudio_flexcard12</identifier>
+                <identifier>runtime_omnistudio_flexcard11</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -480,7 +480,7 @@
                     <value>cpqProductConfigureTotalBar</value>
                 </componentInstanceProperties>
                 <componentName>runtime_omnistudio:flexcard</componentName>
-                <identifier>runtime_omnistudio_flexcard11</identifier>
+                <identifier>runtime_omnistudio_flexcard12</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

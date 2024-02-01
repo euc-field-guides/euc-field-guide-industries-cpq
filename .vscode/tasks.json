@@ -20,6 +20,25 @@
                 "showReuseMessage": true,
                 "clear": false
             }
+        },
+        {
+            "label": "Install Vlocity to default org",
+            "type": "shell",
+            "command":"bash",
+            "args": [
+                "sf project deploy start --metadata-dir managed_packages/vlocity_package --wait 180"
+            ],
+            "group": "build",
+            "problemMatcher":[],
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "dedicated",
+                "showReuseMessage": true,
+                "clear": false
+            }
         }
+        
     ]
 }

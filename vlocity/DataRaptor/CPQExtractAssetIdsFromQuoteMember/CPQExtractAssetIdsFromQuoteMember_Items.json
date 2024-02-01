@@ -1,0 +1,47 @@
+[
+    {
+        "FilterDataType": "REFERENCE",
+        "FilterGroup": 0,
+        "FilterOperator": "=",
+        "FilterValue": "groupCartId",
+        "GlobalKey": "CPQExtractAssetIdsFromQuoteMemberCustom5962",
+        "InputFieldName": "vlocity_cmt__QuoteGroupId__r.vlocity_cmt__GroupCartId__c",
+        "InputObjectName": "vlocity_cmt__QuoteMember__c",
+        "InputObjectQuerySequence": 1,
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "CPQExtractAssetIdsFromQuoteMember",
+        "OmniDataTransformationId": {
+            "Name": "CPQExtractAssetIdsFromQuoteMember",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/CPQExtractAssetIdsFromQuoteMember",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 0,
+        "OutputFieldName": "Members",
+        "OutputObjectName": "Turbo Extract",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "CPQExtractAssetIdsFromQuoteMemberCustom7565",
+        "InputFieldName": "vlocity_cmt__SelectedAssetIds__c",
+        "InputObjectName": "vlocity_cmt__QuoteMember__c",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "CPQExtractAssetIdsFromQuoteMember",
+        "OmniDataTransformationId": {
+            "Name": "CPQExtractAssetIdsFromQuoteMember",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/CPQExtractAssetIdsFromQuoteMember",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "Members",
+        "OutputObjectName": "Turbo Extract",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    }
+]

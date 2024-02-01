@@ -1,4 +1,4 @@
-Org: Spring24Test
+Org: previewTest
 Version: 1.17.5
 Node: v21.2.0
 PackageVersion: '900.523'
@@ -6,14 +6,17 @@ Namespace: vlocity_cmt
 Job: VDX
 Action: Deploy
 ProjectPath: vlocity
-TotalTime: 0m 14s
+TotalTime: 0m 24s
 Count:
   Success: {}
-Errors: []
+  Error: {}
+Errors:
+  - Activation Error >> FlexCard/cpqGlobalHeaderContainer --- Can't find an active child OmniUiCard with name cpqGlobalHeader.
 Status:
   Success: {}
+  Error: {}
 StatusCount:
   Remaining: 0
-  Success: 442
-  Error: 0
+  Success: 436
+  Error: 1
 id: !<tag:yaml.org,2002:js/undefined> ''

@@ -90,7 +90,7 @@
                                     "parentElementKey": "element_block_0_0",
                                     "property": {
                                         "card": "{card}",
-                                        "color": "#FFB75D",
+                                        "color": "#a8681a",
                                         "extraclass": "slds-icon_container slds-icon__svg--default ",
                                         "iconName": "utility:warning",
                                         "iconType": "Salesforce SVG",
@@ -125,7 +125,7 @@
                                         },
                                         "customClass": "cpq__width_auto",
                                         "elementStyleProperties": {
-                                            "color": "#FFB75D"
+                                            "color": "#a8681a"
                                         },
                                         "inlineStyle": "",
                                         "margin": [
@@ -172,7 +172,7 @@
                                                 },
                                                 "customClass": "cpq__width_auto",
                                                 "elementStyleProperties": {
-                                                    "color": "#FFB75D"
+                                                    "color": "#a8681a"
                                                 },
                                                 "inlineStyle": "",
                                                 "margin": [
@@ -248,10 +248,10 @@
                                             "isResponsive": false
                                         },
                                         "sizeClass": "slds-size_11-of-12 ",
-                                        "style": "      \n        color:#FFB75D; ",
+                                        "style": "      \n        color:#a8681a; ",
                                         "text": {
                                             "align": "",
-                                            "color": "#FFB75D"
+                                            "color": "#a8681a"
                                         },
                                         "theme": "theme_default"
                                     },
@@ -299,10 +299,10 @@
                                                     "isResponsive": false
                                                 },
                                                 "sizeClass": "slds-size_11-of-12 ",
-                                                "style": "      \n        color:#FFB75D; ",
+                                                "style": "      \n        color:#a8681a; ",
                                                 "text": {
                                                     "align": "",
-                                                    "color": "#FFB75D"
+                                                    "color": "#a8681a"
                                                 },
                                                 "theme": "theme_default"
                                             }
@@ -449,7 +449,7 @@
                                     "parentElementKey": "element_block_1_0",
                                     "property": {
                                         "card": "{card}",
-                                        "color": "#FFB75D",
+                                        "color": "#a8681a",
                                         "extraclass": "slds-icon_container slds-icon__svg--default ",
                                         "iconName": "utility:warning",
                                         "iconType": "Salesforce SVG",
@@ -484,7 +484,7 @@
                                         },
                                         "customClass": "cpq__width_auto",
                                         "elementStyleProperties": {
-                                            "color": "#FFB75D"
+                                            "color": "#a8681a"
                                         },
                                         "inlineStyle": "",
                                         "margin": [
@@ -531,7 +531,7 @@
                                                 },
                                                 "customClass": "cpq__width_auto",
                                                 "elementStyleProperties": {
-                                                    "color": "#FFB75D"
+                                                    "color": "#a8681a"
                                                 },
                                                 "inlineStyle": "",
                                                 "margin": [
@@ -607,10 +607,10 @@
                                             "isResponsive": false
                                         },
                                         "sizeClass": "slds-size_10-of-12 ",
-                                        "style": "      \n        color:#FFB75D; ",
+                                        "style": "      \n        color:#a8681a; ",
                                         "text": {
                                             "align": "",
-                                            "color": "#FFB75D"
+                                            "color": "#a8681a"
                                         },
                                         "theme": "theme_default"
                                     },
@@ -658,10 +658,10 @@
                                                     "isResponsive": false
                                                 },
                                                 "sizeClass": "slds-size_10-of-12 ",
-                                                "style": "      \n        color:#FFB75D; ",
+                                                "style": "      \n        color:#a8681a; ",
                                                 "text": {
                                                     "align": "",
-                                                    "color": "#FFB75D"
+                                                    "color": "#a8681a"
                                                 },
                                                 "theme": "theme_default"
                                             }

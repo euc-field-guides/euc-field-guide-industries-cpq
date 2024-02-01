@@ -9,5 +9,5 @@
     <masterLabel>Create Order</masterLabel>
     <openType>replace</openType>
     <protected>false</protected>
-    <url>/lightning/cmp/vlocity_cmt__vlocityLWCOmniWrapper?c__target=vlocity_cmt:cPQBulkQuoteToOrderMultiLanguage&amp;c__layout=Flyout&amp;c__tabIcon=custom:custom18&amp;c__ContextId={!Quote.Id}</url>
+    <url>/lightning/page/omnistudio/omniscript?omniscript__type=CPQ&amp;omniscript__subType=BulkQuoteToOrder&amp;omniscript__language=Multi-Language&amp;omniscript__theme=lightning&amp;omniscript__ContextId={!Quote.Id}&amp;omniscript__tabIcon=custom:custom18&amp;omniscript__tabLabel=CPQ_BulkQuoteToOrder</url>
 </WebLink>

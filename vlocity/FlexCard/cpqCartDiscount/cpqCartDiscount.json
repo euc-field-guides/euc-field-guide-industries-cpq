@@ -887,10 +887,10 @@
                                                                     "isResponsive": false
                                                                 },
                                                                 "sizeClass": "slds-size_8-of-12 ",
-                                                                "style": "background-color:#ECEBEA;     : #ECEBEA 1px solid; \n    border-radius:23px;    color:#2E844A; font-weight:900;",
+                                                                "style": "background-color:#ECEBEA;     : #ECEBEA 1px solid; \n    border-radius:23px;    color:#297544; font-weight:900;",
                                                                 "text": {
                                                                     "align": "center",
-                                                                    "color": "#2E844A"
+                                                                    "color": "#297544"
                                                                 }
                                                             },
                                                             "styleObjects": [
@@ -933,10 +933,10 @@
                                                                             "isResponsive": false
                                                                         },
                                                                         "sizeClass": "slds-size_8-of-12 ",
-                                                                        "style": "background-color:#ECEBEA;     : #ECEBEA 1px solid; \n    border-radius:23px;    color:#2E844A; font-weight:900;",
+                                                                        "style": "background-color:#ECEBEA;     : #ECEBEA 1px solid; \n    border-radius:23px;    color:#297544; font-weight:900;",
                                                                         "text": {
                                                                             "align": "center",
-                                                                            "color": "#2E844A"
+                                                                            "color": "#297544"
                                                                         }
                                                                     }
                                                                 },
@@ -993,10 +993,10 @@
                                                                             "isResponsive": false
                                                                         },
                                                                         "sizeClass": "slds-size_8-of-12 ",
-                                                                        "style": "background-color:#ECEBEA;     : #ECEBEA 1px solid; \n    border-radius:23px;    color:#2E844A; font-weight:900;",
+                                                                        "style": "background-color:#ECEBEA;     : #ECEBEA 1px solid; \n    border-radius:23px;    color:#297544; font-weight:900;",
                                                                         "text": {
                                                                             "align": "center",
-                                                                            "color": "#2E844A"
+                                                                            "color": "#297544"
                                                                         }
                                                                     }
                                                                 },
@@ -1434,7 +1434,7 @@
                                                 "stateObj": "{record}",
                                                 "styles": {
                                                     "label": {
-                                                        "color": "#0176D3"
+                                                        "color": "#0273cf"
                                                     }
                                                 }
                                             },
@@ -1465,7 +1465,7 @@
                                                 "elementStyleProperties": {
                                                     "styles": {
                                                         "label": {
-                                                            "color": "#0176D3"
+                                                            "color": "#0273cf"
                                                         }
                                                     }
                                                 },
@@ -1525,7 +1525,7 @@
                                                         "elementStyleProperties": {
                                                             "styles": {
                                                                 "label": {
-                                                                    "color": "#0176D3"
+                                                                    "color": "#0273cf"
                                                                 }
                                                             }
                                                         },

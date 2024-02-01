@@ -10,3 +10,33 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+
+# Unwanted Metadata
+
+force-app/main/default/appMenus/AppSwitcher.appMenu-meta.xml
+force-app/main/default/flexipages/LightningSalesConsole_UtilityBar.flexipage-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__AdSalesManagementAdmin.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__AdSalesManagementUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__CommsAdvancedAdmin.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__CommsAdvancedUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__CommsCCUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__CommsGrowthAdmin.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__CommsGrowthUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__CommsPlusCCUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__CommsPlusPCUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__EAndUCCUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__EAndUPCUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__EAndUSalesAdmin.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__EAndUSalesAndServiceAdmin.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__EAndUSalesAndServiceUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__EAndUSalesUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__EAndUServiceAdmin.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__EAndUServiceUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__EAndUSFSContractorUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__MediaAdvancedAdmin.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__MediaAdvancedUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__MediaCCUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__MediaPlusCCUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsetgroups/vlocity_cmt__MediaPlusPCUser.permissionsetgroup-meta.xml
+force-app/main/default/permissionsets/sfdcInternalInt__sfdc_scrt2.permissionset-meta.xml
+force-app/main/default/profiles/Admin.profile-meta.xml

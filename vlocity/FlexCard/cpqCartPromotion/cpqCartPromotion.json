@@ -302,10 +302,10 @@
                                                     "isResponsive": false
                                                 },
                                                 "sizeClass": "slds-size_11-of-12 ",
-                                                "style": "     : #ccc 1px solid; \n        color:#0070D2; ",
+                                                "style": "     : #ccc 1px solid; \n        color:#026ac5; ",
                                                 "text": {
                                                     "align": "",
-                                                    "color": "#0070D2"
+                                                    "color": "#026ac5"
                                                 }
                                             },
                                             "styleObjects": [
@@ -352,10 +352,10 @@
                                                             "isResponsive": false
                                                         },
                                                         "sizeClass": "slds-size_11-of-12 ",
-                                                        "style": "     : #ccc 1px solid; \n        color:#0070D2; ",
+                                                        "style": "     : #ccc 1px solid; \n        color:#026ac5; ",
                                                         "text": {
                                                             "align": "",
-                                                            "color": "#0070D2"
+                                                            "color": "#026ac5"
                                                         }
                                                     }
                                                 }

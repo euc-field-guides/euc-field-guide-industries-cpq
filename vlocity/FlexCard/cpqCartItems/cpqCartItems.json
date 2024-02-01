@@ -1742,10 +1742,10 @@
                                                     "isResponsive": false
                                                 },
                                                 "sizeClass": "slds-size_12-of-12 ",
-                                                "style": "background-color:#E7ECF3;     : #cccccc 1px solid; \n    border-radius:23px;    color:#0176D3; width:max-content;",
+                                                "style": "background-color:#E7ECF3;     : #cccccc 1px solid; \n    border-radius:23px;    color:#006bc2; width:max-content;",
                                                 "text": {
                                                     "align": "center",
-                                                    "color": "#0176D3"
+                                                    "color": "#006bc2"
                                                 }
                                             },
                                             "styleObjects": [
@@ -2075,10 +2075,10 @@
                                                             "isResponsive": false
                                                         },
                                                         "sizeClass": "slds-size_12-of-12 ",
-                                                        "style": "background-color:#E7ECF3;     : #cccccc 1px solid; \n    border-radius:23px;    color:#0176D3; width:max-content;",
+                                                        "style": "background-color:#E7ECF3;     : #cccccc 1px solid; \n    border-radius:23px;    color:#006bc2; width:max-content;",
                                                         "text": {
                                                             "align": "center",
-                                                            "color": "#0176D3"
+                                                            "color": "#006bc2"
                                                         }
                                                     }
                                                 }
@@ -3751,6 +3751,7 @@
                                         "parentAttribute": {
                                             "cartId": "{Parent.cartId}",
                                             "cartType": "{Parent.cartType}",
+                                            "flowType": "{Parent.flowType}",
                                             "parentObject": "{Parent.parentObject}",
                                             "parentPath": "{Parent.parentPath}",
                                             "type": "{Parent.type}"

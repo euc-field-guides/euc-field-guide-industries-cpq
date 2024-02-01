@@ -156,11 +156,11 @@
                         "eventName": "setValues",
                         "fieldValues": [
                             {
-                                "fieldName": "isCartHasError",
+                                "fieldName": "Session.isCartHasError",
                                 "fieldValue": "{action.isCartHasError}"
                             }
                         ],
-                        "id": "flex-action-1668523357717",
+                        "id": "flex-action-1697521226284",
                         "openUrlIn": "Current Window",
                         "targetType": "Web Page",
                         "type": "cardAction",
@@ -568,7 +568,7 @@
                                             "logicalOperator": "&&"
                                         },
                                         {
-                                            "field": "isCartHasError",
+                                            "field": "Session.isCartHasError",
                                             "hasMergeField": false,
                                             "id": "state-new-condition-293",
                                             "logicalOperator": "&&",
