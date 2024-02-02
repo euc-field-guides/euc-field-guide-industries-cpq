@@ -185,5 +185,5 @@
     <type>CPQ</type>
     <uniqueName>CPQ_CreateMasterOrderAndGetMemberTypeIds_Procedure_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>d5b7c0e0-4db5-285d-b5b6-33e7ce48c70c</webComponentKey>
+    <webComponentKey>f62be0cb-041b-f16d-fe61-38da75e920c3</webComponentKey>
 </OmniIntegrationProcedure>

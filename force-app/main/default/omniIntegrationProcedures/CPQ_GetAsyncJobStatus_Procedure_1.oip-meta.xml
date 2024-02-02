@@ -2,7 +2,7 @@
 <OmniIntegrationProcedure xmlns="http://soap.sforce.com/2006/04/metadata">
     <customJavaScript>{&quot;contextId&quot;:&quot;0Q05g000000ga2oCAA&quot;}</customJavaScript>
     <elementTypeComponentMapping>{&quot;ElementTypeToHTMLTemplateList&quot;:[]}</elementTypeComponentMapping>
-    <isActive>false</isActive>
+    <isActive>true</isActive>
     <isIntegrationProcedure>true</isIntegrationProcedure>
     <isMetadataCacheDisabled>false</isMetadataCacheDisabled>
     <isOmniScriptEmbeddable>false</isOmniScriptEmbeddable>
@@ -80,5 +80,5 @@
     <type>CPQ</type>
     <uniqueName>CPQ_GetAsyncJobStatus_Procedure_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>40e0035e-de96-1202-cb30-2439a9f5a44d</webComponentKey>
+    <webComponentKey>e42ce852-4b6f-893f-3def-d1687799b1fc</webComponentKey>
 </OmniIntegrationProcedure>

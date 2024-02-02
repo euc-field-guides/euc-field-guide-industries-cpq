@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OmniUiCard xmlns="http://soap.sforce.com/2006/04/metadata">
     <authorName>Vlocity</authorName>
-    <dataSourceConfig>{&quot;dataSource&quot;:{&quot;contextVariables&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Parent.cartdata&quot;,&quot;val&quot;:&quot;[{\&quot;Id\&quot; : {\&quot;value\&quot;: \&quot;123\&quot;} }]&quot;}],&quot;orderBy&quot;:{&quot;isReverse&quot;:false,&quot;name&quot;:&quot;&quot;},&quot;type&quot;:&quot;Custom&quot;,&quot;value&quot;:{&quot;body&quot;:&quot; [{ \&quot;data\&quot;:[{\&quot;Id\&quot; : {\&quot;value\&quot;: \&quot;123\&quot;} }],\&quot;numberOfProducts\&quot;:0,\&quot;isMultisiteFlow\&quot;:false,\&quot;namesOfProducts\&quot;:\&quot;\&quot;,\&quot;mergedRecords\&quot;:{},\&quot;total\&quot;:0}]&quot;,&quot;dsDelay&quot;:&quot;&quot;,&quot;resultVar&quot;:&quot;&quot;}}}</dataSourceConfig>
+    <dataSourceConfig>{&quot;contextVariables&quot;:[],&quot;orderBy&quot;:{&quot;isReverse&quot;:false,&quot;name&quot;:&quot;&quot;},&quot;type&quot;:&quot;Custom&quot;,&quot;value&quot;:{&quot;body&quot;:&quot;[{\&quot;viewby\&quot; : \&quot;None\&quot;,\&quot;total\&quot;: 0, \&quot;data\&quot;: [{\&quot;label\&quot; : \&quot;test\&quot;, \&quot;value\&quot;:[{\&quot;Name\&quot;:\&quot;Test\&quot;}] }]}]&quot;,&quot;dsDelay&quot;:&quot;&quot;,&quot;resultVar&quot;:&quot;&quot;}}</dataSourceConfig>
     <description>CPQ cart detail view container</description>
     <isActive>true</isActive>
     <name>cpqCartDetailViewContainer</name>

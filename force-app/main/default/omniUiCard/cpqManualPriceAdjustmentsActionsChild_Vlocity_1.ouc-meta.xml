@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OmniUiCard xmlns="http://soap.sforce.com/2006/04/metadata">
     <authorName>Vlocity</authorName>
-    <dataSourceConfig>{&quot;dataSource&quot;:{&quot;contextVariables&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Parent.adjustmentMode&quot;,&quot;val&quot;:&quot;Absolute&quot;}],&quot;orderBy&quot;:{},&quot;value&quot;:{}}}</dataSourceConfig>
+    <dataSourceConfig>{}</dataSourceConfig>
     <description>CPQ Manual Price Adjustments: Actions: &quot;Adjust Price&quot; card
 Child Flexcard containing Adjustment Modes</description>
     <isActive>true</isActive>

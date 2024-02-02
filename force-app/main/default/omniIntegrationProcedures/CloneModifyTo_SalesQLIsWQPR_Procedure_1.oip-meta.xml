@@ -3,7 +3,7 @@
     <customJavaScript>{&quot;GroupCartId&quot;:&quot;0Q03g000000XgPUCA0&quot;,&quot;RootItemIds&quot;:[{&quot;Id&quot;:&quot;0QL3g000000TYjYGAW&quot;},{&quot;Id&quot;:&quot;0QL3g000000TYjkGAG&quot;}],&quot;SalesQuoteId&quot;:&quot;0Q03g000000XgP5CAK&quot;}</customJavaScript>
     <description>B2B Express - Clone Modified Working Cart QLIs to Sales QLIs, delete the Working cart and update Quote Product Rollup Object(Do not call in bulk Pricing Flow).</description>
     <elementTypeComponentMapping>{&quot;ElementTypeToHTMLTemplateList&quot;:[]}</elementTypeComponentMapping>
-    <isActive>false</isActive>
+    <isActive>true</isActive>
     <isIntegrationProcedure>true</isIntegrationProcedure>
     <isMetadataCacheDisabled>false</isMetadataCacheDisabled>
     <isOmniScriptEmbeddable>false</isOmniScriptEmbeddable>
@@ -51,7 +51,7 @@
         <childElements>
             <isActive>true</isActive>
             <isOmniScriptEmbeddable>false</isOmniScriptEmbeddable>
-            <level>0.0</level>
+            <level>1.0</level>
             <name>AddQMQGToWCQLIsCopyToEQ</name>
             <omniProcessVersionNumber>0.0</omniProcessVersionNumber>
             <propertySetConfig>{
@@ -102,7 +102,7 @@
         <childElements>
             <isActive>true</isActive>
             <isOmniScriptEmbeddable>false</isOmniScriptEmbeddable>
-            <level>0.0</level>
+            <level>1.0</level>
             <name>AddQMQGToWCCopyToEQBatch</name>
             <omniProcessVersionNumber>0.0</omniProcessVersionNumber>
             <propertySetConfig>{
@@ -210,5 +210,5 @@
     <type>CloneModifyTo</type>
     <uniqueName>CloneModifyTo_SalesQLIsWQPR_Procedure_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>304b55a1-a41d-b912-1215-f8ce52c9a17f</webComponentKey>
+    <webComponentKey>140fbad9-a6ed-ee1b-2049-3fbeb747611c</webComponentKey>
 </OmniIntegrationProcedure>

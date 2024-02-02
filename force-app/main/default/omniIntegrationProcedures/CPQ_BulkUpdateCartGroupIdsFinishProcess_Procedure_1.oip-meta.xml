@@ -144,5 +144,5 @@
     <type>CPQ</type>
     <uniqueName>CPQ_BulkUpdateCartGroupIdsFinishProcess_Procedure_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>88ef768f-fc6b-188d-e8d0-7442e41bd50c</webComponentKey>
+    <webComponentKey>05d160a7-285a-8914-48f3-21a844eb7e02</webComponentKey>
 </OmniIntegrationProcedure>

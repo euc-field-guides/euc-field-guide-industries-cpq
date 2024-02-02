@@ -1258,7 +1258,7 @@
   &quot;failureGoBackLabel&quot; : &quot;&quot;,
   &quot;failureNextLabel&quot; : &quot;&quot;,
   &quot;inProgressMessage&quot; : &quot;&quot;,
-  &quot;integrationProcedureKey&quot; : &quot;CPQ_StartBulkCreateGroups&quot;,
+  &quot;integrationProcedureKey&quot; : &quot;&quot;,
   &quot;label&quot; : null,
   &quot;message&quot; : { },
   &quot;postMessage&quot; : &quot;&quot;,
@@ -1309,5 +1309,5 @@
     <type>CPQ</type>
     <uniqueName>CPQ_AssetViewerQuoteFlow_multiLanguage_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>3ba25058-8eb5-98cf-bf62-18ad4b7cafc3</webComponentKey>
+    <webComponentKey>816d76e4-a238-fc45-c40c-1f508e452f30</webComponentKey>
 </OmniScript>

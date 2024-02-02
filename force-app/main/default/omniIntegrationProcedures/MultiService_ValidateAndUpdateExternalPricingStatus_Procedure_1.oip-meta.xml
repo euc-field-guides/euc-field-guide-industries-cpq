@@ -109,5 +109,5 @@
     <type>MultiService</type>
     <uniqueName>MultiService_ValidateAndUpdateExternalPricingStatus_Procedure_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>b76f329e-bcf4-e0d0-fbcc-96461e4ee220</webComponentKey>
+    <webComponentKey>4f9e6edb-54b0-74b7-f033-fa9dcaa2fd5a</webComponentKey>
 </OmniIntegrationProcedure>

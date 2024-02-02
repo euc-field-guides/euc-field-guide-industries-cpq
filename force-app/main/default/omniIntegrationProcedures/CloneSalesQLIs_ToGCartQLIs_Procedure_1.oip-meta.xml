@@ -3,7 +3,7 @@
     <customJavaScript>{&quot;RootItemIds&quot;:[{&quot;Id&quot;:&quot;0QL3h000000gv5UGAQ&quot;},{&quot;Id&quot;:&quot;0QL3h000000gv5eGAA&quot;}],&quot;SalesQuoteId&quot;:&quot;0Q03h000000Tu4q&quot;}</customJavaScript>
     <description>B2B Express - Clone Sales Quote - QLIs to Group Cart - QLIs</description>
     <elementTypeComponentMapping>{&quot;ElementTypeToHTMLTemplateList&quot;:[]}</elementTypeComponentMapping>
-    <isActive>false</isActive>
+    <isActive>true</isActive>
     <isIntegrationProcedure>true</isIntegrationProcedure>
     <isMetadataCacheDisabled>false</isMetadataCacheDisabled>
     <isOmniScriptEmbeddable>false</isOmniScriptEmbeddable>
@@ -126,5 +126,5 @@
     <type>CloneSalesQLIs</type>
     <uniqueName>CloneSalesQLIs_ToGCartQLIs_Procedure_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>4dfe14b2-3328-bcd8-102b-39e378ef955f</webComponentKey>
+    <webComponentKey>1e51d13b-e977-ddfc-4818-a6ed1b949cbf</webComponentKey>
 </OmniIntegrationProcedure>

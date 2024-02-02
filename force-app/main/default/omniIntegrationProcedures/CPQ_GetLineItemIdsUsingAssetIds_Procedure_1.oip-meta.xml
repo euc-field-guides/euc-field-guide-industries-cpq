@@ -2,7 +2,7 @@
 <OmniIntegrationProcedure xmlns="http://soap.sforce.com/2006/04/metadata">
     <customJavaScript>{&quot;additionalData&quot;:{&quot;assetIds&quot;:[&quot;02i5g0000009g19AAA&quot;,&quot;02i5g0000009g1AAAQ&quot;],&quot;cartId&quot;:&quot;0Q05g000000p8cbCAA&quot;,&quot;cartType&quot;:&quot;Quote&quot;}}</customJavaScript>
     <elementTypeComponentMapping>{&quot;ElementTypeToHTMLTemplateList&quot;:[]}</elementTypeComponentMapping>
-    <isActive>false</isActive>
+    <isActive>true</isActive>
     <isIntegrationProcedure>true</isIntegrationProcedure>
     <isMetadataCacheDisabled>false</isMetadataCacheDisabled>
     <isOmniScriptEmbeddable>false</isOmniScriptEmbeddable>
@@ -216,5 +216,5 @@
     <type>CPQ</type>
     <uniqueName>CPQ_GetLineItemIdsUsingAssetIds_Procedure_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>53ce49f3-34b5-99ce-adac-c5f454a33541</webComponentKey>
+    <webComponentKey>a0cfa321-eff7-62e9-d64f-cd6ad73001c5</webComponentKey>
 </OmniIntegrationProcedure>

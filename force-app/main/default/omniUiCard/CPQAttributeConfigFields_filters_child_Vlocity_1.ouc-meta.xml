@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OmniUiCard xmlns="http://soap.sforce.com/2006/04/metadata">
     <authorName>Vlocity</authorName>
-    <dataSourceConfig>{&quot;dataSource&quot;:{&quot;contextVariables&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Parent.view&quot;,&quot;val&quot;:&quot;browse&quot;}],&quot;orderBy&quot;:{},&quot;value&quot;:{}}}</dataSourceConfig>
+    <dataSourceConfig>{&quot;dataSource&quot;:{&quot;contextVariables&quot;:[],&quot;orderBy&quot;:{&quot;isReverse&quot;:false,&quot;name&quot;:&quot;&quot;},&quot;type&quot;:&quot;Custom&quot;,&quot;value&quot;:{&quot;body&quot;:&quot;{\&quot;selectedGroupType\&quot;:\&quot;\&quot;,\n\&quot;groupMemberTypeList\&quot;:\&quot;\&quot;}&quot;,&quot;dsDelay&quot;:&quot;&quot;,&quot;resultVar&quot;:&quot;&quot;}}}</dataSourceConfig>
     <isActive>true</isActive>
     <name>CPQAttributeConfigFields_filters_child</name>
     <omniUiCardType>Child</omniUiCardType>

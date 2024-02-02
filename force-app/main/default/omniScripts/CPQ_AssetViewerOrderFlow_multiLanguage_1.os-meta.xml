@@ -1273,7 +1273,7 @@
   &quot;failureAbortMessage&quot; : null,
   &quot;failureGoBackLabel&quot; : null,
   &quot;failureNextLabel&quot; : null,
-  &quot;integrationProcedureKey&quot; : &quot;CPQ_StartBulkCreateGroups&quot;,
+  &quot;integrationProcedureKey&quot; : &quot;&quot;,
   &quot;label&quot; : null,
   &quot;message&quot; : { },
   &quot;postMessage&quot; : null,
@@ -1324,5 +1324,5 @@
     <type>CPQ</type>
     <uniqueName>CPQ_AssetViewerOrderFlow_multiLanguage_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>46aef889-808d-9bac-7758-a553affb2e82</webComponentKey>
+    <webComponentKey>e533d5dd-61b3-578d-11c6-4cefd5215ded</webComponentKey>
 </OmniScript>

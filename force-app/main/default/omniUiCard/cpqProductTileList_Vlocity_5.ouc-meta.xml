@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OmniUiCard xmlns="http://soap.sforce.com/2006/04/metadata">
     <authorName>Vlocity</authorName>
-    <dataSourceConfig>{&quot;dataSource&quot;:{&quot;contextVariables&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Parent.showFilters&quot;,&quot;val&quot;:&quot;false&quot;}],&quot;orderBy&quot;:{&quot;isReverse&quot;:false,&quot;name&quot;:&quot;&quot;},&quot;type&quot;:&quot;Custom&quot;,&quot;value&quot;:{&quot;body&quot;:&quot;[{\&quot;phase\&quot;: \&quot;browse\&quot;,\&quot;isListViewSelected\&quot;:\&quot;true\&quot;,\&quot;isTileViewSelected\&quot;:\&quot;false\&quot;,\&quot;numberOfProducts\&quot;:0,\&quot;namesOfProducts\&quot;:\&quot;\&quot;,\&quot;mergedRecords\&quot;:{}}]&quot;,&quot;dsDelay&quot;:&quot;&quot;,&quot;resultVar&quot;:&quot;&quot;}}}</dataSourceConfig>
+    <dataSourceConfig>{&quot;dataSource&quot;:{&quot;contextVariables&quot;:[],&quot;orderBy&quot;:{&quot;isReverse&quot;:false,&quot;name&quot;:&quot;&quot;},&quot;type&quot;:&quot;Custom&quot;,&quot;value&quot;:{&quot;body&quot;:&quot;[{\&quot;phase\&quot;:\&quot;browse\&quot; }]&quot;,&quot;dsDelay&quot;:&quot;&quot;,&quot;resultVar&quot;:&quot;&quot;}}}</dataSourceConfig>
     <isActive>true</isActive>
     <name>cpqProductTileList</name>
     <omniUiCardType>Child</omniUiCardType>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OmniUiCard xmlns="http://soap.sforce.com/2006/04/metadata">
     <authorName>Vlocity</authorName>
-    <dataSourceConfig>{&quot;dataSource&quot;:{&quot;contextVariables&quot;:[],&quot;orderBy&quot;:{},&quot;value&quot;:{}}}</dataSourceConfig>
+    <dataSourceConfig>{&quot;dataSource&quot;:{&quot;contextVariables&quot;:[],&quot;orderBy&quot;:{&quot;isReverse&quot;:false,&quot;name&quot;:&quot;&quot;},&quot;type&quot;:&quot;Custom&quot;,&quot;value&quot;:{&quot;body&quot;:&quot;[{\&quot;groupName\&quot;:\&quot;G-1\&quot;, \&quot;actionMessage\&quot;: \&quot;Test Message\&quot;,\&quot;hasUnappliedGroupItems\&quot;: false,\&quot;hasUnappliedMembers\&quot;: false}]&quot;,&quot;dsDelay&quot;:&quot;&quot;,&quot;resultVar&quot;:&quot;&quot;}}}</dataSourceConfig>
     <description>Display MultiSite Group Validation Table Details</description>
     <isActive>true</isActive>
     <name>MultiSiteGroupValidationTable</name>
