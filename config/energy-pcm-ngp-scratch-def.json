@@ -1,0 +1,85 @@
+{
+  "orgName": "Test Org - Omni Runtime",
+  "edition": "Enterprise",
+  "features": [
+    "FieldService:2",
+    "FieldServiceDispatcherUser:2",
+    "FieldServiceMobileUser:2",
+    "FieldServiceSchedulingUser:2",
+    "PlatformCache",
+    "EnableSetPasswordInApi",
+    "ContactsToMultipleAccounts",
+    "Communities",
+    "ServiceCloud",
+    "Chatbot",
+    "AuthorApex",
+    "DebugApex",
+    "SalesUser",
+    "ServiceUser",
+    "Knowledge",
+    "OmniStudioDesigner",
+    "OmniStudioMetadata",
+    "OmniStudioRuntime",
+    "BusinessRulesEngine",
+    "ANALYTICSAPPEMBEDDED",
+    "EnergyAndUtilitiesCloud",
+    "EAndUDigitalSales",
+    "EAndUSelfServicePortal",
+    "ProgramManagement",
+    "SALESFORCEPRICING",
+    "CONTEXTSERVICE",
+    "CORECPQPARTNERPREVIEWADDON"
+  ],
+  "settings": {
+    "fieldServiceSettings": {
+      "fieldServiceOrgPref": true,
+      "enableWorkOrders": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": true
+    },
+    "omniChannelSettings": {
+      "enableOmniChannel": true
+    },
+    "caseSettings": {
+      "systemUserEmail": "avisser.16@riqcrm.com"
+    },
+    "productSettings": {
+      "enableRevenueSchedule": true,
+      "enableQuantitySchedule": true
+    },
+    "quoteSettings": {
+      "enableQuote": true
+    },
+    "orderSettings": {
+      "enableOrders": true
+    },
+    "forecastingSettings": {
+      "enableForecasts": true
+    },
+    "contentSettings": {
+      "enableContent": true,
+      "enableContentDistForPortalUsers": true,
+      "enableContentDistribution": true
+    },
+    "emailAdministrationSettings": {
+      "enableEnhancedEmailEnabled": true
+    },
+    "accountSettings": {
+      "enableRelateContactToMultipleAccounts": true,
+      "enableAccountTeams": true
+    },
+    "knowledgeSettings": {
+      "enableKnowledge": true,
+      "enableLightningKnowledge": true
+    },
+    "IndustriesSettings": { 
+        "enableBenefitManagementPreference": true,
+        "enableBenefitAndGoalSharingPref": true,
+        "enableCarePlansPreference": true
+      }
+  }
+}

@@ -137,15 +137,15 @@ orgDomain=$(sf org display --json | jq -r '.result.instanceUrl' | cut -d'/' -f3 
 
 #get Legacy Domain
 
-sourceDomain=$(grep '<url>' sfi-cmt-base/main/default/remoteSiteSettings/force.remoteSite-meta.xml | sed "s@.*<url>\(.*\)</url>.*@\1@" | cut -d'/' -f3 | cut -d'.' -f1)
+sourceDomain=$(grep '<url>' force-app/main/default/remoteSiteSettings/force.remoteSite-meta.xml | sed "s@.*<url>\(.*\)</url>.*@\1@" | cut -d'/' -f3 | cut -d'.' -f1)
 
 echo "Target Domain: $orgDomain"
 
 echo "Source Code Domain: $sourceDomain"
 
-grep -rl "$sourceDomain" ./sfi-cmt-base/main/default/remoteSiteSettings | xargs sed -i '' "s/\/$sourceDomain/\/$orgDomain/"
+grep -rl "$sourceDomain" ./force-app/main/default/remoteSiteSettings | xargs sed -i '' "s/\/$sourceDomain/\/$orgDomain/"
 
-grep -rl "$sourceDomain" ./sfi-cmt-base/main/default/corsWhitelistOrigins | xargs sed -i '' "s/\/$sourceDomain/\/$orgDomain/"
+grep -rl "$sourceDomain" ./force-app/main/default/corsWhitelistOrigins | xargs sed -i '' "s/\/$sourceDomain/\/$orgDomain/"
 
 echo "--> Done..."
 echo "--> "

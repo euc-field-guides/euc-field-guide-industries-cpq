@@ -1,4 +1,4 @@
-Org: SampleProducts1
+Org: ComboTest
 Version: 1.17.5
 Node: v18.18.2
 PackageVersion: !<tag:yaml.org,2002:js/undefined> ''
@@ -6,7 +6,7 @@ Namespace: vlocity_cmt
 Job: VDX
 Action: Deploy
 ProjectPath: vlocity
-TotalTime: 0m 6s
+TotalTime: 0m 1s
 Count:
   Success: {}
 Errors: []
