@@ -1,0 +1,22 @@
+{
+    "%vlocity_namespace%__AdjustmentMethod__c": "",
+    "%vlocity_namespace%__Aggregation__c": "Quantity",
+    "%vlocity_namespace%__AppliesToVariableId__c": "",
+    "%vlocity_namespace%__AppliesTo__c": "",
+    "%vlocity_namespace%__ChargeType__c": "",
+    "%vlocity_namespace%__Code__c": "MASTER_USAGE_MARGIN_TOTAL",
+    "%vlocity_namespace%__CurrencyType__c": "Currency",
+    "%vlocity_namespace%__Description__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "dbd859d7-a787-e187-19f1-2adf82dfd209",
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__PricingVariableBinding__c": "Master-Usage-Margin-Total_PricingVariableBindings.json",
+    "%vlocity_namespace%__RecurringFrequency__c": "",
+    "%vlocity_namespace%__Scope__c": "Master",
+    "%vlocity_namespace%__SubType__c": "",
+    "%vlocity_namespace%__Type__c": "",
+    "%vlocity_namespace%__ValueType__c": "Calculated",
+    "Name": "Master Usage Margin Total",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__PricingVariable__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__PricingVariable__c/MASTER_USAGE_MARGIN_TOTAL"
+}

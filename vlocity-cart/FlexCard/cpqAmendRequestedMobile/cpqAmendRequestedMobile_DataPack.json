@@ -1,0 +1,34 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+                {
+                    "id": 28,
+                    "name": "Parent.id",
+                    "val": ""
+                }
+            ],
+            "orderBy": {
+            },
+            "value": {
+            }
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqAmendRequestedMobile",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqAmendRequestedMobile/Vlocity/2.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqAmendRequestedMobile.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "{\"customStyles\":\".custom-btn{\\n    width:fit-content;\\n}\\n\\n.custom-btn .slds-button{\\n    border-radius: 0px;\\n}\\n\\n.incomplete-btn {\\n    border: 1px solid #ddd;\\n    height: 32px;\\n    width: fit-content;\\n    background: #C9C7C5;\\n    color: #FFFFFF;\\n    margin-right: 8px;\\n}\"}",
+    "UniqueName": "cpqAmendRequestedMobile_Vlocity_2",
+    "VersionNumber": 2,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqAmendRequestedMobile"
+}

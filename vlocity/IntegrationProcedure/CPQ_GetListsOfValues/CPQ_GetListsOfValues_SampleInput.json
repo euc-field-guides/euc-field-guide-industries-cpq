@@ -1,7 +1,0 @@
-{
-    "PricingVariableCode": "OT_STD_PRC",
-    "cartId": "8014W000001yoLzQAI",
-    "fields": "vlocity_cmt__OneTimeCharge__c",
-    "id": "",
-    "listkeys": "TimePlans,TimePolicies,AdjustmentCodes"
-}

@@ -1,3 +1,8 @@
- Sf project deploy start --manifest manifest/package-omni.xml >> deploy.log
+sf project deploy start --manifest manifest/cart-omnistudio.xml >> deploy-cart-omnistudio.log
 
- Sf project deploy start --ignore-conflicts >> deploy.log
+sf project deploy start --manifest manifest/cart-metadata.xml >> deploy-cart-metadata.log
+
+
+
+
+sf project deploy start --ignore-conflicts >> deploy.log

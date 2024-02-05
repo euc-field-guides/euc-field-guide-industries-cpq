@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "ProductQuantityRollups",
+    "OmniProcessElement": "MultiService_ProductQuantityRollups_Element_ProductQuantityRollup.json",
+    "OmniProcessKey": "MultiService_ProductQuantityRollups",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "MultiService_ProductQuantityRollups_PropertySetConfig.json",
+    "SubType": "ProductQuantityRollups",
+    "Type": "MultiService",
+    "UniqueName": "MultiService_ProductQuantityRollups_Procedure_1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/MultiService/ProductQuantityRollups/Procedure"
+}

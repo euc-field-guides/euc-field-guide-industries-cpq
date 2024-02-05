@@ -1,0 +1,31 @@
+{
+    "%vlocity_namespace%__Code__c": "PL_INITIAL",
+    "%vlocity_namespace%__CountOfActiveEntries__c": 1,
+    "%vlocity_namespace%__CurrencyCode__c": "GBP",
+    "%vlocity_namespace%__Description__c": "",
+    "%vlocity_namespace%__EffectiveFromDate__c": "2024-01-01T15:34:59.000Z",
+    "%vlocity_namespace%__EffectiveUntilDate__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "a767c520-38cb-217a-0320-dfa3fcfe369a",
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__LoyaltyCode__c": "PTS",
+    "%vlocity_namespace%__ParentPriceListId__c": "",
+    "%vlocity_namespace%__Pricebook2Id__c": {
+        "Name": "Initial Price Book",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "Pricebook2/Initial Price Book",
+        "VlocityRecordSObjectType": "Pricebook2"
+    },
+    "%vlocity_namespace%__PricingElement__c": "Initial-Price-List_PricingElements.json",
+    "%vlocity_namespace%__Sequence__c": "",
+    "Name": "Initial Price List",
+    "RecordTypeId": {
+        "DeveloperName": "PriceList",
+        "SobjectType": "%vlocity_namespace%__PriceList__c",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "RecordType/%vlocity_namespace%__PriceList__c/PriceList",
+        "VlocityRecordSObjectType": "RecordType"
+    },
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__PriceList__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__PriceList__c/PL_INITIAL"
+}

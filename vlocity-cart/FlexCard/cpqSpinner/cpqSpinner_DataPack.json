@@ -1,0 +1,29 @@
+{
+    "AuthorName": "CPQ",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+            },
+            "value": {
+            }
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqSpinner",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqSpinner/CPQ/1.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqSpinner.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "",
+    "UniqueName": "cpqSpinner_CPQ_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqSpinner"
+}

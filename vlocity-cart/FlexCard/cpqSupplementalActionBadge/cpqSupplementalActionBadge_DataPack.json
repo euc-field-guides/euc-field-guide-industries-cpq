@@ -1,0 +1,29 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+            },
+            "value": {
+            }
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqSupplementalActionBadge",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqSupplementalActionBadge/Vlocity/1.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqSupplementalActionBadge.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "{\"customStyles\":\".cpq__supplementalBadge{\\n    width: max-content;\\n}\"}",
+    "UniqueName": "cpqSupplementalActionBadge_Vlocity_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqSupplementalActionBadge"
+}

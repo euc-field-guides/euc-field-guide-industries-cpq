@@ -1,0 +1,35 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+                "isReverse": false,
+                "name": ""
+            },
+            "type": "Custom",
+            "value": {
+                "body": "{\"options\":[{\"value\":\"+ Add\",\"label\":\"+Add\"}],\"submitted\":false,\"name\":\"\"}",
+                "dsDelay": "",
+                "resultVar": ""
+            }
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqMultiSiteCombobox",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqMultiSiteCombobox/Vlocity/2.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqMultiSiteCombobox.json",
+    "SampleDataSourceResponse": "{\"options\":[{\"value\":\"+ Add\",\"label\":\"+Add\"}],\"submitted\":false,\"name\":\"\"}",
+    "StylingConfiguration": "",
+    "UniqueName": "cpqMultiSiteCombobox_Vlocity_2",
+    "VersionNumber": 2,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqMultiSiteCombobox"
+}

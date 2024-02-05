@@ -1,0 +1,29 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+            },
+            "value": {
+            }
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqPromotionDetailView",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqPromotionDetailView/Vlocity/1.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqPromotionDetailView.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "{\"customStyles\":\"\\n.cpq__promotiondetailview-modal-header{\\n    background-color: #1589EE;\\n    border-radius: 4px 4px 0px 0px;\\n}\\n.cpq__promotiondetailview-modal-header-promotionheading{\\n    font-size: 20px;\\n    line-height: 30px;\\n    letter-spacing: 2px;\\n    color: #FFFFFF;\\n}\\n.cpq__promotiondetailview-modal-body{\\n    height: 350px;\\n    border: 1px solid #ECEBEA;\\n}\\n.cpq__promotiondetailview-modal-body-promotion-namecode{\\n    font-size: 16px;\\n    line-height: 19px;\\n    color: #000000;\\n}\\n.cpq__promotiondetailview-modal-body-promotion-description{\\n    font-size: 13px;\\n    line-height: 15px;\\n    color: #706E6B;\\n}\\n.cpq__promotiondetailview-modal-body-promotion-dates-label{\\n    width: fit-content;\\n    font-size: 12px;\\n    line-height: 14px;\\n    color: #706E6B;\\n}\\n.cpq__promotiondetailview-modal-body-promotion-dates{\\n    font-size: 14px;\\n    line-height: 18px;\\n    color: #000000;\\n}\\n.cpq__promotiondetailview-modal-body-promotion-code-label{\\n    font-size: 12px;\\n    line-height: 14px;\\n    color: #706E6B;\\n}\\n.cpq__promotiondetailview-modal-footer-button-block\\n{\\nwidth: fit-content;\\nmargin-left: auto;\\n\\n}\\n.cpq__promotiondetailview-modal-footer-buttons{\\n width: fit-content;   \\n}\\n.cpq__promotiondetailview-cancelbuttom-tempchange{\\n display: none;   \\n}\"}",
+    "UniqueName": "cpqPromotionDetailView_Vlocity_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqPromotionDetailView"
+}

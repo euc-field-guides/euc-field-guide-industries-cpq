@@ -1,0 +1,35 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+                "isReverse": false,
+                "name": ""
+            },
+            "type": "Custom",
+            "value": {
+                "body": "{\"sites\": {}, \"selectedRows\": [], \"selectedGroupsCount\": 0, \"selectedUngroupedRecordsCount\": 0, \"selectedGroupedMembersCount\": 0, \"selectedGroupsInfoLabel\": \"0 groups selected\",\n\"selectedUngroupedRecordsInfoLabel\": \"0 ungrouped items selected\", \"selectedGroupedMembersInfoLabel\": \"0 grouped item selected\", \"selected\":false,\"totalCount\":0}",
+                "dsDelay": "",
+                "resultVar": ""
+            }
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqMultisiteGridTable",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqMultisiteGridTable/Vlocity/4.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqMultisiteGridTable.json",
+    "SampleDataSourceResponse": "{\"sites\":{},\"selectedRows\":[],\"selectedGroupsCount\":0,\"selectedUngroupedRecordsCount\":0,\"selectedGroupedMembersCount\":0,\"selectedGroupsInfoLabel\":\"0 groups selected\",\"selectedUngroupedRecordsInfoLabel\":\"0 ungrouped items selected\",\"selectedGroupedMembersInfoLabel\":\"0 grouped item selected\",\"selected\":false,\"totalCount\":0}",
+    "StylingConfiguration": "",
+    "UniqueName": "cpqMultisiteGridTable_Vlocity_4",
+    "VersionNumber": 4,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqMultisiteGridTable"
+}

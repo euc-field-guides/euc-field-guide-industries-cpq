@@ -1,0 +1,75 @@
+{
+    "IsActive": true,
+    "IsOmniScriptEmbeddable": false,
+    "Name": "CreateGroupCart",
+    "OmniProcessId": {
+        "Name": "CreateWorkingCartQuote",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcess/create/WorkingCart/Procedure",
+        "VlocityRecordSObjectType": "OmniProcess"
+    },
+    "PropertySetConfig": {
+        "actionMessage": "",
+        "additionalChainableResponse": {
+        },
+        "additionalInput": {
+        },
+        "additionalOutput": {
+        },
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "executionConditionalFormula": "",
+        "extraPayload": {
+            "fields": "Id,Pricebook2Id",
+            "inputFields": [
+                {
+                    "Status": "Draft"
+                },
+                {
+                    "AccountId": "%getSalesQuoteDetail:AccountId%"
+                },
+                {
+                    "OpportunityId": "%getSalesQuoteDetail:OptyId%"
+                },
+                {
+                    "Name": "Test Working Cart"
+                },
+                {
+                    "%vlocity_namespace%__OriginatingChannel__c": "Retail"
+                },
+                {
+                    "pricelistName": "%getSalesQuoteDetail:PriceListName%"
+                },
+                {
+                    "%vlocity_namespace%__ParentQuoteId__c": "%SalesQuoteId%"
+                },
+                {
+                    "RecordTypeId": "%RecordTypeCB:RecordTypeId%"
+                }
+            ],
+            "objectType": "Quote"
+        },
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "failureResponse": {
+        },
+        "label": "RemoteAction1",
+        "remoteClass": "%vlocity_namespace%.CpqAppHandler",
+        "remoteMethod": "createCart",
+        "remoteOptions": {
+        },
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "returnOnlyAdditionalOutput": false,
+        "returnOnlyFailureResponse": false,
+        "sendJSONNode": "",
+        "sendJSONPath": "",
+        "sendOnlyAdditionalInput": false,
+        "show": null,
+        "useFormulas": true
+    },
+    "Type": "Remote Action",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcessElement",
+    "VlocityRecordSourceKey": "OmniProcessElement/OmniProcess/create/WorkingCart/Procedure/CreateGroupCart"
+}

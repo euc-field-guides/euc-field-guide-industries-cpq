@@ -1,0 +1,35 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+                "isReverse": "",
+                "name": ""
+            },
+            "type": "Custom",
+            "value": {
+                "body": "{}",
+                "dsDelay": "",
+                "resultVar": ""
+            }
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqAssetViewerSelectAllAssets",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqAssetViewerSelectAllAssets/Vlocity/1.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqAssetViewerSelectAllAssets.json",
+    "SampleDataSourceResponse": "{}",
+    "StylingConfiguration": "",
+    "UniqueName": "cpqAssetViewerSelectAllAssets_Vlocity_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqAssetViewerSelectAllAssets"
+}

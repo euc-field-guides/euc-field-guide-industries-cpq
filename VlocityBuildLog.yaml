@@ -1,22 +1,22 @@
-Org: previewTest
+Org: finally1
 Version: 1.17.5
 Node: v21.2.0
-PackageVersion: '900.523'
+PackageVersion: !<tag:yaml.org,2002:js/undefined> ''
 Namespace: vlocity_cmt
 Job: VDX
 Action: Deploy
-ProjectPath: vlocity
-TotalTime: 0m 24s
+ProjectPath: icpq-preview
+TotalTime: 2m 15s
 Count:
   Success: {}
   Error: {}
 Errors:
-  - Activation Error >> FlexCard/cpqGlobalHeaderContainer --- Can't find an active child OmniUiCard with name cpqGlobalHeader.
+  - 'InterfaceImplementation/RuleSetCombinationBatchJobRecord -- DataPack >> RuleSetCombinationBatchJobRecord -- Error Message -- Duplicated results found for %vlocity_namespace%__InterfaceImplementation__c Name=RuleSetCombinationBatchJobRecord - Related Ids: a2e3M000000moVjQAI,a2e3M000000moUOQAY. Delete or fix duplicate records before importing.'
 Status:
   Success: {}
   Error: {}
 StatusCount:
   Remaining: 0
-  Success: 436
+  Success: 186
   Error: 1
 id: !<tag:yaml.org,2002:js/undefined> ''

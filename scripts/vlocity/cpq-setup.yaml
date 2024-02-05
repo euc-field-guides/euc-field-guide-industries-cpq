@@ -1,0 +1,9 @@
+projectPath: vlocity-cpq
+queries:
+  - ObjectClass
+  - ObjectLayout
+  - UIFacet
+  - UISection
+  - PricingPlan
+  - PricingVariable
+  - InterfaceImplementation

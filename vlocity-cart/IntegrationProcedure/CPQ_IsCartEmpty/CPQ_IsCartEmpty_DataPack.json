@@ -1,0 +1,25 @@
+{
+    "CustomJavaScript": "CPQ_IsCartEmpty_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "IsCartEmpty",
+    "OmniProcessElement": [
+        "CPQ_IsCartEmpty_Element_GetOrderLineItems.json",
+        "CPQ_IsCartEmpty_Element_GetQuoteLineItemCount.json",
+        "CPQ_IsCartEmpty_Element_Output.json"
+    ],
+    "OmniProcessKey": "CPQ_IsCartEmpty",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "CPQ_IsCartEmpty_PropertySetConfig.json",
+    "SubType": "IsCartEmpty",
+    "Type": "CPQ",
+    "UniqueName": "CPQ_IsCartEmpty_Procedure_1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/CPQ/IsCartEmpty/Procedure"
+}

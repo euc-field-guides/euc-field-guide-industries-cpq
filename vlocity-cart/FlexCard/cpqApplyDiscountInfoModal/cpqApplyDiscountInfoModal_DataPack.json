@@ -1,0 +1,35 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+                {
+                    "id": 0,
+                    "name": "Parent.discountType",
+                    "val": "available"
+                }
+            ],
+            "orderBy": {
+            },
+            "type": null,
+            "value": {
+            }
+        }
+    },
+    "Description": "Modal to display information for the \"Apply discount\" action.",
+    "IsTrackingEnabled": false,
+    "Name": "cpqApplyDiscountInfoModal",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqApplyDiscountInfoModal/Vlocity/1.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqApplyDiscountInfoModal.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "{\"customStyles\":\".cpq__discount_footer{\\n   position: relative;\\n    height: 60px;\\n}\\n.cpq__discount_footer .cpq_btn_solid{\\n    position: absolute;\\n    width: fit-content;\\n    right: 18px;\\n}\\n.cpq__discount_footer .cpq_btn_inverse{\\n    position: absolute;\\n   width: fit-content;\\n    right: 120px;\\n}\"}",
+    "UniqueName": "cpqApplyDiscountInfoModal_Vlocity_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqApplyDiscountInfoModal"
+}

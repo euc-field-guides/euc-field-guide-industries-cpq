@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "CPQ_GetProductsRemoteCall_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "GetProductsRemoteCall",
+    "OmniProcessElement": [
+        "CPQ_GetProductsRemoteCall_Element_GetProductsRemoteAction.json",
+        "CPQ_GetProductsRemoteCall_Element_Products.json"
+    ],
+    "OmniProcessKey": "CPQ_GetProductsRemoteCall",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "CPQ_GetProductsRemoteCall_PropertySetConfig.json",
+    "SubType": "GetProductsRemoteCall",
+    "Type": "CPQ",
+    "UniqueName": "CPQ_GetProductsRemoteCall_Procedure_1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/CPQ/GetProductsRemoteCall/Procedure"
+}

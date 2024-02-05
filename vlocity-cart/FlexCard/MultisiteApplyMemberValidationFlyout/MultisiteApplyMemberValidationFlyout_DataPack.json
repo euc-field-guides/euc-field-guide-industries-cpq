@@ -1,0 +1,35 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+                "isReverse": false,
+                "name": ""
+            },
+            "type": "Custom",
+            "value": {
+                "body": "{\"groups\": []}",
+                "dsDelay": "",
+                "resultVar": ""
+            }
+        }
+    },
+    "Description": "This Flyout shows the group validation status.",
+    "IsTrackingEnabled": false,
+    "Name": "MultisiteApplyMemberValidationFlyout",
+    "Namespace": "",
+    "OmniUiCardKey": "MultisiteApplyMemberValidationFlyout/Vlocity/1.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "MultisiteApplyMemberValidationFlyout.json",
+    "SampleDataSourceResponse": "{\"groups\":[]}",
+    "StylingConfiguration": "{\"customStyles\":\".cpq__multisiteFooter .slds-grid.slds-wrap{\\n    justify-content: flex-end;\\n}\\n.cpq__multisiteButton {\\n    display: inline-flex;\\n    width: auto;\\n}\\n.cpq__multisiteTableHeader {\\n    border-top: 1px solid #ccc;\\n    padding: 0.6rem 0;\\n}\"}",
+    "UniqueName": "MultisiteApplyMemberValidationFlyout_Vlocity_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/MultisiteApplyMemberValidationFlyout"
+}

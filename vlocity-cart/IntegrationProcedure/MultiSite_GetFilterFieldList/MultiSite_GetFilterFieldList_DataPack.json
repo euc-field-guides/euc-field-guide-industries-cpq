@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "MultiSite_GetFilterFieldList_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "MultiSiteGetFilterFieldList",
+    "OmniProcessElement": "MultiSite_GetFilterFieldList_Element_GetFilterFieldListRA.json",
+    "OmniProcessKey": "MultiSite_GetFilterFieldList",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "MultiSite_GetFilterFieldList_PropertySetConfig.json",
+    "SubType": "GetFilterFieldList",
+    "Type": "MultiSite",
+    "UniqueName": "MultiSite_GetFilterFieldList_Procedure_1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/MultiSite/GetFilterFieldList/Procedure"
+}

@@ -1,0 +1,44 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+                {
+                    "id": 0,
+                    "name": "Parent.type",
+                    "val": "charge"
+                },
+                {
+                    "id": 1,
+                    "name": "Parent.cartId",
+                    "val": "8014W000001zKCBQA2"
+                },
+                {
+                    "id": 2,
+                    "name": "Parent.id",
+                    "val": "8024W000007zAFZQA2"
+                }
+            ],
+            "orderBy": {
+            },
+            "value": {
+            }
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqAssetViewerAdvancedSearch",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqAssetViewerAdvancedSearch/Vlocity/2.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqAssetViewerAdvancedSearch.json",
+    "SampleDataSourceResponse": "{\"filters\":[{\"value\":\"\",\"operator\":\"equals\",\"options\":[{\"label\":\"Less Than\",\"value\":\"lessThan\"},{\"label\":\"Greater Than\",\"value\":\"greaterThan\"},{\"label\":\"Less Than or Equal\",\"value\":\"lessThanOrEqualTo\"},{\"label\":\"Greater Than or Equal\",\"value\":\"greaterThanOrEqualTo\"},{\"label\":\"Equals\",\"value\":\"equals\"},{\"label\":\"Does not Equal\",\"value\":\"doesNotequal\"}],\"index\":1,\"pickListValues\":[],\"type\":\"currency\",\"fieldName\":\"%vlocity_namespace%__RecurringCharge__c\",\"fieldAPIName\":\"%vlocity_namespace%__RecurringCharge__c\",\"fieldLabel\":\"Recurring Charge\",\"objectName\":\"Asset\",\"objectAPIName\":\"Asset\",\"displaySequence\":1},{\"value\":\"\",\"operator\":\"equals\",\"options\":[{\"label\":\"Less Than\",\"value\":\"lessThan\"},{\"label\":\"Greater Than\",\"value\":\"greaterThan\"},{\"label\":\"Less Than or Equal\",\"value\":\"lessThanOrEqualTo\"},{\"label\":\"Greater Than or Equal\",\"value\":\"greaterThanOrEqualTo\"},{\"label\":\"Equals\",\"value\":\"equals\"},{\"label\":\"Does not Equal\",\"value\":\"doesNotequal\"}],\"index\":2,\"pickListValues\":[],\"type\":\"currency\",\"fieldName\":\"%vlocity_namespace%__OneTimeTotal__c\",\"fieldAPIName\":\"%vlocity_namespace%__OneTimeTotal__c\",\"fieldLabel\":\"One Time Total\",\"objectName\":\"Asset\",\"objectAPIName\":\"Asset\",\"displaySequence\":2},{\"value\":\"\",\"operator\":\"contains\",\"options\":[{\"label\":\"Contains\",\"value\":\"contains\"},{\"label\":\"Does not Contain\",\"value\":\"doesNotContain\"},{\"label\":\"Starts With\",\"value\":\"startsWith\"},{\"label\":\"Ends with\",\"value\":\"endsWith\"},{\"label\":\"Equals\",\"value\":\"equals\"},{\"label\":\"Does not Equal\",\"value\":\"doesNotequal\"}],\"index\":3,\"pickListValues\":[],\"type\":\"string\",\"fieldName\":\"Name\",\"fieldAPIName\":\"Name\",\"fieldLabel\":\"Asset Name\",\"objectName\":\"Asset\",\"objectAPIName\":\"Asset\",\"displaySequence\":0}],\"fields\":[{\"pickListValues\":[],\"value\":\"%vlocity_namespace%__RecurringCharge__c\",\"label\":\"Recurring Charge\",\"type\":\"currency\"},{\"pickListValues\":[],\"value\":\"%vlocity_namespace%__OneTimeTotal__c\",\"label\":\"One Time Total\",\"type\":\"currency\"},{\"pickListValues\":[],\"value\":\"Name\",\"label\":\"Asset Name\",\"type\":\"string\"},{\"pickListValues\":[],\"value\":\"IsDeleted\",\"label\":\"Deleted\",\"type\":\"boolean\"},{\"pickListValues\":[],\"value\":\"SystemModstamp\",\"label\":\"System Modstamp\",\"type\":\"datetime\"},{\"pickListValues\":[],\"value\":\"InstallDate\",\"label\":\"Install Date\",\"type\":\"date\"},{\"pickListValues\":[{\"value\":\"Monthly\",\"validFor\":null,\"label\":\"Monthly\",\"defaultValue\":true,\"active\":true},{\"value\":\"Yearly\",\"validFor\":null,\"label\":\"Yearly\",\"defaultValue\":false,\"active\":true}],\"value\":\"%vlocity_namespace%__RecurringUOM__c\",\"label\":\"Recurring UOM\",\"type\":\"picklist\"}]}",
+    "StylingConfiguration": "",
+    "UniqueName": "cpqAssetViewerAdvancedSearch_Vlocity_2",
+    "VersionNumber": 2,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqAssetViewerAdvancedSearch"
+}

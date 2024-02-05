@@ -1,0 +1,48 @@
+[
+    {
+        "FilterGroup": 0,
+        "FormulaExpression": "LIST(allRoots:RootId)",
+        "FormulaResultPath": "abc1",
+        "FormulaSequence": 1,
+        "GlobalKey": "CPQ - Transform To Array8958529350372213",
+        "InputObjectQuerySequence": 0,
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "LinkedObjectSequence": 0,
+        "Name": "CPQTransformToArray",
+        "OmniDataTransformationId": {
+            "Name": "CPQTransformToArray",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/CPQTransformToArray",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 0,
+        "OutputFieldName": "Formula",
+        "OutputObjectName": "Formula",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "FilterGroup": 0,
+        "GlobalKey": "CPQ - Transform To Array5290177137988958",
+        "InputFieldName": "abc1",
+        "InputObjectQuerySequence": 0,
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "LinkedObjectSequence": 0,
+        "Name": "CPQTransformToArray",
+        "OmniDataTransformationId": {
+            "Name": "CPQTransformToArray",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/CPQTransformToArray",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "itemsToProcessList",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+            },
+            "value": {
+            }
+        }
+    },
+    "Description": "CPQ MACD Bulk Flow | Async Processing Status Messages",
+    "IsTrackingEnabled": false,
+    "Name": "cpqMacdBulkInlineMessage",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqMacdBulkInlineMessage/Vlocity/1.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqMacdBulkInlineMessage.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "",
+    "UniqueName": "cpqMacdBulkInlineMessage_Vlocity_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqMacdBulkInlineMessage"
+}

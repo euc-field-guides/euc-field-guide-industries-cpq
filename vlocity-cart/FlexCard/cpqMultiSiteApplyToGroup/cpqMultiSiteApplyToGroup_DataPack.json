@@ -1,0 +1,29 @@
+{
+    "AuthorName": "Vlocity",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+            },
+            "value": {
+            }
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "cpqMultiSiteApplyToGroup",
+    "Namespace": "",
+    "OmniUiCardKey": "cpqMultiSiteApplyToGroup/Vlocity/1.0",
+    "OmniUiCardType": "Child",
+    "OverrideKey": "",
+    "PropertySetConfig": "cpqMultiSiteApplyToGroup.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "",
+    "UniqueName": "cpqMultiSiteApplyToGroup_Vlocity_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/cpqMultiSiteApplyToGroup"
+}

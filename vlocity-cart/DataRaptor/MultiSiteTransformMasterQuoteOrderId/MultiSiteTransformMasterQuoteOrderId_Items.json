@@ -1,0 +1,24 @@
+[
+    {
+        "FilterGroup": 0,
+        "GlobalKey": "MultiSite - TransformMasterQuoteOrderIdCustom9856",
+        "InputFieldName": "records:Id",
+        "InputObjectQuerySequence": 0,
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "LinkedObjectSequence": 0,
+        "Name": "MultiSiteTransformMasterQuoteOrderId",
+        "OmniDataTransformationId": {
+            "Name": "MultiSiteTransformMasterQuoteOrderId",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/MultiSiteTransformMasterQuoteOrderId",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "MasterQuoteOrderId",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    }
+]
