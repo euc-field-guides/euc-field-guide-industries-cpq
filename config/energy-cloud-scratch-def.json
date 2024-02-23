@@ -20,6 +20,9 @@
     "OmniStudioDesigner",
     "OmniStudioMetadata",
     "OmniStudioRuntime",
+    "DocGen",
+    "DocGenInd",
+    "DocGenDesigner",
     "BusinessRulesEngine",
     "ANALYTICSAPPEMBEDDED",
     "EnergyAndUtilitiesCloud",
@@ -73,10 +76,10 @@
       "enableKnowledge": true,
       "enableLightningKnowledge": true
     },
-    "IndustriesSettings": { 
-        "enableBenefitManagementPreference": true,
-        "enableBenefitAndGoalSharingPref": true,
-        "enableCarePlansPreference": true
-      }
+    "IndustriesSettings": {
+      "enableBenefitManagementPreference": true,
+      "enableBenefitAndGoalSharingPref": true,
+      "enableCarePlansPreference": true
+    }
   }
 }

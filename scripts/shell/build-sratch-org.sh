@@ -1,9 +1,9 @@
 #!/bin/sh
 #set -x
  
-echo ===========Output CLI version===========
+echo "===========Output CLI version==========="
 sf --version
-echo =============Output org list===========
+echo "=============Output org list==========="
 sf org list
 echo "--> "
 echo "--> "
@@ -43,7 +43,10 @@ then
 fi
  
 echo "--> "
-echo "--> Scratch org created successfully..."
+echo "--> Scratch org created successfully... Opening org in the browser"
+echo "--> "
+sf org open -o "$ORG_NAME" -p lightning/setup/OmniStudioSettings/home
+
 echo "--> "
 echo "--> Before installing managed packages enable Omnistudio Metadata and disable Package Runtime in the scratch org (currently this feature is not working from definition files)."
 echo "--> "
@@ -78,11 +81,29 @@ echo "--> Salesforce Industries CMT installed successfully..."
 echo "--> "
 echo "--> Setting object permissions"
 echo "--> "
-
 vlocity -sfdx.username "${ORG_NAME}" --nojob runJavaScript -js updateProfile.js
 
 echo "--> "
+echo "--> Assign permissions"
+echo "--> "
+sf org assign permsetlicense -o "$ORG_NAME" -n vlocity_cmt_EAndUCloudSalesPsl
+sf org assign permsetlicense -o "$ORG_NAME" -n vlocity_cmt_EAndUCloudServicePsl
+sf org assign permset -o "$ORG_NAME" \
+  -n EAndUSalesUser \
+  -n EAndUServiceUser
+
+echo "--> "
+echo "--> Setting default org configuration"
+echo "--> "
+vlocity -sfdx.username "${ORG_NAME}" --nojob runApex -apex scripts/apex/setuporg.apex
+
+echo "--> "
 echo "--> Done with that."
+echo "--> "
+echo "--> Deploy and Activate the Base Vlocity DataPacks and Configuration DataPacks included in the Managed Package..."
+echo "--> "
+vlocity -sfdx.username "${ORG_NAME}" --nojob installVlocityInitial
+
 echo "--> "
 echo "--> Attempting to deploy CPQ cart..."
 echo "--> "
@@ -132,7 +153,7 @@ awk '/Error:/ {value = $2} END {print value}' VlocityBuildLog.yaml
 echo "--> "
 echo "--> Deploying metadata"
 
-RES=$(sf project deploy start)
+RES=$(sf project deploy start -o "$ORG_NAME")
 
 if [ "$?" = "1" ]
 then
@@ -141,6 +162,12 @@ then
   read -n 1 -s -r -p "--> Press any key to continue"
   exit
 fi
+
+echo "--> "
+echo "--> Assign permissions to the Industries Cart"
+echo "--> "
+sf org assign permset -o "$ORG_NAME" -n IndustriesCart
+
 
 read -n 1 -s -r -p "--> Press any key to continue"
 echo " "
