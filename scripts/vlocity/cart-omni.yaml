@@ -1,4 +1,5 @@
 projectPath: vlocity
+useSfdxCli: true
 queries:
   - OmniScript
   - IntegrationProcedure

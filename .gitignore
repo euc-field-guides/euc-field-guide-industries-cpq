@@ -5,6 +5,8 @@
 # VBT files
 
 vlocity-temp/
+VlocityBuildLog.yaml
+.npmrc
 
 # Salesforce cache
 .sf/

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Industries_CPQ</members>
@@ -23,5 +23,5 @@
         <members>Quote.CreateOrder</members>
         <name>WebLink</name>
     </types>
-    <version>59.0</version>
+    <version>60.0</version>
 </Package>
